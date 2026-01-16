@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T00:24:40.396Z",
+  "updatedAt": "2026-01-16T10:29:35.273Z",
   "schedule": {
     "Monday": [
       {
@@ -175,15 +175,15 @@
         "page": "champignon-no-majo",
         "image_url": "/wp-content/uploads/2026/01/141294.jpg",
         "time": "18:00"
-      },
+      }
+    ],
+    "Friday": [
       {
         "title": "Hitori no Shita - The Outcast S6",
         "page": "hitori-no-shita-the-outcast-s6",
         "image_url": "/wp-content/uploads/2026/01/151431.jpg",
         "time": "02:00"
-      }
-    ],
-    "Friday": [
+      },
       {
         "title": "Sousou no Frieren",
         "page": "sousou-no-frieren",
