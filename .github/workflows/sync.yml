@@ -1,5 +1,8 @@
 name: Sync SubsPlease Schedule
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "*/5 * * * *"
