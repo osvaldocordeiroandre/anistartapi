@@ -1,5 +1,8 @@
 name: Sync SubsPlease Schedule
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "*/5 * * * *"
@@ -18,7 +21,7 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install deps
+      - name: Install dependencies
         run: npm install
 
       - name: Run sync script
