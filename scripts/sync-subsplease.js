@@ -25,7 +25,7 @@ async function run() {
 
   fs.writeFileSync(FILE, JSON.stringify(output, null, 2));
 
-  execSync("git add public/anistartapi.json");
+  execSync("git add public/Schedule.json");
   execSync('git commit -m "update: subsplease schedule"');
   execSync("git push");
 
