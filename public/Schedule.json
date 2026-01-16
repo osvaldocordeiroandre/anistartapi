@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T14:11:43.294Z",
+  "updatedAt": "2026-01-16T15:17:27.481Z",
   "schedule": {
     "Monday": [
       {
@@ -185,9 +185,9 @@
         "time": "02:00"
       },
       {
-        "title": "Sousou no Frieren",
-        "page": "sousou-no-frieren",
-        "image_url": "/wp-content/uploads/2023/09/138006.jpg",
+        "title": "Sousou no Frieren S2",
+        "page": "sousou-no-frieren-s2",
+        "image_url": "",
         "time": "15:00"
       },
       {
