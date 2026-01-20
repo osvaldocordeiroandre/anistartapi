@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-20T13:09:44.045Z",
+  "updatedAt": "2026-01-20T14:26:09.160Z",
   "items": [
+    {
+      "title": "[SubsPlease] Mayonaka Heart Tune - 03 (1080p) [18AEE19F].mkv",
+      "link": "https://nyaa.si/view/2066720/torrent",
+      "guid": {
+        "_": "Q5KGNIXTBRFMOVKH7PPVCLNU4UYOAZXM",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Tue, 20 Jan 2026 14:01:57 +0000",
+      "category": "Mayonaka Heart Tune - 1080",
+      "subsplease:size": "1.35 GiB"
+    },
     {
       "title": "[SubsPlease] Maou no Musume wa Yasashi Sugiru!! - 04 (1080p) [95539D5C].mkv",
       "link": "https://nyaa.si/view/2066692/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Wed, 14 Jan 2026 16:02:06 +0000",
       "category": "Tamon-kun Ima Docchi - 1080",
       "subsplease:size": "1.34 GiB"
-    },
-    {
-      "title": "[SubsPlease] Shibou Yuugi de Meshi wo Kuu. - 02 (1080p) [8A8A7590].mkv",
-      "link": "https://nyaa.si/view/2064169/torrent",
-      "guid": {
-        "_": "XCQEAI5RN2PI3A4EJHN7UAJXB3ICTGKZ",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Wed, 14 Jan 2026 15:34:28 +0000",
-      "category": "Shibou Yuugi de Meshi wo Kuu. - 1080",
-      "subsplease:size": "1.36 GiB"
     }
   ]
 }
