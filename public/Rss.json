@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-20T14:26:09.160Z",
+  "updatedAt": "2026-01-20T14:56:45.691Z",
   "items": [
+    {
+      "title": "[SubsPlease] Isekai no Sata wa Shachiku Shidai - 03 (1080p) [F0E936D2].mkv",
+      "link": "https://nyaa.si/view/2066742/torrent",
+      "guid": {
+        "_": "6I7MS2G3ZHQSL6L3JZM2BC6GC2SZ7EQS",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Tue, 20 Jan 2026 14:32:00 +0000",
+      "category": "Isekai no Sata wa Shachiku Shidai - 1080",
+      "subsplease:size": "1.35 GiB"
+    },
     {
       "title": "[SubsPlease] Mayonaka Heart Tune - 03 (1080p) [18AEE19F].mkv",
       "link": "https://nyaa.si/view/2066720/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Wed, 14 Jan 2026 17:01:56 +0000",
       "category": "Dragon Raja S2 (JP) - 1080",
       "subsplease:size": "1.35 GiB"
-    },
-    {
-      "title": "[SubsPlease] Tamon-kun Ima Docchi - 03 (1080p) [287CDC0D].mkv",
-      "link": "https://nyaa.si/view/2064198/torrent",
-      "guid": {
-        "_": "AO5XS5PVBYJALCNHIM72TJJGID6G5FNL",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Wed, 14 Jan 2026 16:02:06 +0000",
-      "category": "Tamon-kun Ima Docchi - 1080",
-      "subsplease:size": "1.34 GiB"
     }
   ]
 }
