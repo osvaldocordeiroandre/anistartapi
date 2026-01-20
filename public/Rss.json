@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-20T06:46:45.980Z",
+  "updatedAt": "2026-01-20T13:09:44.045Z",
   "items": [
+    {
+      "title": "[SubsPlease] Maou no Musume wa Yasashi Sugiru!! - 04 (1080p) [95539D5C].mkv",
+      "link": "https://nyaa.si/view/2066692/torrent",
+      "guid": {
+        "_": "KEKGGMGVXGYOBQF5GBDPKI4PBW5XHZRW",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Tue, 20 Jan 2026 13:01:51 +0000",
+      "category": "Maou no Musume wa Yasashi Sugiru!! - 1080",
+      "subsplease:size": "1.35 GiB"
+    },
     {
       "title": "[SubsPlease] Hime-sama Goumon no Jikan desu - 14 (1080p) [F6D6716F].mkv",
       "link": "https://nyaa.si/view/2066469/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Wed, 14 Jan 2026 15:34:28 +0000",
       "category": "Shibou Yuugi de Meshi wo Kuu. - 1080",
       "subsplease:size": "1.36 GiB"
-    },
-    {
-      "title": "[SubsPlease] Oshi no Ko S3 - 01 (1080p) [8E2B58B0].mkv",
-      "link": "https://nyaa.si/view/2064139/torrent",
-      "guid": {
-        "_": "N2IBVQQFKAM2HEC6QD2EHA6H6OKEHLAV",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Wed, 14 Jan 2026 15:08:26 +0000",
-      "category": "Oshi no Ko S3 - 1080",
-      "subsplease:size": "1.35 GiB"
     }
   ]
 }
