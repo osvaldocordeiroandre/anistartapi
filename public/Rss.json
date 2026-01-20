@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-01-20T14:56:45.691Z",
+  "updatedAt": "2026-01-20T15:30:50.892Z",
   "items": [
+    {
+      "title": "[SubsPlease] Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. - 03 (1080p) [C1EAF12F].mkv",
+      "link": "https://nyaa.si/view/2066773/torrent",
+      "guid": {
+        "_": "BYDOGCOZKLH5G23HNGFXMP5NAYN5ETJY",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Tue, 20 Jan 2026 15:03:57 +0000",
+      "category": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. - 1080",
+      "subsplease:size": "1.36 GiB"
+    },
+    {
+      "title": "[SubsPlease] Yoroi Shin Den Samurai Troopers - 03 (1080p) [FCB81F63].mkv",
+      "link": "https://nyaa.si/view/2066772/torrent",
+      "guid": {
+        "_": "N3HBOAT2VRBXDYRA7J2IZYXPKD336RLH",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Tue, 20 Jan 2026 15:03:02 +0000",
+      "category": "Yoroi Shin Den Samurai Troopers - 1080",
+      "subsplease:size": "1.37 GiB"
+    },
     {
       "title": "[SubsPlease] Isekai no Sata wa Shachiku Shidai - 03 (1080p) [F0E936D2].mkv",
       "link": "https://nyaa.si/view/2066742/torrent",
@@ -624,32 +650,6 @@
       "pubDate": "Thu, 15 Jan 2026 14:32:17 +0000",
       "category": "MF Ghost - 1080",
       "subsplease:size": "1.34 GiB"
-    },
-    {
-      "title": "[SubsPlease] Yuusha-kei ni Shosu - 02 (1080p) [00861CA3].mkv",
-      "link": "https://nyaa.si/view/2064496/torrent",
-      "guid": {
-        "_": "UIXZCUPOWNZEYKE5TMHFB36ZTHHIFS6I",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Thu, 15 Jan 2026 14:05:01 +0000",
-      "category": "Yuusha-kei ni Shosu - 1080",
-      "subsplease:size": "1.43 GiB"
-    },
-    {
-      "title": "[SubsPlease] Dragon Raja S2 (JP) - 14 (1080p) [6CB2730E].mkv",
-      "link": "https://nyaa.si/view/2064235/torrent",
-      "guid": {
-        "_": "L55LHHPYPBINY2KGIQ67CHGZRWQHH6Z3",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Wed, 14 Jan 2026 17:01:56 +0000",
-      "category": "Dragon Raja S2 (JP) - 1080",
-      "subsplease:size": "1.35 GiB"
     }
   ]
 }
