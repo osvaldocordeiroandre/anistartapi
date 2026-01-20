@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-20T15:30:50.892Z",
+  "updatedAt": "2026-01-20T17:58:59.554Z",
   "items": [
+    {
+      "title": "[SubsPlease] Arne no Jikenbo - 03 (1080p) [23F3DF58].mkv",
+      "link": "https://nyaa.si/view/2066838/torrent",
+      "guid": {
+        "_": "FZVRAGBQBKPKPFLQOLGZXSQJ3CNDSQ5N",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Tue, 20 Jan 2026 17:58:44 +0000",
+      "category": "Arne no Jikenbo - 1080",
+      "subsplease:size": "1.3 GiB"
+    },
     {
       "title": "[SubsPlease] Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. - 03 (1080p) [C1EAF12F].mkv",
       "link": "https://nyaa.si/view/2066773/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Thu, 15 Jan 2026 15:01:59 +0000",
       "category": "Eris no Seihai - 1080",
       "subsplease:size": "1.35 GiB"
-    },
-    {
-      "title": "[SubsPlease] MF Ghost - 27 (1080p) [BBD033CA].mkv",
-      "link": "https://nyaa.si/view/2064510/torrent",
-      "guid": {
-        "_": "BLKJHAKTX2V5IY5YLLDL2EVIYEDFFEJR",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Thu, 15 Jan 2026 14:32:17 +0000",
-      "category": "MF Ghost - 1080",
-      "subsplease:size": "1.34 GiB"
     }
   ]
 }
