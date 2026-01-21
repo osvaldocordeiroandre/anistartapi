@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-21T15:43:18.656Z",
+  "updatedAt": "2026-01-21T16:04:33.705Z",
   "items": [
+    {
+      "title": "[SubsPlease] Tamon-kun Ima Docchi - 04 (1080p) [4C2570FE].mkv",
+      "link": "https://nyaa.si/view/2067269/torrent",
+      "guid": {
+        "_": "2YI7JJ5RJGAZO6PSKKVXFDKUMMZ7YUOP",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Wed, 21 Jan 2026 16:01:58 +0000",
+      "category": "Tamon-kun Ima Docchi - 1080",
+      "subsplease:size": "1.35 GiB"
+    },
     {
       "title": "[SubsPlease] Shibou Yuugi de Meshi wo Kuu. - 03 (1080p) [B0F83B89].mkv",
       "link": "https://nyaa.si/view/2067234/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Fri, 16 Jan 2026 01:15:41 +0000",
       "category": "Fureru. - 1080",
       "subsplease:size": "6.04 GiB"
-    },
-    {
-      "title": "[SubsPlease] Toumei Otoko to Ningen Onna - 02 (1080p) [BDC1707F].mkv",
-      "link": "https://nyaa.si/view/2064719/torrent",
-      "guid": {
-        "_": "7VC5MVKA7XUJ26VFQDGVJBGMFYUFEYUG",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Thu, 15 Jan 2026 22:11:58 +0000",
-      "category": "Toumei Otoko to Ningen Onna - 1080",
-      "subsplease:size": "1.35 GiB"
     }
   ]
 }
