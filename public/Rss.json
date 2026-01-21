@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-21T16:04:33.705Z",
+  "updatedAt": "2026-01-21T17:07:02.515Z",
   "items": [
+    {
+      "title": "[SubsPlease] Dragon Raja S2 (JP) - 15 (1080p) [5B6F4D78].mkv",
+      "link": "https://nyaa.si/view/2067314/torrent",
+      "guid": {
+        "_": "XXQPAPFUHYPJTMUDY3K4342L6K2BCQYX",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Wed, 21 Jan 2026 17:01:51 +0000",
+      "category": "Dragon Raja S2 (JP) - 1080",
+      "subsplease:size": "1.35 GiB"
+    },
     {
       "title": "[SubsPlease] Tamon-kun Ima Docchi - 04 (1080p) [4C2570FE].mkv",
       "link": "https://nyaa.si/view/2067269/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Fri, 16 Jan 2026 15:05:34 +0000",
       "category": "Sousou no Frieren S2 - 1080",
       "subsplease:size": "1.37 GiB"
-    },
-    {
-      "title": "[SubsPlease] Fureru. (1080p) [987CB6A9].mkv",
-      "link": "https://nyaa.si/view/2064774/torrent",
-      "guid": {
-        "_": "YXWDVI7YA5WEWNF5DREHVT7JTJEHIWFS",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Fri, 16 Jan 2026 01:15:41 +0000",
-      "category": "Fureru. - 1080",
-      "subsplease:size": "6.04 GiB"
     }
   ]
 }
