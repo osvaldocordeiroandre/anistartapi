@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-01-21T13:15:13.408Z",
+  "updatedAt": "2026-01-21T15:09:51.277Z",
   "items": [
+    {
+      "title": "[SubsPlease] Odayaka Kizoku no Kyuuka no Susume. - 03 (1080p) [D65D5A49].mkv",
+      "link": "https://nyaa.si/view/2067205/torrent",
+      "guid": {
+        "_": "GBRWFFKSH2TF2M7S2YL4CBRHWA4UFDIA",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Wed, 21 Jan 2026 15:06:36 +0000",
+      "category": "Odayaka Kizoku no Kyuuka no Susume. - 1080",
+      "subsplease:size": "1.35 GiB"
+    },
+    {
+      "title": "[SubsPlease] Yuusha Party wo Oidasareta Kiyoubinbou - 04 (1080p) [AEE0831A].mkv",
+      "link": "https://nyaa.si/view/2067204/torrent",
+      "guid": {
+        "_": "X44V2VYW62X4DNO7RNSTFRJCJ7REUK2L",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Wed, 21 Jan 2026 15:06:32 +0000",
+      "category": "Yuusha Party wo Oidasareta Kiyoubinbou - 1080",
+      "subsplease:size": "1.35 GiB"
+    },
+    {
+      "title": "[SubsPlease] Oshi no Ko S3 - 02 (1080p) [C9DF9980].mkv",
+      "link": "https://nyaa.si/view/2067195/torrent",
+      "guid": {
+        "_": "GLQIKMSUZKMBI67G5LJMALBLVBXO6ADX",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Wed, 21 Jan 2026 15:03:45 +0000",
+      "category": "Oshi no Ko S3 - 1080",
+      "subsplease:size": "1.38 GiB"
+    },
     {
       "title": "[SubsPlease] 29-sai Dokushin Chuuken Boukensha no Nichijou - 03 (1080p) [6654F766].mkv",
       "link": "https://nyaa.si/view/2067116/torrent",
@@ -611,45 +650,6 @@
       "pubDate": "Thu, 15 Jan 2026 18:01:59 +0000",
       "category": "Champignon no Majo - 1080",
       "subsplease:size": "1.38 GiB"
-    },
-    {
-      "title": "[SubsPlease] Douse, Koishite Shimaunda S2 - 02 (1080p) [FF219907].mkv",
-      "link": "https://nyaa.si/view/2064620/torrent",
-      "guid": {
-        "_": "F726VQDYG6BLWASYEEC4JJPR7FULWEJC",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Thu, 15 Jan 2026 17:01:47 +0000",
-      "category": "Douse, Koishite Shimaunda S2 - 1080",
-      "subsplease:size": "1.38 GiB"
-    },
-    {
-      "title": "[SubsPlease] Jujutsu Kaisen - 50 (1080p) [F12C66EE].mkv",
-      "link": "https://nyaa.si/view/2064604/torrent",
-      "guid": {
-        "_": "PU2VNFDHEI7OCNXKH3XQGLRMCSUYZ5N6",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Thu, 15 Jan 2026 16:32:13 +0000",
-      "category": "Jujutsu Kaisen - 1080",
-      "subsplease:size": "1.36 GiB"
-    },
-    {
-      "title": "[SubsPlease] Omagoto - 02 (1080p) [6794D5B6].mkv",
-      "link": "https://nyaa.si/view/2064583/torrent",
-      "guid": {
-        "_": "6HKP2MN3GWNI7GYKDZQDAPV2BZ63IYER",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Thu, 15 Jan 2026 16:01:43 +0000",
-      "category": "Omagoto - 1080",
-      "subsplease:size": "1.35 GiB"
     }
   ]
 }
