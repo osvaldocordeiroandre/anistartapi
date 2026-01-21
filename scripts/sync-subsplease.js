@@ -8,6 +8,7 @@ const RSS_FILE = path.resolve("public/Rss.json");
 
 const SCHEDULE_URL = "https://subsplease.org/api/?f=schedule&tz=Etc/GMT";
 const RSS_URL = "https://subsplease.org/rss/?t&r=1080";
+const VERCEL_SYNC_FILE = path.resolve(".vercel-sync");
 
 async function syncSchedule() {
   const res = await fetch(SCHEDULE_URL);
@@ -70,7 +71,9 @@ async function run() {
     return;
   }
 
-  execSync("git add public/*.json");
+  fs.writeFileSync(VERCEL_SYNC_FILE, `Last sync: ${new Date().toISOString()}`);
+
+  execSync("git add public/*.json .vercel-sync");
   execSync('git commit -m "chore: sync subsplease data"');
   execSync("git push");
 
