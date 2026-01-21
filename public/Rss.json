@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-21T15:09:51.277Z",
+  "updatedAt": "2026-01-21T15:43:18.656Z",
   "items": [
+    {
+      "title": "[SubsPlease] Shibou Yuugi de Meshi wo Kuu. - 03 (1080p) [B0F83B89].mkv",
+      "link": "https://nyaa.si/view/2067234/torrent",
+      "guid": {
+        "_": "DHW7ABNMAJCUNYHPWJASDXYFPWLJI6MG",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Wed, 21 Jan 2026 15:32:11 +0000",
+      "category": "Shibou Yuugi de Meshi wo Kuu. - 1080",
+      "subsplease:size": "1.36 GiB"
+    },
     {
       "title": "[SubsPlease] Odayaka Kizoku no Kyuuka no Susume. - 03 (1080p) [D65D5A49].mkv",
       "link": "https://nyaa.si/view/2067205/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Thu, 15 Jan 2026 22:11:58 +0000",
       "category": "Toumei Otoko to Ningen Onna - 1080",
       "subsplease:size": "1.35 GiB"
-    },
-    {
-      "title": "[SubsPlease] Champignon no Majo - 03 (1080p) [63F1AB43].mkv",
-      "link": "https://nyaa.si/view/2064666/torrent",
-      "guid": {
-        "_": "C6HKQ7RMF5L2IW2GBWKI37PT3EFWYNCB",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Thu, 15 Jan 2026 18:01:59 +0000",
-      "category": "Champignon no Majo - 1080",
-      "subsplease:size": "1.38 GiB"
     }
   ]
 }
