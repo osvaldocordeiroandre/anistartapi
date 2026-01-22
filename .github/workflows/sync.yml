@@ -1,4 +1,4 @@
-name: Sync SubsPlease Schedule
+name: Sync SubsPlease Data
 
 permissions:
   contents: write
@@ -24,11 +24,17 @@ jobs:
       - name: Run sync script
         run: node scripts/sync-subsplease.js
 
-      - name: Commit and push if changed
+      - name: Commit JSON changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add public/*.json
-          git diff --cached --quiet || git commit -m "chore: update schedule"
+          git add public/*.json .vercel-sync
+          git diff --cached --quiet || git commit -m "chore: update subsplease data"
           git push
+
+      - name: Build project
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        run: npm run deploy
