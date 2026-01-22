@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-21T17:07:02.515Z",
+  "updatedAt": "2026-01-22T14:04:23.793Z",
   "items": [
+    {
+      "title": "[SubsPlease] Yuusha-kei ni Shosu - 03 (1080p) [19D3AC1A].mkv",
+      "link": "https://nyaa.si/view/2067509/torrent",
+      "guid": {
+        "_": "PEYGGXTAH5BBG2VIC6KYZTG3YN5TZLXX",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Thu, 22 Jan 2026 14:01:46 +0000",
+      "category": "Yuusha-kei ni Shosu - 1080",
+      "subsplease:size": "1.39 GiB"
+    },
     {
       "title": "[SubsPlease] Dragon Raja S2 (JP) - 15 (1080p) [5B6F4D78].mkv",
       "link": "https://nyaa.si/view/2067314/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Fri, 16 Jan 2026 16:32:13 +0000",
       "category": "Dark Moon - Tsuki no Saidan - 1080",
       "subsplease:size": "1.35 GiB"
-    },
-    {
-      "title": "[SubsPlease] Sousou no Frieren S2 - 01 (1080p) [4277EF46].mkv",
-      "link": "https://nyaa.si/view/2064918/torrent",
-      "guid": {
-        "_": "6R6J5PCF4NCHKCVXG6FIIJBNKJMBZE2P",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Fri, 16 Jan 2026 15:05:34 +0000",
-      "category": "Sousou no Frieren S2 - 1080",
-      "subsplease:size": "1.37 GiB"
     }
   ]
 }
