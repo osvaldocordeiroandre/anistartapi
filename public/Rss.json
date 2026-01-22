@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-01-22T14:04:23.793Z",
+  "updatedAt": "2026-01-22T15:04:19.176Z",
   "items": [
+    {
+      "title": "[SubsPlease] Toumei Otoko to Ningen Onna - 03 (1080p) [CD808B8F].mkv",
+      "link": "https://nyaa.si/view/2067562/torrent",
+      "guid": {
+        "_": "R5MXSAGQP5DWVEJ467JLJJZZNCKYYHPE",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Thu, 22 Jan 2026 15:03:40 +0000",
+      "category": "Toumei Otoko to Ningen Onna - 1080",
+      "subsplease:size": "1.35 GiB"
+    },
+    {
+      "title": "[SubsPlease] Eris no Seihai - 03 (1080p) [F9EADDE2].mkv",
+      "link": "https://nyaa.si/view/2067555/torrent",
+      "guid": {
+        "_": "KS52EQA2A2TLSR5OWBFP37KZXZP4GB2P",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Thu, 22 Jan 2026 15:02:28 +0000",
+      "category": "Eris no Seihai - 1080",
+      "subsplease:size": "1.36 GiB"
+    },
     {
       "title": "[SubsPlease] Yuusha-kei ni Shosu - 03 (1080p) [19D3AC1A].mkv",
       "link": "https://nyaa.si/view/2067509/torrent",
@@ -624,32 +650,6 @@
       "pubDate": "Fri, 16 Jan 2026 17:48:56 +0000",
       "category": "Enen no Shouboutai S3 - 1080",
       "subsplease:size": "1.39 GiB"
-    },
-    {
-      "title": "[SubsPlease] Hell Mode - 02 (1080p) [B2AFED42].mkv",
-      "link": "https://nyaa.si/view/2064974/torrent",
-      "guid": {
-        "_": "PRD3PPGS27YA2JKTGMY3DUJM6RINUWK5",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Fri, 16 Jan 2026 16:38:46 +0000",
-      "category": "Hell Mode - 1080",
-      "subsplease:size": "924.5 MiB"
-    },
-    {
-      "title": "[SubsPlease] Dark Moon - Tsuki no Saidan - 02 (1080p) [B85B372E].mkv",
-      "link": "https://nyaa.si/view/2064958/torrent",
-      "guid": {
-        "_": "KUBFGS7N4634MILYZJ5NMK7MCLCQEFSE",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Fri, 16 Jan 2026 16:32:13 +0000",
-      "category": "Dark Moon - Tsuki no Saidan - 1080",
-      "subsplease:size": "1.35 GiB"
     }
   ]
 }
