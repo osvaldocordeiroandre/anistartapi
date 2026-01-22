@@ -1,4 +1,4 @@
-name: Sync SubsPlease Data
+name: Sync and Deploy GitHub Pages
 
 permissions:
   contents: write
@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  sync:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -28,7 +28,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
           git add public/*.json .vercel-sync
           git diff --cached --quiet || git commit -m "chore: update subsplease data"
           git push
@@ -38,6 +37,8 @@ jobs:
 
       - name: Configure git auth for gh-pages
         run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
       - name: Deploy to GitHub Pages
