@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-22T16:47:30.341Z",
+  "updatedAt": "2026-01-22T17:17:01.688Z",
   "items": [
+    {
+      "title": "[SubsPlease] Douse, Koishite Shimaunda S2 - 03 (1080p) [72B048B9].mkv",
+      "link": "https://nyaa.si/view/2067649/torrent",
+      "guid": {
+        "_": "Y6ZGFUCJPL3T56HI6TLEQ2WUHVTLS2J4",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Thu, 22 Jan 2026 17:02:04 +0000",
+      "category": "Douse, Koishite Shimaunda S2 - 1080",
+      "subsplease:size": "1.38 GiB"
+    },
     {
       "title": "[SubsPlease] Jujutsu Kaisen - 51 (1080p) [84C776B4].mkv",
       "link": "https://nyaa.si/view/2067627/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Sat, 17 Jan 2026 13:03:39 +0000",
       "category": "Tensei shitara Dragon no Tamago datta - 1080",
       "subsplease:size": "922.68 MiB"
-    },
-    {
-      "title": "[SubsPlease] Detective Conan - 1189 (1080p) [2DE63185].mkv",
-      "link": "https://nyaa.si/view/2065318/torrent",
-      "guid": {
-        "_": "4TAWRQ4NQW7CXOQNGRBAMOOP2PWJ2VSN",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sat, 17 Jan 2026 12:31:14 +0000",
-      "category": "Detective Conan - 1080",
-      "subsplease:size": "1.4 GiB"
     }
   ]
 }
