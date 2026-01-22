@@ -1,0 +1,379 @@
+{
+  "updatedAt": "2026-01-22T06:46:48.563Z",
+  "schedule": {
+    "Monday": [
+      {
+        "title": "Kirei ni Shite Moraemasu ka.",
+        "page": "kirei-ni-shite-moraemasu-ka",
+        "image_url": "/wp-content/uploads/2026/01/154234.jpg",
+        "time": "13:30"
+      },
+      {
+        "title": "Vigilante - Boku no Hero Academia Illegals S2",
+        "page": "vigilante-boku-no-hero-academia-illegals-s2",
+        "image_url": "/wp-content/uploads/2026/01/154049.jpg",
+        "time": "14:00"
+      },
+      {
+        "title": "Golden Kamuy",
+        "page": "golden-kamuy",
+        "image_url": "/wp-content/uploads/2020/10/90880.jpg",
+        "time": "14:30"
+      },
+      {
+        "title": "Osananajimi to wa Love Comedy ni Naranai",
+        "page": "osananajimi-to-wa-love-comedy-ni-naranai",
+        "image_url": "/wp-content/uploads/2026/01/153502.jpg",
+        "time": "15:30"
+      },
+      {
+        "title": "Hime-sama Goumon no Jikan desu",
+        "page": "hime-sama-goumon-no-jikan-desu",
+        "image_url": "/wp-content/uploads/2024/01/139398.jpg",
+        "time": "16:00"
+      }
+    ],
+    "Tuesday": [
+      {
+        "title": "Maou no Musume wa Yasashi Sugiru!!",
+        "page": "maou-no-musume-wa-yasashi-sugiru",
+        "image_url": "/wp-content/uploads/2026/01/154083.jpg",
+        "time": "13:00"
+      },
+      {
+        "title": "Mayonaka Heart Tune",
+        "page": "mayonaka-heart-tune",
+        "image_url": "/wp-content/uploads/2026/01/152823.jpg",
+        "time": "14:00"
+      },
+      {
+        "title": "Isekai no Sata wa Shachiku Shidai",
+        "page": "isekai-no-sata-wa-shachiku-shidai",
+        "image_url": "/wp-content/uploads/2026/01/153806.jpg",
+        "time": "14:30"
+      },
+      {
+        "title": "Yoroi Shin Den Samurai Troopers",
+        "page": "yoroi-shin-den-samurai-troopers",
+        "image_url": "/wp-content/uploads/2026/01/153952-1.jpg",
+        "time": "15:00"
+      },
+      {
+        "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+        "page": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita",
+        "image_url": "/wp-content/uploads/2026/01/152828.jpg",
+        "time": "15:00"
+      },
+      {
+        "title": "Arne no Jikenbo",
+        "page": "arne-no-jikenbo",
+        "image_url": "/wp-content/uploads/2026/01/152731.jpg",
+        "time": "17:30"
+      }
+    ],
+    "Wednesday": [
+      {
+        "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+        "page": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
+        "image_url": "/wp-content/uploads/2026/01/154087.jpg",
+        "time": "13:00"
+      },
+      {
+        "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
+        "page": "okiraku-ryoushu-no-tanoshii-ryouchi-bouei",
+        "image_url": "/wp-content/uploads/2026/01/153908.jpg",
+        "time": "13:00"
+      },
+      {
+        "title": "Odayaka Kizoku no Kyuuka no Susume.",
+        "page": "odayaka-kizoku-no-kyuuka-no-susume",
+        "image_url": "/wp-content/uploads/2026/01/152396.jpg",
+        "time": "15:00"
+      },
+      {
+        "title": "Oshi no Ko S3",
+        "page": "oshi-no-ko-s3",
+        "image_url": "/wp-content/uploads/2026/01/153329.jpg",
+        "time": "15:00"
+      },
+      {
+        "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
+        "page": "yuusha-party-wo-oidasareta-kiyoubinbou",
+        "image_url": "/wp-content/uploads/2026/01/153135.jpg",
+        "time": "15:00"
+      },
+      {
+        "title": "Shibou Yuugi de Meshi wo Kuu.",
+        "page": "shibou-yuugi-de-meshi-wo-kuu",
+        "image_url": "/wp-content/uploads/2026/01/153630.jpg",
+        "time": "15:30"
+      },
+      {
+        "title": "Tamon-kun Ima Docchi",
+        "page": "tamon-kun-ima-docchi",
+        "image_url": "/wp-content/uploads/2026/01/153320.jpg",
+        "time": "16:00"
+      },
+      {
+        "title": "Dragon Raja S2 (JP)",
+        "page": "dragon-raja-s2",
+        "image_url": "/wp-content/uploads/2025/07/147273.jpg",
+        "time": "17:00"
+      }
+    ],
+    "Thursday": [
+      {
+        "title": "Yuusha-kei ni Shosu",
+        "page": "yuusha-kei-ni-shosu",
+        "image_url": "/wp-content/uploads/2026/01/151911.jpg",
+        "time": "14:00"
+      },
+      {
+        "title": "MF Ghost",
+        "page": "mf-ghost",
+        "image_url": "/wp-content/uploads/2023/09/132348.jpg",
+        "time": "14:30"
+      },
+      {
+        "title": "Eris no Seihai",
+        "page": "eris-no-seihai",
+        "image_url": "/wp-content/uploads/2026/01/153574.jpg",
+        "time": "15:00"
+      },
+      {
+        "title": "Toumei Otoko to Ningen Onna",
+        "page": "toumei-otoko-to-ningen-onna",
+        "image_url": "/wp-content/uploads/2026/01/152494.jpg",
+        "time": "15:00"
+      },
+      {
+        "title": "Mato Seihei no Slave S2",
+        "page": "mato-seihei-no-slave-s2",
+        "image_url": "/wp-content/uploads/2026/01/148737.jpg",
+        "time": "15:30"
+      },
+      {
+        "title": "Omagoto",
+        "page": "omagoto",
+        "image_url": "/wp-content/uploads/2026/01/153435.jpg",
+        "time": "16:00"
+      },
+      {
+        "title": "Jujutsu Kaisen",
+        "page": "jujutsu-kaisen",
+        "image_url": "/wp-content/uploads/2020/10/109222.jpg",
+        "time": "16:30"
+      },
+      {
+        "title": "Douse, Koishite Shimaunda S2",
+        "page": "douse-koishite-shimaunda-s2",
+        "image_url": "/wp-content/uploads/2026/01/153719.jpg",
+        "time": "17:00"
+      },
+      {
+        "title": "Champignon no Majo",
+        "page": "champignon-no-majo",
+        "image_url": "/wp-content/uploads/2026/01/152613-1.jpg",
+        "time": "18:00"
+      }
+    ],
+    "Friday": [
+      {
+        "title": "Hitori no Shita - The Outcast S6",
+        "page": "hitori-no-shita-the-outcast-s6",
+        "image_url": "/wp-content/uploads/2026/01/151431.jpg",
+        "time": "02:00"
+      },
+      {
+        "title": "Sousou no Frieren S2",
+        "page": "sousou-no-frieren-s2",
+        "image_url": "/wp-content/uploads/2026/01/154528.jpg",
+        "time": "15:00"
+      },
+      {
+        "title": "Dark Moon - Tsuki no Saidan",
+        "page": "dark-moon-tsuki-no-saidan",
+        "image_url": "/wp-content/uploads/2026/01/154695.jpg",
+        "time": "16:30"
+      },
+      {
+        "title": "Hell Mode",
+        "page": "hell-mode",
+        "image_url": "/wp-content/uploads/2026/01/152479.jpg",
+        "time": "16:35"
+      },
+      {
+        "title": "Enen no Shouboutai S3",
+        "page": "enen-no-shouboutai-s3",
+        "image_url": "/wp-content/uploads/2025/04/146836.jpg",
+        "time": "17:30"
+      }
+    ],
+    "Saturday": [
+      {
+        "title": "Ao no Miburo S2",
+        "page": "ao-no-miburo-s2",
+        "image_url": "/wp-content/uploads/2026/01/151603.jpg",
+        "time": "09:30"
+      },
+      {
+        "title": "Detective Conan",
+        "page": "detective-conan",
+        "image_url": "/wp-content/uploads/2020/10/75199.jpg",
+        "time": "12:30"
+      },
+      {
+        "title": "Tensei shitara Dragon no Tamago datta",
+        "page": "tensei-shitara-dragon-no-tamago-datta",
+        "image_url": "/wp-content/uploads/2026/01/154235.jpg",
+        "time": "13:00"
+      },
+      {
+        "title": "Dead Account",
+        "page": "dead-account",
+        "image_url": "/wp-content/uploads/2026/01/154192.jpg",
+        "time": "15:00"
+      },
+      {
+        "title": "Trigun Stargaze",
+        "page": "trigun-stargaze",
+        "image_url": "/wp-content/uploads/2026/01/154541.jpg",
+        "time": "15:00"
+      },
+      {
+        "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+        "page": "jingai-kyoushitsu-no-ningengirai-kyoushi",
+        "image_url": "/wp-content/uploads/2026/01/151933.jpg",
+        "time": "15:30"
+      },
+      {
+        "title": "Fumetsu no Anata e S3",
+        "page": "fumetsu-no-anata-e-s3",
+        "image_url": "/wp-content/uploads/2025/10/152364.jpg",
+        "time": "15:45"
+      },
+      {
+        "title": "Fate Strange Fake",
+        "page": "fate-strange-fake",
+        "image_url": "/wp-content/uploads/2024/12/136845.jpg",
+        "time": "16:00"
+      },
+      {
+        "title": "GNOSIA",
+        "page": "gnosia",
+        "image_url": "/wp-content/uploads/2025/10/152352.jpg",
+        "time": "16:30"
+      },
+      {
+        "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+        "page": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
+        "image_url": "/wp-content/uploads/2025/10/152139.jpg",
+        "time": "17:00"
+      },
+      {
+        "title": "Yuusha no Kuzu",
+        "page": "yuusha-no-kuzu",
+        "image_url": "/wp-content/uploads/2026/01/154043.jpg",
+        "time": "17:00"
+      }
+    ],
+    "Sunday": [
+      {
+        "title": "Kimi to Idol Precure",
+        "page": "kimi-to-idol-precure",
+        "image_url": "/wp-content/uploads/2025/02/147358.jpg",
+        "time": "01:30"
+      },
+      {
+        "title": "SI-VIS - The Sound of Heroes",
+        "page": "si-vis-the-sound-of-heroes",
+        "image_url": "/wp-content/uploads/2025/10/151178.jpg",
+        "time": "02:00"
+      },
+      {
+        "title": "The Daily Life of the Immortal King S5",
+        "page": "the-daily-life-of-the-immortal-king-s5",
+        "image_url": "/wp-content/uploads/2025/12/152353.jpg",
+        "time": "02:30"
+      },
+      {
+        "title": "Digimon Beatbreak",
+        "page": "digimon-beatbreak",
+        "image_url": "/wp-content/uploads/2025/10/151242.jpg",
+        "time": "03:00"
+      },
+      {
+        "title": "Uruwashi no Yoi no Tsuki",
+        "page": "uruwashi-no-yoi-no-tsuki",
+        "image_url": "/wp-content/uploads/2026/01/154569.jpg",
+        "time": "08:00"
+      },
+      {
+        "title": "Seihantai na Kimi to Boku",
+        "page": "seihantai-na-kimi-to-boku",
+        "image_url": "/wp-content/uploads/2026/01/154457.jpg",
+        "time": "08:30"
+      },
+      {
+        "title": "Kaya-chan wa Kowakunai",
+        "page": "kaya-chan-wa-kowakunai",
+        "image_url": "/wp-content/uploads/2026/01/153705.jpg",
+        "time": "09:00"
+      },
+      {
+        "title": "Hanazakari no Kimitachi e",
+        "page": "hanazakari-no-kimitachi-e",
+        "image_url": "/wp-content/uploads/2026/01/152041.jpg",
+        "time": "14:00"
+      },
+      {
+        "title": "Majutsushi Kunon wa Mieteiru",
+        "page": "majutsushi-kunon-wa-mieteiru",
+        "image_url": "/wp-content/uploads/2026/01/154459.jpg",
+        "time": "14:00"
+      },
+      {
+        "title": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
+        "page": "akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru",
+        "image_url": "/wp-content/uploads/2026/01/151284.jpg",
+        "time": "14:30"
+      },
+      {
+        "title": "Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru",
+        "page": "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru",
+        "image_url": "/wp-content/uploads/2026/01/153722.jpg",
+        "time": "15:00"
+      },
+      {
+        "title": "Jigokuraku",
+        "page": "jigokuraku",
+        "image_url": "/wp-content/uploads/2023/04/134936.jpg",
+        "time": "15:15"
+      },
+      {
+        "title": "Goumon Baito-kun no Nichijou",
+        "page": "goumon-baito-kun-no-nichijou",
+        "image_url": "/wp-content/uploads/2026/01/153380.jpg",
+        "time": "15:30"
+      },
+      {
+        "title": "Ikoku Nikki",
+        "page": "ikoku-nikki",
+        "image_url": "/wp-content/uploads/2026/01/154233.jpg",
+        "time": "15:30"
+      },
+      {
+        "title": "Hikuidori - Ushuu Boro Tobi-gumi",
+        "page": "hikuidori-ushuu-boro-tobi-gumi",
+        "image_url": "/wp-content/uploads/2026/01/151615.jpg",
+        "time": "16:00"
+      },
+      {
+        "title": "Yami Shibai 16",
+        "page": "yami-shibai-16",
+        "image_url": "/wp-content/uploads/2026/01/154215.jpg",
+        "time": "18:20"
+      }
+    ]
+  }
+}
