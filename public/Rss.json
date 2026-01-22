@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-22T18:43:17.869Z",
+  "updatedAt": "2026-01-22T22:20:09.592Z",
   "items": [
+    {
+      "title": "[SubsPlease] MF Ghost - 28 (1080p) [2B25CE8B].mkv",
+      "link": "https://nyaa.si/view/2067760/torrent",
+      "guid": {
+        "_": "XJDQ6NW2CE3ZR2DS47Y2TR6UYBZQNR4F",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Thu, 22 Jan 2026 22:01:00 +0000",
+      "category": "MF Ghost - 1080",
+      "subsplease:size": "1.35 GiB"
+    },
     {
       "title": "[SubsPlease] Champignon no Majo - 04 (1080p) [53DE3EA0].mkv",
       "link": "https://nyaa.si/view/2067682/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Sat, 17 Jan 2026 15:03:44 +0000",
       "category": "Trigun Stargaze - 1080",
       "subsplease:size": "1.36 GiB"
-    },
-    {
-      "title": "[SubsPlease] Dead Account - 02 (1080p) [A7080A15].mkv",
-      "link": "https://nyaa.si/view/2065382/torrent",
-      "guid": {
-        "_": "FJKVIO7CEFGEIKZD3WTTOFXHBZDUHCZC",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sat, 17 Jan 2026 15:03:44 +0000",
-      "category": "Dead Account - 1080",
-      "subsplease:size": "1.34 GiB"
     }
   ]
 }
