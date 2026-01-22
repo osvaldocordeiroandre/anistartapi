@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-22T15:04:19.176Z",
+  "updatedAt": "2026-01-22T15:43:18.392Z",
   "items": [
+    {
+      "title": "[SubsPlease] Mato Seihei no Slave S2 - 03 (1080p) [93CCDF48].mkv",
+      "link": "https://nyaa.si/view/2067586/torrent",
+      "guid": {
+        "_": "JXIJDJSTD2P3BEIKJP6HJ5R3RPJSLX4Q",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Thu, 22 Jan 2026 15:33:36 +0000",
+      "category": "Mato Seihei no Slave S2 - 1080",
+      "subsplease:size": "924.27 MiB"
+    },
     {
       "title": "[SubsPlease] Toumei Otoko to Ningen Onna - 03 (1080p) [CD808B8F].mkv",
       "link": "https://nyaa.si/view/2067562/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Fri, 16 Jan 2026 22:19:17 +0000",
       "category": "Hitori no Shita - The Outcast S6 - 1080",
       "subsplease:size": "1.35 GiB"
-    },
-    {
-      "title": "[SubsPlease] Enen no Shouboutai S3 - 14 (1080p) [B9D0F9ED].mkv",
-      "link": "https://nyaa.si/view/2065021/torrent",
-      "guid": {
-        "_": "7VGSQ5MYKYOO64RXBXMHK6QGCS6GG2Y5",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Fri, 16 Jan 2026 17:48:56 +0000",
-      "category": "Enen no Shouboutai S3 - 1080",
-      "subsplease:size": "1.39 GiB"
     }
   ]
 }
