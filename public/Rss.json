@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-22T16:02:02.088Z",
+  "updatedAt": "2026-01-22T16:47:30.341Z",
   "items": [
+    {
+      "title": "[SubsPlease] Jujutsu Kaisen - 51 (1080p) [84C776B4].mkv",
+      "link": "https://nyaa.si/view/2067627/torrent",
+      "guid": {
+        "_": "ENYYXJR7IEVH3OIX6IJII7GCQNXYA2GR",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Thu, 22 Jan 2026 16:32:19 +0000",
+      "category": "Jujutsu Kaisen - 1080",
+      "subsplease:size": "1.59 GiB"
+    },
     {
       "title": "[SubsPlease] Omagoto - 03 (1080p) [74630B8E].mkv",
       "link": "https://nyaa.si/view/2067603/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Sat, 17 Jan 2026 12:31:14 +0000",
       "category": "Detective Conan - 1080",
       "subsplease:size": "1.4 GiB"
-    },
-    {
-      "title": "[SubsPlease] Ao no Miburo S2 - 04 (1080p) [ED82B237].mkv",
-      "link": "https://nyaa.si/view/2065278/torrent",
-      "guid": {
-        "_": "NCEK2RUG6APAODGNYGTSKQFPRTUZZ5D2",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sat, 17 Jan 2026 09:31:57 +0000",
-      "category": "Ao no Miburo S2 - 1080",
-      "subsplease:size": "1.36 GiB"
     }
   ]
 }
