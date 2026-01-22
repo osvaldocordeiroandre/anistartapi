@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-22T15:43:18.392Z",
+  "updatedAt": "2026-01-22T16:02:02.088Z",
   "items": [
+    {
+      "title": "[SubsPlease] Omagoto - 03 (1080p) [74630B8E].mkv",
+      "link": "https://nyaa.si/view/2067603/torrent",
+      "guid": {
+        "_": "XPMDR56N4UONJOZ23NINUC6U6SYQLPUE",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Thu, 22 Jan 2026 16:01:50 +0000",
+      "category": "Omagoto - 1080",
+      "subsplease:size": "1.34 GiB"
+    },
     {
       "title": "[SubsPlease] Mato Seihei no Slave S2 - 03 (1080p) [93CCDF48].mkv",
       "link": "https://nyaa.si/view/2067586/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Sat, 17 Jan 2026 09:31:57 +0000",
       "category": "Ao no Miburo S2 - 1080",
       "subsplease:size": "1.36 GiB"
-    },
-    {
-      "title": "[SubsPlease] Hitori no Shita - The Outcast S6 - 03 (1080p) [1752C1CA].mkv",
-      "link": "https://nyaa.si/view/2065175/torrent",
-      "guid": {
-        "_": "2YLRVS5UQFTUY6REZZHNDDO5BHH7HTL3",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Fri, 16 Jan 2026 22:19:17 +0000",
-      "category": "Hitori no Shita - The Outcast S6 - 1080",
-      "subsplease:size": "1.35 GiB"
     }
   ]
 }
