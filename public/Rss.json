@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-23T02:52:32.666Z",
+  "updatedAt": "2026-01-23T15:23:09.962Z",
   "items": [
+    {
+      "title": "[SubsPlease] Sousou no Frieren S2 - 02 (1080p) [03D4DE77].mkv",
+      "link": "https://nyaa.si/view/2068015/torrent",
+      "guid": {
+        "_": "XQWRM2ZEQOPCRUFMNNJ5KXTVCHD2XPYX",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Fri, 23 Jan 2026 15:01:59 +0000",
+      "category": "Sousou no Frieren S2 - 1080",
+      "subsplease:size": "1.37 GiB"
+    },
     {
       "title": "[SubsPlease] Hitori no Shita - The Outcast S6 - 04 (1080p) [455CF084].mkv",
       "link": "https://nyaa.si/view/2067811/torrent",
@@ -636,19 +649,6 @@
       },
       "pubDate": "Sat, 17 Jan 2026 16:01:57 +0000",
       "category": "Fate Strange Fake - 1080",
-      "subsplease:size": "1.35 GiB"
-    },
-    {
-      "title": "[SubsPlease] Jingai Kyoushitsu no Ningengirai Kyoushi - 02 (1080p) [51338A41].mkv",
-      "link": "https://nyaa.si/view/2065403/torrent",
-      "guid": {
-        "_": "TQ4MRCR4HGXCV37SCVSE25JNY7QK4GHD",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sat, 17 Jan 2026 15:32:13 +0000",
-      "category": "Jingai Kyoushitsu no Ningengirai Kyoushi - 1080",
       "subsplease:size": "1.35 GiB"
     }
   ]
