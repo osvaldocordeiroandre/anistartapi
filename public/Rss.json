@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-01-23T16:41:34.088Z",
+  "updatedAt": "2026-01-23T17:34:21.626Z",
   "items": [
+    {
+      "title": "[SubsPlease] Enen no Shouboutai S3 - 15 (1080p) [6B605A10].mkv",
+      "link": "https://nyaa.si/view/2068151/torrent",
+      "guid": {
+        "_": "GRM4Q4NGI4JCXABSZE3W2G3BIQN57YYE",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Fri, 23 Jan 2026 17:31:57 +0000",
+      "category": "Enen no Shouboutai S3 - 1080",
+      "subsplease:size": "1.39 GiB"
+    },
     {
       "title": "[SubsPlease] Hell Mode - 03 (1080p) [54A5E370].mkv",
       "link": "https://nyaa.si/view/2068122/torrent",
@@ -637,19 +650,6 @@
       "pubDate": "Sat, 17 Jan 2026 17:03:48 +0000",
       "category": "Yuusha no Kuzu - 1080",
       "subsplease:size": "1.3 GiB"
-    },
-    {
-      "title": "[SubsPlease] Toujima Tanzaburou wa Kamen Rider ni Naritai - 15 (1080p) [AF04DCAE].mkv",
-      "link": "https://nyaa.si/view/2065486/torrent",
-      "guid": {
-        "_": "44NEAON3476TFIV4VGOQR3G3PPGFU43T",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sat, 17 Jan 2026 17:02:46 +0000",
-      "category": "Toujima Tanzaburou wa Kamen Rider ni Naritai - 1080",
-      "subsplease:size": "1.36 GiB"
     }
   ]
 }
