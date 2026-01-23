@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-01-23T15:23:09.962Z",
+  "updatedAt": "2026-01-23T16:41:34.088Z",
   "items": [
+    {
+      "title": "[SubsPlease] Hell Mode - 03 (1080p) [54A5E370].mkv",
+      "link": "https://nyaa.si/view/2068122/torrent",
+      "guid": {
+        "_": "DXJUGY4CVQX4GLSFAMXPITHH6E7AEYC5",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Fri, 23 Jan 2026 16:40:44 +0000",
+      "category": "Hell Mode - 1080",
+      "subsplease:size": "926.96 MiB"
+    },
+    {
+      "title": "[SubsPlease] Dark Moon - Tsuki no Saidan - 03 (1080p) [558CBEDB].mkv",
+      "link": "https://nyaa.si/view/2068105/torrent",
+      "guid": {
+        "_": "JVKEJPR7SE2BTUAOKHCH4UFHGWTDL6H4",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Fri, 23 Jan 2026 16:31:56 +0000",
+      "category": "Dark Moon - Tsuki no Saidan - 1080",
+      "subsplease:size": "1.35 GiB"
+    },
     {
       "title": "[SubsPlease] Sousou no Frieren S2 - 02 (1080p) [03D4DE77].mkv",
       "link": "https://nyaa.si/view/2068015/torrent",
@@ -624,32 +650,6 @@
       "pubDate": "Sat, 17 Jan 2026 17:02:46 +0000",
       "category": "Toujima Tanzaburou wa Kamen Rider ni Naritai - 1080",
       "subsplease:size": "1.36 GiB"
-    },
-    {
-      "title": "[SubsPlease] GNOSIA - 14 (1080p) [AF3433D8].mkv",
-      "link": "https://nyaa.si/view/2065455/torrent",
-      "guid": {
-        "_": "ZV25M2RHLBB7NQZRFBCMHDFUHDK4Z2G6",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sat, 17 Jan 2026 16:31:53 +0000",
-      "category": "GNOSIA - 1080",
-      "subsplease:size": "1.42 GiB"
-    },
-    {
-      "title": "[SubsPlease] Fate Strange Fake - 03 (1080p) [D188B15C].mkv",
-      "link": "https://nyaa.si/view/2065428/torrent",
-      "guid": {
-        "_": "7FBBH4JGKS5TLAZB5JWAMXP44NOOHCVQ",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sat, 17 Jan 2026 16:01:57 +0000",
-      "category": "Fate Strange Fake - 1080",
-      "subsplease:size": "1.35 GiB"
     }
   ]
 }
