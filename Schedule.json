@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T06:46:48.563Z",
+  "updatedAt": "2026-01-25T20:47:37.850Z",
   "schedule": {
     "Monday": [
       {
@@ -279,9 +279,9 @@
     ],
     "Sunday": [
       {
-        "title": "Kimi to Idol Precure",
-        "page": "kimi-to-idol-precure",
-        "image_url": "/wp-content/uploads/2025/02/147358.jpg",
+        "title": "Meitantei Precure!",
+        "page": "",
+        "image_url": "",
         "time": "01:30"
       },
       {
