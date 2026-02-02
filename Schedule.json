@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T03:24:08.024Z",
+  "updatedAt": "2026-02-02T23:02:26.202Z",
   "schedule": {
     "Monday": [
       {
@@ -281,7 +281,7 @@
       {
         "title": "Meitantei Precure!",
         "page": "meitantei-precure",
-        "image_url": "",
+        "image_url": "/wp-includes/images/image-coming-soon-placeholder.png",
         "time": "01:30"
       },
       {
