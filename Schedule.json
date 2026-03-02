@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-02T08:05:03.281Z",
+  "updatedAt": "2026-03-02T22:23:20.016Z",
   "schedule": {
     "Monday": [
       {
@@ -31,6 +31,12 @@
         "page": "hime-sama-goumon-no-jikan-desu",
         "image_url": "/wp-content/uploads/2024/01/139398.jpg",
         "time": "16:00"
+      },
+      {
+        "title": "Release that Witch",
+        "page": "release-that-witch",
+        "image_url": "",
+        "time": "18:00"
       }
     ],
     "Tuesday": [
