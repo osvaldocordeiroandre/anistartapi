@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-03T08:04:33.110Z",
+  "updatedAt": "2026-03-04T08:33:51.652Z",
   "schedule": {
     "Monday": [
       {
@@ -44,37 +44,37 @@
         "title": "Maou no Musume wa Yasashi Sugiru!!",
         "page": "maou-no-musume-wa-yasashi-sugiru",
         "image_url": "/wp-content/uploads/2026/01/154083.jpg",
-        "time": "13:00"
+        "time": "12:00"
       },
       {
         "title": "Mayonaka Heart Tune",
         "page": "mayonaka-heart-tune",
         "image_url": "/wp-content/uploads/2026/01/152823.jpg",
-        "time": "14:00"
+        "time": "13:00"
       },
       {
         "title": "Isekai no Sata wa Shachiku Shidai",
         "page": "isekai-no-sata-wa-shachiku-shidai",
         "image_url": "/wp-content/uploads/2026/01/153806.jpg",
-        "time": "14:30"
+        "time": "13:30"
       },
       {
         "title": "Yoroi Shin Den Samurai Troopers",
         "page": "yoroi-shin-den-samurai-troopers",
         "image_url": "/wp-content/uploads/2026/01/153952-1.jpg",
-        "time": "15:00"
+        "time": "14:00"
       },
       {
         "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
         "page": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita",
         "image_url": "/wp-content/uploads/2026/01/152828.jpg",
-        "time": "15:00"
+        "time": "14:00"
       },
       {
         "title": "Arne no Jikenbo",
         "page": "arne-no-jikenbo",
         "image_url": "/wp-content/uploads/2026/01/152731.jpg",
-        "time": "17:30"
+        "time": "16:30"
       }
     ],
     "Wednesday": [
