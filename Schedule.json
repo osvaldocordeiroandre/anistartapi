@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-05T08:40:36.599Z",
+  "updatedAt": "2026-03-06T08:01:41.454Z",
   "schedule": {
     "Monday": [
       {
@@ -132,55 +132,55 @@
         "title": "Yuusha-kei ni Shosu",
         "page": "yuusha-kei-ni-shosu",
         "image_url": "/wp-content/uploads/2026/01/151911.jpg",
-        "time": "14:00"
+        "time": "13:00"
       },
       {
         "title": "MF Ghost",
         "page": "mf-ghost",
         "image_url": "/wp-content/uploads/2023/09/132348.jpg",
-        "time": "14:30"
+        "time": "13:30"
       },
       {
         "title": "Eris no Seihai",
         "page": "eris-no-seihai",
         "image_url": "/wp-content/uploads/2026/01/153574.jpg",
-        "time": "15:00"
+        "time": "14:00"
       },
       {
         "title": "Toumei Otoko to Ningen Onna",
         "page": "toumei-otoko-to-ningen-onna",
         "image_url": "/wp-content/uploads/2026/01/152494.jpg",
-        "time": "15:00"
+        "time": "14:00"
       },
       {
         "title": "Mato Seihei no Slave S2",
         "page": "mato-seihei-no-slave-s2",
         "image_url": "/wp-content/uploads/2026/01/148737.jpg",
-        "time": "15:30"
+        "time": "14:30"
       },
       {
         "title": "Omagoto",
         "page": "omagoto",
         "image_url": "/wp-content/uploads/2026/01/153435.jpg",
-        "time": "16:00"
+        "time": "15:00"
       },
       {
         "title": "Jujutsu Kaisen",
         "page": "jujutsu-kaisen",
         "image_url": "/wp-content/uploads/2020/10/109222.jpg",
-        "time": "16:30"
+        "time": "15:30"
       },
       {
         "title": "Douse, Koishite Shimaunda S2",
         "page": "douse-koishite-shimaunda-s2",
         "image_url": "/wp-content/uploads/2026/01/153719.jpg",
-        "time": "17:00"
+        "time": "16:00"
       },
       {
         "title": "Champignon no Majo",
         "page": "champignon-no-majo",
         "image_url": "/wp-content/uploads/2026/01/152613-1.jpg",
-        "time": "18:00"
+        "time": "17:00"
       }
     ],
     "Friday": [
@@ -188,7 +188,7 @@
         "title": "Hitori no Shita - The Outcast S6",
         "page": "hitori-no-shita-the-outcast-s6",
         "image_url": "/wp-content/uploads/2026/01/151431.jpg",
-        "time": "02:00"
+        "time": "01:00"
       },
       {
         "title": "Sousou no Frieren S2",
