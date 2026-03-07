@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T08:01:41.454Z",
+  "updatedAt": "2026-03-07T08:25:34.160Z",
   "schedule": {
     "Monday": [
       {
@@ -194,25 +194,25 @@
         "title": "Sousou no Frieren S2",
         "page": "sousou-no-frieren-s2",
         "image_url": "/wp-content/uploads/2026/01/154528.jpg",
-        "time": "15:00"
+        "time": "14:00"
       },
       {
         "title": "Dark Moon - Tsuki no Saidan",
         "page": "dark-moon-tsuki-no-saidan",
         "image_url": "/wp-content/uploads/2026/01/154695.jpg",
-        "time": "16:30"
+        "time": "15:30"
       },
       {
         "title": "Hell Mode",
         "page": "hell-mode",
         "image_url": "/wp-content/uploads/2026/01/152479.jpg",
-        "time": "16:35"
+        "time": "15:35"
       },
       {
         "title": "Enen no Shouboutai S3",
         "page": "enen-no-shouboutai-s3",
         "image_url": "/wp-content/uploads/2025/04/146836.jpg",
-        "time": "17:30"
+        "time": "16:30"
       }
     ],
     "Saturday": [
