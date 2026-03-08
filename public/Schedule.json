@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T11:17:51.337Z",
+  "updatedAt": "2026-03-08T16:22:47.023Z",
   "schedule": {
     "Monday": [
       {
@@ -357,16 +357,16 @@
         "time": "15:30"
       },
       {
+        "title": "Hikuidori - Ushuu Boro Tobi-gumi",
+        "page": "hikuidori-ushuu-boro-tobi-gumi",
+        "image_url": "/wp-content/uploads/2026/01/151615.jpg",
+        "time": "15:30"
+      },
+      {
         "title": "Ikoku Nikki",
         "page": "ikoku-nikki",
         "image_url": "/wp-content/uploads/2026/01/154233.jpg",
         "time": "15:30"
-      },
-      {
-        "title": "Hikuidori - Ushuu Boro Tobi-gumi",
-        "page": "hikuidori-ushuu-boro-tobi-gumi",
-        "image_url": "/wp-content/uploads/2026/01/151615.jpg",
-        "time": "16:00"
       },
       {
         "title": "Yami Shibai 16",
