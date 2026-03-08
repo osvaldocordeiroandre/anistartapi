@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T08:25:34.160Z",
+  "updatedAt": "2026-03-08T08:26:23.405Z",
   "schedule": {
     "Monday": [
       {
@@ -220,67 +220,67 @@
         "title": "Ao no Miburo S2",
         "page": "ao-no-miburo-s2",
         "image_url": "/wp-content/uploads/2026/01/151603.jpg",
-        "time": "09:30"
+        "time": "08:30"
       },
       {
         "title": "Detective Conan",
         "page": "detective-conan",
         "image_url": "/wp-content/uploads/2020/10/75199.jpg",
-        "time": "12:30"
+        "time": "11:30"
       },
       {
         "title": "Tensei shitara Dragon no Tamago datta",
         "page": "tensei-shitara-dragon-no-tamago-datta",
         "image_url": "/wp-content/uploads/2026/01/154235.jpg",
-        "time": "13:00"
+        "time": "12:00"
       },
       {
         "title": "Dead Account",
         "page": "dead-account",
         "image_url": "/wp-content/uploads/2026/01/154192.jpg",
-        "time": "15:00"
+        "time": "14:00"
       },
       {
         "title": "Trigun Stargaze",
         "page": "trigun-stargaze",
         "image_url": "/wp-content/uploads/2026/01/154541.jpg",
-        "time": "15:00"
+        "time": "14:00"
       },
       {
         "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
         "page": "jingai-kyoushitsu-no-ningengirai-kyoushi",
         "image_url": "/wp-content/uploads/2026/01/151933.jpg",
-        "time": "15:30"
+        "time": "14:30"
       },
       {
         "title": "Fumetsu no Anata e S3",
         "page": "fumetsu-no-anata-e-s3",
         "image_url": "/wp-content/uploads/2025/10/152364.jpg",
-        "time": "15:45"
+        "time": "14:45"
       },
       {
         "title": "Fate Strange Fake",
         "page": "fate-strange-fake",
         "image_url": "/wp-content/uploads/2024/12/136845.jpg",
-        "time": "16:00"
+        "time": "15:00"
       },
       {
         "title": "GNOSIA",
         "page": "gnosia",
         "image_url": "/wp-content/uploads/2025/10/152352.jpg",
-        "time": "16:30"
+        "time": "15:30"
       },
       {
         "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
         "page": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
         "image_url": "/wp-content/uploads/2025/10/152139.jpg",
-        "time": "17:00"
+        "time": "16:00"
       },
       {
         "title": "Yuusha no Kuzu",
         "page": "yuusha-no-kuzu",
         "image_url": "/wp-content/uploads/2026/01/154043.jpg",
-        "time": "17:00"
+        "time": "16:00"
       }
     ],
     "Sunday": [
@@ -288,18 +288,18 @@
         "title": "Meitantei Precure!",
         "page": "meitantei-precure",
         "image_url": "/wp-content/uploads/2026/02/154944.jpg",
-        "time": "01:30"
-      },
-      {
-        "title": "Digimon Beatbreak",
-        "page": "digimon-beatbreak",
-        "image_url": "/wp-content/uploads/2025/10/151242.jpg",
-        "time": "03:00"
+        "time": "00:30"
       },
       {
         "title": "SI-VIS - The Sound of Heroes",
         "page": "si-vis-the-sound-of-heroes",
         "image_url": "/wp-content/uploads/2025/10/151178.jpg",
+        "time": "01:00"
+      },
+      {
+        "title": "Digimon Beatbreak",
+        "page": "digimon-beatbreak",
+        "image_url": "/wp-content/uploads/2025/10/151242.jpg",
         "time": "03:00"
       },
       {
