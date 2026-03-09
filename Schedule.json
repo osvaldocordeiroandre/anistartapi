@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T16:22:47.023Z",
+  "updatedAt": "2026-03-09T07:37:21.041Z",
   "schedule": {
     "Monday": [
       {
@@ -291,34 +291,34 @@
         "time": "01:30"
       },
       {
+        "title": "SI-VIS - The Sound of Heroes",
+        "page": "si-vis-the-sound-of-heroes",
+        "image_url": "/wp-content/uploads/2025/10/151178.jpg",
+        "time": "02:00"
+      },
+      {
         "title": "Digimon Beatbreak",
         "page": "digimon-beatbreak",
         "image_url": "/wp-content/uploads/2025/10/151242.jpg",
         "time": "03:00"
       },
       {
-        "title": "SI-VIS - The Sound of Heroes",
-        "page": "si-vis-the-sound-of-heroes",
-        "image_url": "/wp-content/uploads/2025/10/151178.jpg",
-        "time": "03:00"
-      },
-      {
         "title": "Uruwashi no Yoi no Tsuki",
         "page": "uruwashi-no-yoi-no-tsuki",
         "image_url": "/wp-content/uploads/2026/01/154569.jpg",
-        "time": "09:00"
+        "time": "08:00"
       },
       {
         "title": "Seihantai na Kimi to Boku",
         "page": "seihantai-na-kimi-to-boku",
         "image_url": "/wp-content/uploads/2026/01/154457.jpg",
-        "time": "09:30"
+        "time": "08:30"
       },
       {
         "title": "Kaya-chan wa Kowakunai",
         "page": "kaya-chan-wa-kowakunai",
         "image_url": "/wp-content/uploads/2026/01/153705.jpg",
-        "time": "10:00"
+        "time": "09:00"
       },
       {
         "title": "Hanazakari no Kimitachi e",
