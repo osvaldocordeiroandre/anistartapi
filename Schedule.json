@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-09T07:37:21.041Z",
+  "updatedAt": "2026-03-09T21:48:32.546Z",
   "schedule": {
     "Monday": [
       {
@@ -36,7 +36,7 @@
         "title": "Release that Witch",
         "page": "release-that-witch",
         "image_url": "",
-        "time": "18:00"
+        "time": "17:00"
       }
     ],
     "Tuesday": [
