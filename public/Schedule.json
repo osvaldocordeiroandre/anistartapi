@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-09T21:48:32.546Z",
+  "updatedAt": "2026-03-14T21:26:59.154Z",
   "schedule": {
     "Monday": [
       {
@@ -301,6 +301,12 @@
         "page": "digimon-beatbreak",
         "image_url": "/wp-content/uploads/2025/10/151242.jpg",
         "time": "03:00"
+      },
+      {
+        "title": "Niwatori Fighter",
+        "page": "",
+        "image_url": "",
+        "time": "04:00"
       },
       {
         "title": "Uruwashi no Yoi no Tsuki",
