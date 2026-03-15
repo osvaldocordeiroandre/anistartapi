@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T21:26:59.154Z",
+  "updatedAt": "2026-03-15T08:32:12.139Z",
   "schedule": {
     "Monday": [
       {
@@ -304,7 +304,7 @@
       },
       {
         "title": "Niwatori Fighter",
-        "page": "",
+        "page": "niwatori-fighter",
         "image_url": "",
         "time": "04:00"
       },
