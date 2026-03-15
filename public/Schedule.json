@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T08:32:12.139Z",
+  "updatedAt": "2026-03-15T09:50:12.094Z",
   "schedule": {
     "Monday": [
       {
@@ -265,12 +265,6 @@
         "time": "16:00"
       },
       {
-        "title": "GNOSIA",
-        "page": "gnosia",
-        "image_url": "/wp-content/uploads/2025/10/152352.jpg",
-        "time": "16:30"
-      },
-      {
         "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
         "page": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
         "image_url": "/wp-content/uploads/2025/10/152139.jpg",
@@ -306,7 +300,7 @@
         "title": "Niwatori Fighter",
         "page": "niwatori-fighter",
         "image_url": "",
-        "time": "04:00"
+        "time": "08:00"
       },
       {
         "title": "Uruwashi no Yoi no Tsuki",
