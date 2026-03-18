@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T19:30:11.294Z",
+  "updatedAt": "2026-03-18T18:12:56.061Z",
   "schedule": {
     "Monday": [
       {
@@ -40,12 +40,6 @@
       }
     ],
     "Tuesday": [
-      {
-        "title": "Maou no Musume wa Yasashi Sugiru!!",
-        "page": "maou-no-musume-wa-yasashi-sugiru",
-        "image_url": "/wp-content/uploads/2026/01/154083.jpg",
-        "time": "13:00"
-      },
       {
         "title": "Mayonaka Heart Tune",
         "page": "mayonaka-heart-tune",
