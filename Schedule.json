@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-18T18:12:56.061Z",
+  "updatedAt": "2026-03-19T19:43:13.106Z",
   "schedule": {
     "Monday": [
       {
@@ -95,18 +95,6 @@
         "page": "oshi-no-ko-s3",
         "image_url": "/wp-content/uploads/2026/01/153329.jpg",
         "time": "15:00"
-      },
-      {
-        "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
-        "page": "yuusha-party-wo-oidasareta-kiyoubinbou",
-        "image_url": "/wp-content/uploads/2026/01/153135.jpg",
-        "time": "15:00"
-      },
-      {
-        "title": "Shibou Yuugi de Meshi wo Kuu.",
-        "page": "shibou-yuugi-de-meshi-wo-kuu",
-        "image_url": "/wp-content/uploads/2026/01/153630.jpg",
-        "time": "15:30"
       },
       {
         "title": "Tamon-kun Ima Docchi",
