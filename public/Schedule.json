@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-19T19:43:13.106Z",
+  "updatedAt": "2026-03-20T19:50:18.487Z",
   "schedule": {
     "Monday": [
       {
@@ -97,12 +97,6 @@
         "time": "15:00"
       },
       {
-        "title": "Tamon-kun Ima Docchi",
-        "page": "tamon-kun-ima-docchi",
-        "image_url": "/wp-content/uploads/2026/01/153320.jpg",
-        "time": "16:00"
-      },
-      {
         "title": "Dragon Raja S2 (JP)",
         "page": "dragon-raja-s2",
         "image_url": "/wp-content/uploads/2025/07/147273.jpg",
@@ -147,6 +141,12 @@
         "time": "16:00"
       },
       {
+        "title": "Tamon-kun Ima Docchi",
+        "page": "tamon-kun-ima-docchi",
+        "image_url": "/wp-content/uploads/2026/01/153320.jpg",
+        "time": "16:00"
+      },
+      {
         "title": "Jujutsu Kaisen",
         "page": "jujutsu-kaisen",
         "image_url": "/wp-content/uploads/2020/10/109222.jpg",
@@ -157,12 +157,6 @@
         "page": "douse-koishite-shimaunda-s2",
         "image_url": "/wp-content/uploads/2026/01/153719.jpg",
         "time": "17:00"
-      },
-      {
-        "title": "Champignon no Majo",
-        "page": "champignon-no-majo",
-        "image_url": "/wp-content/uploads/2026/01/152613-1.jpg",
-        "time": "18:00"
       }
     ],
     "Friday": [
