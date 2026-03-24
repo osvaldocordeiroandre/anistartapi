@@ -1,13 +1,7 @@
 {
-  "updatedAt": "2026-03-23T18:05:49.018Z",
+  "updatedAt": "2026-03-24T19:54:41.743Z",
   "schedule": {
     "Monday": [
-      {
-        "title": "Kirei ni Shite Moraemasu ka.",
-        "page": "kirei-ni-shite-moraemasu-ka",
-        "image_url": "/wp-content/uploads/2026/01/154234.jpg",
-        "time": "13:30"
-      },
       {
         "title": "Vigilante - Boku no Hero Academia Illegals S2",
         "page": "vigilante-boku-no-hero-academia-illegals-s2",
@@ -19,12 +13,6 @@
         "page": "golden-kamuy",
         "image_url": "/wp-content/uploads/2020/10/90880.jpg",
         "time": "14:30"
-      },
-      {
-        "title": "Osananajimi to wa Love Comedy ni Naranai",
-        "page": "osananajimi-to-wa-love-comedy-ni-naranai",
-        "image_url": "/wp-content/uploads/2026/01/153502.jpg",
-        "time": "15:30"
       },
       {
         "title": "Hime-sama Goumon no Jikan desu",
