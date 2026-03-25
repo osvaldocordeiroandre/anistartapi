@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-24T19:54:41.743Z",
+  "updatedAt": "2026-03-25T17:18:20.498Z",
   "schedule": {
     "Monday": [
       {
@@ -29,34 +29,10 @@
     ],
     "Tuesday": [
       {
-        "title": "Mayonaka Heart Tune",
-        "page": "mayonaka-heart-tune",
-        "image_url": "/wp-content/uploads/2026/01/152823.jpg",
-        "time": "14:00"
-      },
-      {
-        "title": "Isekai no Sata wa Shachiku Shidai",
-        "page": "isekai-no-sata-wa-shachiku-shidai",
-        "image_url": "/wp-content/uploads/2026/01/153806.jpg",
-        "time": "14:30"
-      },
-      {
-        "title": "Yoroi Shin Den Samurai Troopers",
-        "page": "yoroi-shin-den-samurai-troopers",
-        "image_url": "/wp-content/uploads/2026/01/153952-1.jpg",
-        "time": "15:00"
-      },
-      {
         "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
         "page": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita",
         "image_url": "/wp-content/uploads/2026/01/152828.jpg",
         "time": "15:00"
-      },
-      {
-        "title": "Arne no Jikenbo",
-        "page": "arne-no-jikenbo",
-        "image_url": "/wp-content/uploads/2026/01/152731.jpg",
-        "time": "17:30"
       }
     ],
     "Wednesday": [
