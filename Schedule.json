@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T17:18:20.498Z",
+  "updatedAt": "2026-03-26T18:37:32.692Z",
   "schedule": {
     "Monday": [
       {
@@ -35,38 +35,7 @@
         "time": "15:00"
       }
     ],
-    "Wednesday": [
-      {
-        "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-        "page": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
-        "image_url": "/wp-content/uploads/2026/01/154087.jpg",
-        "time": "13:00"
-      },
-      {
-        "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
-        "page": "okiraku-ryoushu-no-tanoshii-ryouchi-bouei",
-        "image_url": "/wp-content/uploads/2026/01/153908.jpg",
-        "time": "13:00"
-      },
-      {
-        "title": "Odayaka Kizoku no Kyuuka no Susume.",
-        "page": "odayaka-kizoku-no-kyuuka-no-susume",
-        "image_url": "/wp-content/uploads/2026/01/152396.jpg",
-        "time": "15:00"
-      },
-      {
-        "title": "Oshi no Ko S3",
-        "page": "oshi-no-ko-s3",
-        "image_url": "/wp-content/uploads/2026/01/153329.jpg",
-        "time": "15:00"
-      },
-      {
-        "title": "Dragon Raja S2 (JP)",
-        "page": "dragon-raja-s2",
-        "image_url": "/wp-content/uploads/2025/07/147273.jpg",
-        "time": "17:00"
-      }
-    ],
+    "Wednesday": [],
     "Thursday": [
       {
         "title": "Yuusha-kei ni Shosu",
