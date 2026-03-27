@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T18:37:32.692Z",
+  "updatedAt": "2026-03-27T17:45:48.512Z",
   "schedule": {
     "Monday": [
       {
@@ -29,69 +29,63 @@
     ],
     "Tuesday": [
       {
+        "title": "Kanteishi (Kari)",
+        "page": "",
+        "image_url": "",
+        "time": "13:00"
+      },
+      {
+        "title": "Maid-san wa Taberu Dake",
+        "page": "",
+        "image_url": "",
+        "time": "13:00"
+      },
+      {
         "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
         "page": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita",
         "image_url": "/wp-content/uploads/2026/01/152828.jpg",
         "time": "15:00"
+      },
+      {
+        "title": "Chitose-kun wa Ramune Bin no Naka",
+        "page": "chitose-kun-wa-ramune-bin-no-naka",
+        "image_url": "/wp-content/uploads/2025/10/151233.jpg",
+        "time": "15:30"
       }
     ],
-    "Wednesday": [],
-    "Thursday": [
+    "Wednesday": [
       {
-        "title": "Yuusha-kei ni Shosu",
-        "page": "yuusha-kei-ni-shosu",
-        "image_url": "/wp-content/uploads/2026/01/151911.jpg",
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4",
+        "page": "",
+        "image_url": "",
         "time": "14:00"
       },
       {
-        "title": "MF Ghost",
-        "page": "mf-ghost",
-        "image_url": "/wp-content/uploads/2023/09/132348.jpg",
+        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S3",
+        "page": "",
+        "image_url": "",
         "time": "14:30"
       },
       {
-        "title": "Eris no Seihai",
-        "page": "eris-no-seihai",
-        "image_url": "/wp-content/uploads/2026/01/153574.jpg",
+        "title": "Dorohedoro S2",
+        "page": "",
+        "image_url": "",
         "time": "15:00"
       },
       {
-        "title": "Toumei Otoko to Ningen Onna",
-        "page": "toumei-otoko-to-ningen-onna",
-        "image_url": "/wp-content/uploads/2026/01/152494.jpg",
-        "time": "15:00"
-      },
-      {
-        "title": "Mato Seihei no Slave S2",
-        "page": "mato-seihei-no-slave-s2",
-        "image_url": "/wp-content/uploads/2026/01/148737.jpg",
+        "title": "Ganbare! Nakamura-kun!!",
+        "page": "",
+        "image_url": "",
         "time": "15:30"
       },
       {
-        "title": "Omagoto",
-        "page": "omagoto",
-        "image_url": "/wp-content/uploads/2026/01/153435.jpg",
-        "time": "16:00"
-      },
-      {
-        "title": "Tamon-kun Ima Docchi",
-        "page": "tamon-kun-ima-docchi",
-        "image_url": "/wp-content/uploads/2026/01/153320.jpg",
-        "time": "16:00"
-      },
-      {
-        "title": "Jujutsu Kaisen",
-        "page": "jujutsu-kaisen",
-        "image_url": "/wp-content/uploads/2020/10/109222.jpg",
-        "time": "16:30"
-      },
-      {
-        "title": "Douse, Koishite Shimaunda S2",
-        "page": "douse-koishite-shimaunda-s2",
-        "image_url": "/wp-content/uploads/2026/01/153719.jpg",
-        "time": "17:00"
+        "title": "The Beginning After the End",
+        "page": "the-beginning-after-the-end",
+        "image_url": "/wp-content/uploads/2025/04/148299.jpg",
+        "time": "17:25"
       }
     ],
+    "Thursday": [],
     "Friday": [
       {
         "title": "Hitori no Shita - The Outcast S6",
@@ -147,6 +141,12 @@
         "title": "Dead Account",
         "page": "dead-account",
         "image_url": "/wp-content/uploads/2026/01/154192.jpg",
+        "time": "15:00"
+      },
+      {
+        "title": "Shunkashuutou Daikousha - Haru no Mai",
+        "page": "",
+        "image_url": "",
         "time": "15:00"
       },
       {
