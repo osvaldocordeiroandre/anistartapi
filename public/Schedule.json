@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T17:45:48.512Z",
+  "updatedAt": "2026-03-27T20:03:36.274Z",
   "schedule": {
     "Monday": [
       {
@@ -23,21 +23,21 @@
       {
         "title": "Release that Witch",
         "page": "release-that-witch",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/03/153536.jpg",
         "time": "17:00"
       }
     ],
     "Tuesday": [
       {
         "title": "Kanteishi (Kari)",
-        "page": "",
-        "image_url": "",
+        "page": "kanteishi-kari",
+        "image_url": "/wp-content/uploads/2026/03/155095.jpg",
         "time": "13:00"
       },
       {
         "title": "Maid-san wa Taberu Dake",
-        "page": "",
-        "image_url": "",
+        "page": "maid-san-wa-taberu-dake",
+        "image_url": "/wp-content/uploads/2026/03/156007.jpg",
         "time": "13:00"
       },
       {
@@ -56,26 +56,26 @@
     "Wednesday": [
       {
         "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4",
-        "page": "",
-        "image_url": "",
+        "page": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-s4",
+        "image_url": "/wp-content/uploads/2026/03/153626.jpg",
         "time": "14:00"
       },
       {
         "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S3",
-        "page": "",
-        "image_url": "",
+        "page": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-s3",
+        "image_url": "/wp-content/uploads/2026/03/156029.jpg",
         "time": "14:30"
       },
       {
         "title": "Dorohedoro S2",
-        "page": "",
-        "image_url": "",
+        "page": "dorohedoro-s2",
+        "image_url": "/wp-content/uploads/2026/03/155354.jpg",
         "time": "15:00"
       },
       {
         "title": "Ganbare! Nakamura-kun!!",
-        "page": "",
-        "image_url": "",
+        "page": "ganbare-nakamura-kun",
+        "image_url": "/wp-content/uploads/2026/03/155682.jpg",
         "time": "15:30"
       },
       {
@@ -145,8 +145,8 @@
       },
       {
         "title": "Shunkashuutou Daikousha - Haru no Mai",
-        "page": "",
-        "image_url": "",
+        "page": "shunkashuutou-daikousha-haru-no-mai",
+        "image_url": "/wp-content/uploads/2026/03/155524.jpg",
         "time": "15:00"
       },
       {
@@ -202,7 +202,7 @@
       {
         "title": "Niwatori Fighter",
         "page": "niwatori-fighter",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/03/150983.jpg",
         "time": "08:00"
       },
       {
