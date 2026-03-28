@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T20:03:36.274Z",
+  "updatedAt": "2026-03-28T16:28:40.917Z",
   "schedule": {
     "Monday": [
       {
@@ -94,24 +94,6 @@
         "time": "02:00"
       },
       {
-        "title": "Sousou no Frieren S2",
-        "page": "sousou-no-frieren-s2",
-        "image_url": "/wp-content/uploads/2026/01/154528.jpg",
-        "time": "15:00"
-      },
-      {
-        "title": "Dark Moon - Tsuki no Saidan",
-        "page": "dark-moon-tsuki-no-saidan",
-        "image_url": "/wp-content/uploads/2026/01/154695.jpg",
-        "time": "16:30"
-      },
-      {
-        "title": "Hell Mode",
-        "page": "hell-mode",
-        "image_url": "/wp-content/uploads/2026/01/152479.jpg",
-        "time": "16:35"
-      },
-      {
         "title": "Enen no Shouboutai S3",
         "page": "enen-no-shouboutai-s3",
         "image_url": "/wp-content/uploads/2025/04/146836.jpg",
@@ -144,12 +126,6 @@
         "time": "15:00"
       },
       {
-        "title": "Shunkashuutou Daikousha - Haru no Mai",
-        "page": "shunkashuutou-daikousha-haru-no-mai",
-        "image_url": "/wp-content/uploads/2026/03/155524.jpg",
-        "time": "15:00"
-      },
-      {
         "title": "Trigun Stargaze",
         "page": "trigun-stargaze",
         "image_url": "/wp-content/uploads/2026/01/154541.jpg",
@@ -172,6 +148,12 @@
         "page": "fate-strange-fake",
         "image_url": "/wp-content/uploads/2024/12/136845.jpg",
         "time": "16:00"
+      },
+      {
+        "title": "Shunkashuutou Daikousha - Haru no Mai",
+        "page": "shunkashuutou-daikousha-haru-no-mai",
+        "image_url": "/wp-content/uploads/2026/03/155524.jpg",
+        "time": "16:30"
       },
       {
         "title": "Yuusha no Kuzu",
