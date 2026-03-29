@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T16:28:40.917Z",
+  "updatedAt": "2026-03-29T21:00:57.559Z",
   "schedule": {
     "Monday": [
       {
@@ -85,7 +85,26 @@
         "time": "17:25"
       }
     ],
-    "Thursday": [],
+    "Thursday": [
+      {
+        "title": "Dr. Stone S4",
+        "page": "dr-stone-s4",
+        "image_url": "/wp-content/uploads/2025/01/146479.jpg",
+        "time": "14:00"
+      },
+      {
+        "title": "Kirio Fanclub",
+        "page": "",
+        "image_url": "",
+        "time": "16:00"
+      },
+      {
+        "title": "Reincarnation no Kaben",
+        "page": "",
+        "image_url": "",
+        "time": "16:30"
+      }
+    ],
     "Friday": [
       {
         "title": "Hitori no Shita - The Outcast S6",
@@ -102,52 +121,16 @@
     ],
     "Saturday": [
       {
-        "title": "Ao no Miburo S2",
-        "page": "ao-no-miburo-s2",
-        "image_url": "/wp-content/uploads/2026/01/151603.jpg",
-        "time": "09:30"
-      },
-      {
         "title": "Detective Conan",
         "page": "detective-conan",
         "image_url": "/wp-content/uploads/2020/10/75199.jpg",
         "time": "11:30"
       },
       {
-        "title": "Tensei shitara Dragon no Tamago datta",
-        "page": "tensei-shitara-dragon-no-tamago-datta",
-        "image_url": "/wp-content/uploads/2026/01/154235.jpg",
-        "time": "13:00"
-      },
-      {
-        "title": "Dead Account",
-        "page": "dead-account",
-        "image_url": "/wp-content/uploads/2026/01/154192.jpg",
-        "time": "15:00"
-      },
-      {
-        "title": "Trigun Stargaze",
-        "page": "trigun-stargaze",
-        "image_url": "/wp-content/uploads/2026/01/154541.jpg",
-        "time": "15:00"
-      },
-      {
         "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
         "page": "jingai-kyoushitsu-no-ningengirai-kyoushi",
         "image_url": "/wp-content/uploads/2026/01/151933.jpg",
         "time": "15:30"
-      },
-      {
-        "title": "Fumetsu no Anata e S3",
-        "page": "fumetsu-no-anata-e-s3",
-        "image_url": "/wp-content/uploads/2025/10/152364.jpg",
-        "time": "15:45"
-      },
-      {
-        "title": "Fate Strange Fake",
-        "page": "fate-strange-fake",
-        "image_url": "/wp-content/uploads/2024/12/136845.jpg",
-        "time": "16:00"
       },
       {
         "title": "Shunkashuutou Daikousha - Haru no Mai",
