@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T21:00:57.559Z",
+  "updatedAt": "2026-03-30T15:42:42.733Z",
   "schedule": {
     "Monday": [
       {
@@ -153,12 +153,6 @@
         "time": "01:30"
       },
       {
-        "title": "SI-VIS - The Sound of Heroes",
-        "page": "si-vis-the-sound-of-heroes",
-        "image_url": "/wp-content/uploads/2025/10/151178.jpg",
-        "time": "02:00"
-      },
-      {
         "title": "Digimon Beatbreak",
         "page": "digimon-beatbreak",
         "image_url": "/wp-content/uploads/2025/10/151242.jpg",
@@ -171,45 +165,9 @@
         "time": "08:00"
       },
       {
-        "title": "Uruwashi no Yoi no Tsuki",
-        "page": "uruwashi-no-yoi-no-tsuki",
-        "image_url": "/wp-content/uploads/2026/01/154569.jpg",
-        "time": "08:00"
-      },
-      {
-        "title": "Seihantai na Kimi to Boku",
-        "page": "seihantai-na-kimi-to-boku",
-        "image_url": "/wp-content/uploads/2026/01/154457.jpg",
-        "time": "08:30"
-      },
-      {
-        "title": "Kaya-chan wa Kowakunai",
-        "page": "kaya-chan-wa-kowakunai",
-        "image_url": "/wp-content/uploads/2026/01/153705.jpg",
-        "time": "09:00"
-      },
-      {
-        "title": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
-        "page": "akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru",
-        "image_url": "/wp-content/uploads/2026/01/151284.jpg",
-        "time": "14:30"
-      },
-      {
-        "title": "Jigokuraku",
-        "page": "jigokuraku",
-        "image_url": "/wp-content/uploads/2023/04/134936.jpg",
-        "time": "15:15"
-      },
-      {
         "title": "Hikuidori - Ushuu Boro Tobi-gumi",
         "page": "hikuidori-ushuu-boro-tobi-gumi",
         "image_url": "/wp-content/uploads/2026/01/151615.jpg",
-        "time": "15:30"
-      },
-      {
-        "title": "Ikoku Nikki",
-        "page": "ikoku-nikki",
-        "image_url": "/wp-content/uploads/2026/01/154233.jpg",
         "time": "15:30"
       },
       {
