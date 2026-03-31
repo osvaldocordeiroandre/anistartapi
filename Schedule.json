@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T05:27:54.495Z",
+  "updatedAt": "2026-03-31T16:37:11.753Z",
   "schedule": {
     "Monday": [
       {
@@ -9,32 +9,7 @@
         "time": "17:00"
       }
     ],
-    "Tuesday": [
-      {
-        "title": "Chitose-kun wa Ramune Bin no Naka",
-        "page": "chitose-kun-wa-ramune-bin-no-naka",
-        "image_url": "/wp-content/uploads/2025/10/151233.jpg",
-        "time": "10:30"
-      },
-      {
-        "title": "Kanteishi (Kari)",
-        "page": "kanteishi-kari",
-        "image_url": "/wp-content/uploads/2026/03/155095.jpg",
-        "time": "13:00"
-      },
-      {
-        "title": "Maid-san wa Taberu Dake",
-        "page": "maid-san-wa-taberu-dake",
-        "image_url": "/wp-content/uploads/2026/03/156007.jpg",
-        "time": "13:00"
-      },
-      {
-        "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
-        "page": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita",
-        "image_url": "/wp-content/uploads/2026/01/152828.jpg",
-        "time": "15:00"
-      }
-    ],
+    "Tuesday": [],
     "Wednesday": [
       {
         "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4",
@@ -61,9 +36,9 @@
         "time": "15:30"
       },
       {
-        "title": "The Beginning After the End",
-        "page": "the-beginning-after-the-end",
-        "image_url": "/wp-content/uploads/2025/04/148299.jpg",
+        "title": "The Beginning After the End S2",
+        "page": "",
+        "image_url": "",
         "time": "17:25"
       }
     ],
@@ -109,6 +84,12 @@
         "time": "11:30"
       },
       {
+        "title": "Kanteishi (Kari)",
+        "page": "kanteishi-kari",
+        "image_url": "/wp-content/uploads/2026/03/155095.jpg",
+        "time": "14:30"
+      },
+      {
         "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
         "page": "jingai-kyoushitsu-no-ningengirai-kyoushi",
         "image_url": "/wp-content/uploads/2026/01/151933.jpg",
@@ -145,6 +126,12 @@
         "page": "niwatori-fighter",
         "image_url": "/wp-content/uploads/2026/03/150983.jpg",
         "time": "08:00"
+      },
+      {
+        "title": "Maid-san wa Taberu Dake",
+        "page": "maid-san-wa-taberu-dake",
+        "image_url": "/wp-content/uploads/2026/03/156007.jpg",
+        "time": "14:00"
       },
       {
         "title": "Hikuidori - Ushuu Boro Tobi-gumi",
