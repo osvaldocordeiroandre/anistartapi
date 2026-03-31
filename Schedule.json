@@ -1,25 +1,7 @@
 {
-  "updatedAt": "2026-03-30T15:42:42.733Z",
+  "updatedAt": "2026-03-31T05:27:54.495Z",
   "schedule": {
     "Monday": [
-      {
-        "title": "Vigilante - Boku no Hero Academia Illegals S2",
-        "page": "vigilante-boku-no-hero-academia-illegals-s2",
-        "image_url": "/wp-content/uploads/2026/01/154049.jpg",
-        "time": "14:00"
-      },
-      {
-        "title": "Golden Kamuy",
-        "page": "golden-kamuy",
-        "image_url": "/wp-content/uploads/2020/10/90880.jpg",
-        "time": "14:30"
-      },
-      {
-        "title": "Hime-sama Goumon no Jikan desu",
-        "page": "hime-sama-goumon-no-jikan-desu",
-        "image_url": "/wp-content/uploads/2024/01/139398.jpg",
-        "time": "16:00"
-      },
       {
         "title": "Release that Witch",
         "page": "release-that-witch",
@@ -28,6 +10,12 @@
       }
     ],
     "Tuesday": [
+      {
+        "title": "Chitose-kun wa Ramune Bin no Naka",
+        "page": "chitose-kun-wa-ramune-bin-no-naka",
+        "image_url": "/wp-content/uploads/2025/10/151233.jpg",
+        "time": "10:30"
+      },
       {
         "title": "Kanteishi (Kari)",
         "page": "kanteishi-kari",
@@ -45,12 +33,6 @@
         "page": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita",
         "image_url": "/wp-content/uploads/2026/01/152828.jpg",
         "time": "15:00"
-      },
-      {
-        "title": "Chitose-kun wa Ramune Bin no Naka",
-        "page": "chitose-kun-wa-ramune-bin-no-naka",
-        "image_url": "/wp-content/uploads/2025/10/151233.jpg",
-        "time": "15:30"
       }
     ],
     "Wednesday": [
