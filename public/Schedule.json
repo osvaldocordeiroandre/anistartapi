@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T16:48:56.076Z",
+  "updatedAt": "2026-04-01T17:20:38.815Z",
   "schedule": {
     "Monday": [
       {
@@ -30,14 +30,8 @@
         "time": "14:00"
       },
       {
-        "title": "Ganbare! Nakamura-kun!!",
-        "page": "ganbare-nakamura-kun",
-        "image_url": "/wp-content/uploads/2026/03/155682.jpg",
-        "time": "16:00"
-      },
-      {
         "title": "Nigetsuri",
-        "page": "",
+        "page": "nigetsuri",
         "image_url": "",
         "time": "16:00"
       },
@@ -46,6 +40,12 @@
         "page": "the-beginning-after-the-end-s2",
         "image_url": "",
         "time": "16:15"
+      },
+      {
+        "title": "Ganbare! Nakamura-kun!!",
+        "page": "ganbare-nakamura-kun",
+        "image_url": "/wp-content/uploads/2026/03/155682.jpg",
+        "time": "17:00"
       }
     ],
     "Thursday": [
