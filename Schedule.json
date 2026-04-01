@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T16:37:11.753Z",
+  "updatedAt": "2026-04-01T06:55:58.297Z",
   "schedule": {
     "Monday": [
       {
@@ -37,7 +37,7 @@
       },
       {
         "title": "The Beginning After the End S2",
-        "page": "",
+        "page": "the-beginning-after-the-end-s2",
         "image_url": "",
         "time": "17:25"
       }
@@ -51,13 +51,13 @@
       },
       {
         "title": "Kirio Fanclub",
-        "page": "",
+        "page": "kirio-fanclub",
         "image_url": "",
         "time": "16:00"
       },
       {
         "title": "Reincarnation no Kaben",
-        "page": "",
+        "page": "reincarnation-no-kaben",
         "image_url": "",
         "time": "16:30"
       }
