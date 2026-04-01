@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T06:55:58.297Z",
+  "updatedAt": "2026-04-01T14:15:18.753Z",
   "schedule": {
     "Monday": [
       {
@@ -15,6 +15,12 @@
         "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4",
         "page": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-s4",
         "image_url": "/wp-content/uploads/2026/03/153626.jpg",
+        "time": "12:30"
+      },
+      {
+        "title": "Dorohedoro S2",
+        "page": "dorohedoro-s2",
+        "image_url": "/wp-content/uploads/2026/03/155354.jpg",
         "time": "14:00"
       },
       {
@@ -22,12 +28,6 @@
         "page": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-s3",
         "image_url": "/wp-content/uploads/2026/03/156029.jpg",
         "time": "14:30"
-      },
-      {
-        "title": "Dorohedoro S2",
-        "page": "dorohedoro-s2",
-        "image_url": "/wp-content/uploads/2026/03/155354.jpg",
-        "time": "15:00"
       },
       {
         "title": "Ganbare! Nakamura-kun!!",
