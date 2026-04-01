@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T20:41:37.044Z",
+  "updatedAt": "2026-04-01T21:37:42.136Z",
   "schedule": {
     "Monday": [
       {
@@ -15,6 +15,24 @@
         "time": "14:00"
       },
       {
+        "title": "Tongari Boushi no Atelier",
+        "page": "",
+        "image_url": "",
+        "time": "14:00"
+      },
+      {
+        "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+        "page": "",
+        "image_url": "",
+        "time": "14:30"
+      },
+      {
+        "title": "LIAR GAME",
+        "page": "",
+        "image_url": "",
+        "time": "15:00"
+      },
+      {
         "title": "Release that Witch",
         "page": "release-that-witch",
         "image_url": "/wp-content/uploads/2026/03/153536.jpg",
@@ -27,6 +45,42 @@
         "page": "",
         "image_url": "",
         "time": "13:30"
+      },
+      {
+        "title": "MARRIAGETOXIN",
+        "page": "",
+        "image_url": "",
+        "time": "14:00"
+      },
+      {
+        "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+        "page": "",
+        "image_url": "",
+        "time": "14:30"
+      },
+      {
+        "title": "Replica datte, Koi wo Suru.",
+        "page": "",
+        "image_url": "",
+        "time": "14:30"
+      },
+      {
+        "title": "Hidarikiki no Eren",
+        "page": "",
+        "image_url": "",
+        "time": "15:00"
+      },
+      {
+        "title": "Tadaima, Ojamasaremasu!",
+        "page": "",
+        "image_url": "",
+        "time": "16:30"
+      },
+      {
+        "title": "Yuusha no Rokkotsu de",
+        "page": "",
+        "image_url": "",
+        "time": "17:05"
       }
     ],
     "Wednesday": [
@@ -229,6 +283,12 @@
         "page": "niwatori-fighter",
         "image_url": "/wp-content/uploads/2026/03/150983.jpg",
         "time": "08:00"
+      },
+      {
+        "title": "Ace of Diamond Act II S2",
+        "page": "",
+        "image_url": "",
+        "time": "08:30"
       },
       {
         "title": "Maid-san wa Taberu Dake",
