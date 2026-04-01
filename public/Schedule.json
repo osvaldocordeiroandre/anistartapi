@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-01T19:56:17.659Z",
+  "updatedAt": "2026-04-01T20:41:37.044Z",
   "schedule": {
     "Monday": [
+      {
+        "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+        "page": "",
+        "image_url": "",
+        "time": "13:00"
+      },
       {
         "title": "Isekai Nonbiri Nouka S2",
         "page": "",
@@ -139,6 +145,12 @@
         "time": "08:30"
       },
       {
+        "title": "Mairimashita! Iruma-kun S4",
+        "page": "",
+        "image_url": "",
+        "time": "10:30"
+      },
+      {
         "title": "Detective Conan",
         "page": "detective-conan",
         "image_url": "/wp-content/uploads/2020/10/75199.jpg",
@@ -172,6 +184,12 @@
         "title": "Kanan-sama wa Akumade Choroi",
         "page": "",
         "image_url": "",
+        "time": "16:00"
+      },
+      {
+        "title": "One Piece",
+        "page": "one-piece",
+        "image_url": "/wp-content/uploads/2020/10/73245.jpg",
         "time": "16:00"
       },
       {
@@ -217,6 +235,12 @@
         "page": "maid-san-wa-taberu-dake",
         "image_url": "/wp-content/uploads/2026/03/156007.jpg",
         "time": "14:00"
+      },
+      {
+        "title": "Ghost Concert - missing Songs",
+        "page": "",
+        "image_url": "",
+        "time": "15:30"
       },
       {
         "title": "Hikuidori - Ushuu Boro Tobi-gumi",
