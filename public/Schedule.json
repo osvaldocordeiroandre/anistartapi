@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-04-01T17:20:38.815Z",
+  "updatedAt": "2026-04-01T18:55:22.041Z",
   "schedule": {
     "Monday": [
+      {
+        "title": "Isekai Nonbiri Nouka S2",
+        "page": "",
+        "image_url": "",
+        "time": "14:00"
+      },
       {
         "title": "Release that Witch",
         "page": "release-that-witch",
@@ -9,7 +15,14 @@
         "time": "17:00"
       }
     ],
-    "Tuesday": [],
+    "Tuesday": [
+      {
+        "title": "LasTame S2",
+        "page": "",
+        "image_url": "",
+        "time": "13:30"
+      }
+    ],
     "Wednesday": [
       {
         "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4",
@@ -62,10 +75,22 @@
         "time": "16:00"
       },
       {
+        "title": "Haibara-kun no Tsuyokute Seishun New Game",
+        "page": "",
+        "image_url": "",
+        "time": "16:30"
+      },
+      {
         "title": "Reincarnation no Kaben",
         "page": "reincarnation-no-kaben",
         "image_url": "",
         "time": "16:30"
+      },
+      {
+        "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+        "page": "",
+        "image_url": "",
+        "time": "17:00"
       }
     ],
     "Friday": [
@@ -76,6 +101,24 @@
         "time": "02:00"
       },
       {
+        "title": "Snowball Earth",
+        "page": "",
+        "image_url": "",
+        "time": "14:30"
+      },
+      {
+        "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S2",
+        "page": "",
+        "image_url": "",
+        "time": "15:00"
+      },
+      {
+        "title": "Tensei Shitara Slime Datta Ken",
+        "page": "tensei-shitara-slime-datta-ken",
+        "image_url": "/wp-content/uploads/2021/01/93337.jpg",
+        "time": "15:30"
+      },
+      {
         "title": "Enen no Shouboutai S3",
         "page": "enen-no-shouboutai-s3",
         "image_url": "/wp-content/uploads/2025/04/146836.jpg",
@@ -83,6 +126,12 @@
       }
     ],
     "Saturday": [
+      {
+        "title": "Rilakkuma",
+        "page": "",
+        "image_url": "",
+        "time": "00:25"
+      },
       {
         "title": "Detective Conan",
         "page": "detective-conan",
