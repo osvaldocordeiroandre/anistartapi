@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T18:55:22.041Z",
+  "updatedAt": "2026-04-01T19:56:17.659Z",
   "schedule": {
     "Monday": [
       {
@@ -133,6 +133,12 @@
         "time": "00:25"
       },
       {
+        "title": "Honzuki no Gekokujou",
+        "page": "honzuki-no-gekokujou",
+        "image_url": "/wp-content/uploads/2022/04/101697.jpg",
+        "time": "08:30"
+      },
+      {
         "title": "Detective Conan",
         "page": "detective-conan",
         "image_url": "/wp-content/uploads/2020/10/75199.jpg",
@@ -145,10 +151,34 @@
         "time": "14:30"
       },
       {
+        "title": "Yomi no Tsugai",
+        "page": "",
+        "image_url": "",
+        "time": "14:30"
+      },
+      {
         "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
         "page": "jingai-kyoushitsu-no-ningengirai-kyoushi",
         "image_url": "/wp-content/uploads/2026/01/151933.jpg",
         "time": "15:30"
+      },
+      {
+        "title": "NEEDY GIRL OVERDOSE",
+        "page": "",
+        "image_url": "",
+        "time": "15:30"
+      },
+      {
+        "title": "Kanan-sama wa Akumade Choroi",
+        "page": "",
+        "image_url": "",
+        "time": "16:00"
+      },
+      {
+        "title": "Kami no Niwatsuki Kusunoki-tei",
+        "page": "",
+        "image_url": "",
+        "time": "16:30"
       },
       {
         "title": "Shunkashuutou Daikousha - Haru no Mai",
