@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T17:28:51.154Z",
+  "updatedAt": "2026-04-02T18:31:52.722Z",
   "schedule": {
     "Monday": [
       {
@@ -148,9 +148,9 @@
       },
       {
         "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-        "page": "",
+        "page": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
         "image_url": "",
-        "time": "17:00"
+        "time": "17:30"
       }
     ],
     "Friday": [
@@ -241,12 +241,6 @@
         "time": "16:00"
       },
       {
-        "title": "One Piece",
-        "page": "one-piece",
-        "image_url": "/wp-content/uploads/2020/10/73245.jpg",
-        "time": "16:00"
-      },
-      {
         "title": "Kami no Niwatsuki Kusunoki-tei",
         "page": "",
         "image_url": "",
@@ -307,6 +301,12 @@
         "page": "hikuidori-ushuu-boro-tobi-gumi",
         "image_url": "/wp-content/uploads/2026/01/151615.jpg",
         "time": "15:30"
+      },
+      {
+        "title": "One Piece",
+        "page": "one-piece",
+        "image_url": "/wp-content/uploads/2020/10/73245.jpg",
+        "time": "16:00"
       },
       {
         "title": "Yami Shibai 16",
