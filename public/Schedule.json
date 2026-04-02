@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T21:37:42.136Z",
+  "updatedAt": "2026-04-02T17:28:51.154Z",
   "schedule": {
     "Monday": [
       {
@@ -135,16 +135,16 @@
         "time": "16:00"
       },
       {
-        "title": "Haibara-kun no Tsuyokute Seishun New Game",
-        "page": "",
-        "image_url": "",
-        "time": "16:30"
-      },
-      {
         "title": "Reincarnation no Kaben",
         "page": "reincarnation-no-kaben",
         "image_url": "",
         "time": "16:30"
+      },
+      {
+        "title": "Haibara-kun no Tsuyokute Seishun New Game",
+        "page": "haibara-kun-no-tsuyokute-seishun-new-game",
+        "image_url": "",
+        "time": "17:00"
       },
       {
         "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
