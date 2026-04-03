@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T16:06:18.588Z",
+  "updatedAt": "2026-04-03T19:53:55.637Z",
   "schedule": {
     "Monday": [
       {
@@ -213,12 +213,6 @@
         "page": "snowball-earth",
         "image_url": "",
         "time": "15:30"
-      },
-      {
-        "title": "Enen no Shouboutai S3",
-        "page": "enen-no-shouboutai-s3",
-        "image_url": "/wp-content/uploads/2025/04/146836.jpg",
-        "time": "17:30"
       }
     ],
     "Saturday": [
@@ -253,12 +247,6 @@
         "time": "14:30"
       },
       {
-        "title": "Yomi no Tsugai",
-        "page": "",
-        "image_url": "",
-        "time": "14:30"
-      },
-      {
         "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
         "page": "jingai-kyoushitsu-no-ningengirai-kyoushi",
         "image_url": "/wp-content/uploads/2026/01/151933.jpg",
@@ -272,6 +260,12 @@
       },
       {
         "title": "Kanan-sama wa Akumade Choroi",
+        "page": "",
+        "image_url": "",
+        "time": "16:00"
+      },
+      {
+        "title": "Yomi no Tsugai",
         "page": "",
         "image_url": "",
         "time": "16:00"
