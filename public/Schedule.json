@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T15:35:52.187Z",
+  "updatedAt": "2026-04-03T16:06:18.588Z",
   "schedule": {
     "Monday": [
       {
@@ -140,6 +140,12 @@
       }
     ],
     "Thursday": [
+      {
+        "title": "Himekishi wa Barbaroi no Yome",
+        "page": "",
+        "image_url": "",
+        "time": "12:30"
+      },
       {
         "title": "Kujima Utaeba Ie Hororo",
         "page": "",
