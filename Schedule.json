@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T14:54:36.576Z",
+  "updatedAt": "2026-04-03T15:35:52.187Z",
   "schedule": {
     "Monday": [
       {
@@ -131,9 +131,21 @@
         "page": "ganbare-nakamura-kun",
         "image_url": "/wp-content/uploads/2026/03/155682.jpg",
         "time": "17:00"
+      },
+      {
+        "title": "Kanojo, Okarishimasu",
+        "page": "kanojo-okarishimasu",
+        "image_url": "/wp-content/uploads/2022/07/107693.jpeg",
+        "time": "17:00"
       }
     ],
     "Thursday": [
+      {
+        "title": "Kujima Utaeba Ie Hororo",
+        "page": "",
+        "image_url": "",
+        "time": "13:30"
+      },
       {
         "title": "Dr. Stone S4",
         "page": "dr-stone-s4",
@@ -151,6 +163,12 @@
         "page": "reincarnation-no-kaben",
         "image_url": "",
         "time": "16:30"
+      },
+      {
+        "title": "Awajima Hyakkei",
+        "page": "",
+        "image_url": "",
+        "time": "16:45"
       },
       {
         "title": "Haibara-kun no Tsuyokute Seishun New Game",
@@ -173,21 +191,21 @@
         "time": "02:00"
       },
       {
-        "title": "Snowball Earth",
-        "page": "",
+        "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S2",
+        "page": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-s2",
         "image_url": "",
         "time": "14:30"
       },
       {
-        "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S2",
-        "page": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-s2",
+        "title": "Tensei Shitara Slime Datta Ken S4",
+        "page": "tensei-shitara-slime-datta-ken-s4",
         "image_url": "",
         "time": "15:00"
       },
       {
-        "title": "Tensei Shitara Slime Datta Ken",
-        "page": "tensei-shitara-slime-datta-ken",
-        "image_url": "/wp-content/uploads/2021/01/93337.jpg",
+        "title": "Snowball Earth",
+        "page": "snowball-earth",
+        "image_url": "",
         "time": "15:30"
       },
       {
