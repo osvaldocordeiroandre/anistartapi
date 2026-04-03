@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T14:00:06.667Z",
+  "updatedAt": "2026-04-03T14:54:36.576Z",
   "schedule": {
     "Monday": [
       {
@@ -91,6 +91,12 @@
         "time": "12:30"
       },
       {
+        "title": "Re Zero kara Hajimeru Isekai Seikatsu",
+        "page": "re-zero-kara-hajimeru-isekai-seikatsu",
+        "image_url": "/wp-content/uploads/2021/01/79410.jpg",
+        "time": "13:00"
+      },
+      {
         "title": "Dorohedoro S2",
         "page": "dorohedoro-s2",
         "image_url": "/wp-content/uploads/2026/03/155354.jpg",
@@ -101,6 +107,12 @@
         "page": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-s3",
         "image_url": "/wp-content/uploads/2026/03/156029.jpg",
         "time": "14:00"
+      },
+      {
+        "title": "Otaku ni Yasashii Gal wa Inai",
+        "page": "",
+        "image_url": "",
+        "time": "14:51"
       },
       {
         "title": "Nigetsuri",
@@ -168,7 +180,7 @@
       },
       {
         "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S2",
-        "page": "",
+        "page": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-s2",
         "image_url": "",
         "time": "15:00"
       },
