@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T06:38:23.919Z",
+  "updatedAt": "2026-04-04T12:44:30.279Z",
   "schedule": {
     "Monday": [
       {
@@ -220,19 +220,19 @@
         "title": "Rilakkuma",
         "page": "rilakkuma",
         "image_url": "/wp-content/uploads/2026/04/155696.jpg",
-        "time": "00:25"
+        "time": "01:00"
       },
       {
-        "title": "Honzuki no Gekokujou",
-        "page": "honzuki-no-gekokujou",
-        "image_url": "/wp-content/uploads/2022/04/101697.jpg",
-        "time": "08:30"
+        "title": "Honzuki no Gekokujou S4",
+        "page": "honzuki-no-gekokujou-s4",
+        "image_url": "",
+        "time": "09:30"
       },
       {
         "title": "Mairimashita! Iruma-kun S4",
         "page": "mairimashita-iruma-kun-s4",
         "image_url": "/wp-content/uploads/2026/04/154048.jpg",
-        "time": "10:30"
+        "time": "10:25"
       },
       {
         "title": "Detective Conan",
