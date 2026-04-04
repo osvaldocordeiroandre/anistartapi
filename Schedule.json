@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T19:53:55.637Z",
+  "updatedAt": "2026-04-04T01:50:41.837Z",
   "schedule": {
     "Monday": [
       {
@@ -218,7 +218,7 @@
     "Saturday": [
       {
         "title": "Rilakkuma",
-        "page": "",
+        "page": "rilakkuma",
         "image_url": "",
         "time": "00:25"
       },
