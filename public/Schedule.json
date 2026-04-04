@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T14:29:49.458Z",
+  "updatedAt": "2026-04-04T17:04:45.178Z",
   "schedule": {
     "Monday": [
       {
@@ -259,18 +259,6 @@
         "time": "13:30"
       },
       {
-        "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-        "page": "jingai-kyoushitsu-no-ningengirai-kyoushi",
-        "image_url": "/wp-content/uploads/2026/01/151933.jpg",
-        "time": "15:30"
-      },
-      {
-        "title": "NEEDY GIRL OVERDOSE",
-        "page": "needy-girl-overdose",
-        "image_url": "/wp-content/uploads/2026/04/154935.jpg",
-        "time": "15:30"
-      },
-      {
         "title": "Kanan-sama wa Akumade Choroi",
         "page": "kanan-sama-wa-akumade-choroi",
         "image_url": "/wp-content/uploads/2026/04/154996.jpg",
@@ -293,6 +281,12 @@
         "page": "shunkashuutou-daikousha-haru-no-mai",
         "image_url": "/wp-content/uploads/2026/03/155524.jpg",
         "time": "16:30"
+      },
+      {
+        "title": "NEEDY GIRL OVERDOSE",
+        "page": "needy-girl-overdose",
+        "image_url": "/wp-content/uploads/2026/04/154935.jpg",
+        "time": "17:00"
       },
       {
         "title": "Yuusha no Kuzu",
