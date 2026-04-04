@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T01:50:41.837Z",
+  "updatedAt": "2026-04-04T05:36:19.470Z",
   "schedule": {
     "Monday": [
       {
@@ -10,25 +10,25 @@
       },
       {
         "title": "Isekai Nonbiri Nouka S2",
-        "page": "",
+        "page": "isekai-nonbiri-nouka-s2",
         "image_url": "",
         "time": "14:00"
       },
       {
         "title": "Tongari Boushi no Atelier",
-        "page": "",
+        "page": "tongari-boushi-no-atelier",
         "image_url": "",
         "time": "14:00"
       },
       {
         "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
-        "page": "",
+        "page": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
         "image_url": "",
         "time": "14:30"
       },
       {
         "title": "LIAR GAME",
-        "page": "",
+        "page": "liar-game",
         "image_url": "",
         "time": "15:00"
       },
@@ -42,43 +42,43 @@
     "Tuesday": [
       {
         "title": "LasTame S2",
-        "page": "",
+        "page": "lastame-s2",
         "image_url": "",
         "time": "13:30"
       },
       {
         "title": "MARRIAGETOXIN",
-        "page": "",
+        "page": "marriagetoxin",
         "image_url": "",
         "time": "14:00"
       },
       {
         "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-        "page": "",
+        "page": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
         "image_url": "",
         "time": "14:30"
       },
       {
         "title": "Replica datte, Koi wo Suru.",
-        "page": "",
+        "page": "replica-datte-koi-wo-suru",
         "image_url": "",
         "time": "14:30"
       },
       {
         "title": "Hidarikiki no Eren",
-        "page": "",
+        "page": "hidarikiki-no-eren",
         "image_url": "",
         "time": "15:00"
       },
       {
         "title": "Tadaima, Ojamasaremasu!",
-        "page": "",
+        "page": "tadaima-ojamasaremasu",
         "image_url": "",
         "time": "16:30"
       },
       {
         "title": "Yuusha no Rokkotsu de",
-        "page": "",
+        "page": "yuusha-no-rokkotsu-de",
         "image_url": "",
         "time": "17:05"
       }
@@ -110,7 +110,7 @@
       },
       {
         "title": "Otaku ni Yasashii Gal wa Inai",
-        "page": "",
+        "page": "otaku-ni-yasashii-gal-wa-inai",
         "image_url": "",
         "time": "14:51"
       },
@@ -142,13 +142,13 @@
     "Thursday": [
       {
         "title": "Himekishi wa Barbaroi no Yome",
-        "page": "",
+        "page": "himekishi-wa-barbaroi-no-yome",
         "image_url": "",
         "time": "12:30"
       },
       {
         "title": "Kujima Utaeba Ie Hororo",
-        "page": "",
+        "page": "kujima-utaeba-ie-hororo",
         "image_url": "",
         "time": "13:30"
       },
@@ -172,7 +172,7 @@
       },
       {
         "title": "Awajima Hyakkei",
-        "page": "",
+        "page": "awajima-hyakkei",
         "image_url": "",
         "time": "16:45"
       },
@@ -230,7 +230,7 @@
       },
       {
         "title": "Mairimashita! Iruma-kun S4",
-        "page": "",
+        "page": "mairimashita-iruma-kun-s4",
         "image_url": "",
         "time": "10:30"
       },
@@ -254,25 +254,25 @@
       },
       {
         "title": "NEEDY GIRL OVERDOSE",
-        "page": "",
+        "page": "needy-girl-overdose",
         "image_url": "",
         "time": "15:30"
       },
       {
         "title": "Kanan-sama wa Akumade Choroi",
-        "page": "",
+        "page": "kanan-sama-wa-akumade-choroi",
         "image_url": "",
         "time": "16:00"
       },
       {
         "title": "Yomi no Tsugai",
-        "page": "",
+        "page": "yomi-no-tsugai",
         "image_url": "",
         "time": "16:00"
       },
       {
         "title": "Kami no Niwatsuki Kusunoki-tei",
-        "page": "",
+        "page": "kami-no-niwatsuki-kusunoki-tei",
         "image_url": "",
         "time": "16:30"
       },
@@ -310,7 +310,7 @@
       },
       {
         "title": "Ace of Diamond Act II S2",
-        "page": "",
+        "page": "ace-of-diamond-act-ii-s2",
         "image_url": "",
         "time": "08:30"
       },
@@ -322,7 +322,7 @@
       },
       {
         "title": "Ghost Concert - missing Songs",
-        "page": "",
+        "page": "ghost-concert-missing-songs",
         "image_url": "",
         "time": "15:30"
       },
