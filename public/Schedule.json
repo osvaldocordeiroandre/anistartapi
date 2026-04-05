@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T18:37:25.743Z",
+  "updatedAt": "2026-04-05T21:02:02.315Z",
   "schedule": {
     "Monday": [
       {
@@ -198,8 +198,8 @@
       },
       {
         "title": "Kami no Shizuku",
-        "page": "",
-        "image_url": "",
+        "page": "kami-no-shizuku",
+        "image_url": "/wp-content/uploads/2026/04/155698.jpg",
         "time": "14:30"
       },
       {
@@ -210,8 +210,8 @@
       },
       {
         "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
-        "page": "",
-        "image_url": "",
+        "page": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
+        "image_url": "/wp-content/uploads/2026/04/155965.jpg",
         "time": "15:00"
       },
       {
@@ -237,7 +237,7 @@
       {
         "title": "Honzuki no Gekokujou S4",
         "page": "honzuki-no-gekokujou-s4",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/04/155054.jpg",
         "time": "09:30"
       },
       {
@@ -254,8 +254,8 @@
       },
       {
         "title": "Yowayowa Sensei",
-        "page": "",
-        "image_url": "",
+        "page": "yowayowa-sensei",
+        "image_url": "/wp-content/uploads/2026/04/155774.jpg",
         "time": "13:00"
       },
       {
@@ -323,7 +323,7 @@
       {
         "title": "Tsue to Tsurugi no Wistoria S2",
         "page": "tsue-to-tsurugi-no-wistoria-s2",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/04/155788.jpg",
         "time": "08:30"
       },
       {
