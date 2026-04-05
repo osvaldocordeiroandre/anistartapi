@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T17:50:56.361Z",
+  "updatedAt": "2026-04-05T18:37:25.743Z",
   "schedule": {
     "Monday": [
       {
@@ -321,33 +321,27 @@
         "time": "08:00"
       },
       {
-        "title": "Ace of Diamond Act II S2",
-        "page": "ace-of-diamond-act-ii-s2",
-        "image_url": "/wp-content/uploads/2026/04/154245.jpg",
-        "time": "08:30"
-      },
-      {
         "title": "Tsue to Tsurugi no Wistoria S2",
         "page": "tsue-to-tsurugi-no-wistoria-s2",
         "image_url": "",
         "time": "08:30"
       },
       {
+        "title": "Ace of Diamond Act II S2",
+        "page": "ace-of-diamond-act-ii-s2",
+        "image_url": "/wp-content/uploads/2026/04/154245.jpg",
+        "time": "09:00"
+      },
+      {
         "title": "Maid-san wa Taberu Dake",
         "page": "maid-san-wa-taberu-dake",
         "image_url": "/wp-content/uploads/2026/03/156007.jpg",
-        "time": "13:00"
+        "time": "14:00"
       },
       {
         "title": "Ghost Concert - missing Songs",
         "page": "ghost-concert-missing-songs",
         "image_url": "/wp-content/uploads/2026/04/155658.jpg",
-        "time": "15:30"
-      },
-      {
-        "title": "Hikuidori - Ushuu Boro Tobi-gumi",
-        "page": "hikuidori-ushuu-boro-tobi-gumi",
-        "image_url": "/wp-content/uploads/2026/01/151615.jpg",
         "time": "15:30"
       },
       {
