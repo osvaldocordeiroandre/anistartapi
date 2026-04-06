@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T21:02:02.315Z",
+  "updatedAt": "2026-04-06T11:13:55.149Z",
   "schedule": {
     "Monday": [
       {
@@ -339,6 +339,12 @@
         "time": "14:00"
       },
       {
+        "title": "Kuroneko to Majo no Kyoushitsu",
+        "page": "",
+        "image_url": "",
+        "time": "14:30"
+      },
+      {
         "title": "Ghost Concert - missing Songs",
         "page": "ghost-concert-missing-songs",
         "image_url": "/wp-content/uploads/2026/04/155658.jpg",
@@ -349,12 +355,6 @@
         "page": "one-piece",
         "image_url": "/wp-content/uploads/2020/10/73245.jpg",
         "time": "16:00"
-      },
-      {
-        "title": "Yami Shibai 16",
-        "page": "yami-shibai-16",
-        "image_url": "/wp-content/uploads/2026/01/154215.jpg",
-        "time": "18:20"
       }
     ]
   }
