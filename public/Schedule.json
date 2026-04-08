@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T17:28:49.646Z",
+  "updatedAt": "2026-04-08T12:40:21.118Z",
   "schedule": {
     "Monday": [
       {
@@ -35,6 +35,12 @@
     ],
     "Tuesday": [
       {
+        "title": "Aishiteru Game wo Owarasetai",
+        "page": "",
+        "image_url": "",
+        "time": "13:30"
+      },
+      {
         "title": "LasTame S2",
         "page": "lastame-s2",
         "image_url": "/wp-content/uploads/2026/04/155657.jpg",
@@ -44,12 +50,6 @@
         "title": "MARRIAGETOXIN",
         "page": "marriagetoxin",
         "image_url": "/wp-content/uploads/2026/04/154309.jpg",
-        "time": "14:00"
-      },
-      {
-        "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-        "page": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-        "image_url": "/wp-content/uploads/2026/04/155713.jpg",
         "time": "14:30"
       },
       {
@@ -59,22 +59,28 @@
         "time": "14:30"
       },
       {
+        "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+        "page": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+        "image_url": "/wp-content/uploads/2026/04/155713.jpg",
+        "time": "15:00"
+      },
+      {
         "title": "Hidarikiki no Eren",
         "page": "hidarikiki-no-eren",
         "image_url": "/wp-content/uploads/2026/04/156388.jpg",
-        "time": "15:00"
+        "time": "16:00"
       },
       {
         "title": "Tadaima, Ojamasaremasu!",
         "page": "tadaima-ojamasaremasu",
         "image_url": "/wp-content/uploads/2026/04/156106.jpg",
-        "time": "16:30"
+        "time": "17:35"
       },
       {
         "title": "Yuusha no Rokkotsu de",
         "page": "yuusha-no-rokkotsu-de",
         "image_url": "/wp-content/uploads/2026/04/156005.jpg",
-        "time": "17:05"
+        "time": "18:05"
       }
     ],
     "Wednesday": [
@@ -127,9 +133,9 @@
         "time": "17:00"
       },
       {
-        "title": "Kanojo, Okarishimasu S5",
-        "page": "",
-        "image_url": "",
+        "title": "Kanojo, Okarishimasu",
+        "page": "kanojo-okarishimasu",
+        "image_url": "/wp-content/uploads/2022/07/107693.jpeg",
         "time": "17:00"
       }
     ],
