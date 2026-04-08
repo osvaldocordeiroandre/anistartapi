@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T12:40:21.118Z",
+  "updatedAt": "2026-04-08T13:23:04.912Z",
   "schedule": {
     "Monday": [
       {
@@ -91,6 +91,12 @@
         "time": "12:30"
       },
       {
+        "title": "Kanojo, Okarishimasu",
+        "page": "kanojo-okarishimasu",
+        "image_url": "/wp-content/uploads/2022/07/107693.jpeg",
+        "time": "13:00"
+      },
+      {
         "title": "Re Zero kara Hajimeru Isekai Seikatsu",
         "page": "re-zero-kara-hajimeru-isekai-seikatsu",
         "image_url": "/wp-content/uploads/2021/01/79410.jpg",
@@ -130,12 +136,6 @@
         "title": "Ganbare! Nakamura-kun!!",
         "page": "ganbare-nakamura-kun",
         "image_url": "/wp-content/uploads/2026/03/155682.jpg",
-        "time": "17:00"
-      },
-      {
-        "title": "Kanojo, Okarishimasu",
-        "page": "kanojo-okarishimasu",
-        "image_url": "/wp-content/uploads/2022/07/107693.jpeg",
         "time": "17:00"
       }
     ],
