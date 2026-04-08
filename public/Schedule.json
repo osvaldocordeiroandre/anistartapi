@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T13:23:04.912Z",
+  "updatedAt": "2026-04-08T14:29:28.796Z",
   "schedule": {
     "Monday": [
       {
@@ -97,12 +97,6 @@
         "time": "13:00"
       },
       {
-        "title": "Re Zero kara Hajimeru Isekai Seikatsu",
-        "page": "re-zero-kara-hajimeru-isekai-seikatsu",
-        "image_url": "/wp-content/uploads/2021/01/79410.jpg",
-        "time": "13:00"
-      },
-      {
         "title": "Dorohedoro S2",
         "page": "dorohedoro-s2",
         "image_url": "/wp-content/uploads/2026/03/155354.jpg",
@@ -112,6 +106,12 @@
         "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S3",
         "page": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-s3",
         "image_url": "/wp-content/uploads/2026/03/156029.jpg",
+        "time": "14:00"
+      },
+      {
+        "title": "Re Zero kara Hajimeru Isekai Seikatsu",
+        "page": "re-zero-kara-hajimeru-isekai-seikatsu",
+        "image_url": "/wp-content/uploads/2021/01/79410.jpg",
         "time": "14:00"
       },
       {
