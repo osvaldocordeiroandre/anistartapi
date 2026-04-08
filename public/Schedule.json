@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T14:29:28.796Z",
+  "updatedAt": "2026-04-08T16:02:04.027Z",
   "schedule": {
     "Monday": [
       {
@@ -118,7 +118,7 @@
         "title": "Otaku ni Yasashii Gal wa Inai",
         "page": "otaku-ni-yasashii-gal-wa-inai",
         "image_url": "/wp-content/uploads/2026/04/155456.jpg",
-        "time": "14:51"
+        "time": "15:45"
       },
       {
         "title": "Nigetsuri",
@@ -269,6 +269,12 @@
         "page": "kanteishi-kari",
         "image_url": "/wp-content/uploads/2026/03/155095.jpg",
         "time": "13:30"
+      },
+      {
+        "title": "Kill Ao",
+        "page": "",
+        "image_url": "",
+        "time": "14:30"
       },
       {
         "title": "Kanan-sama wa Akumade Choroi",
