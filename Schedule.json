@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T16:02:04.027Z",
+  "updatedAt": "2026-04-09T14:16:00.840Z",
   "schedule": {
     "Monday": [
       {
@@ -147,15 +147,15 @@
         "time": "12:30"
       },
       {
-        "title": "Kujima Utaeba Ie Hororo",
-        "page": "kujima-utaeba-ie-hororo",
-        "image_url": "/wp-content/uploads/2026/04/155195.jpg",
-        "time": "13:30"
-      },
-      {
         "title": "Dr. Stone S4",
         "page": "dr-stone-s4",
         "image_url": "/wp-content/uploads/2025/01/146479.jpg",
+        "time": "14:00"
+      },
+      {
+        "title": "Kujima Utaeba Ie Hororo",
+        "page": "kujima-utaeba-ie-hororo",
+        "image_url": "/wp-content/uploads/2026/04/155195.jpg",
         "time": "14:00"
       },
       {
