@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T14:16:00.840Z",
+  "updatedAt": "2026-04-10T17:43:33.654Z",
   "schedule": {
     "Monday": [
       {
@@ -203,22 +203,10 @@
         "time": "13:00"
       },
       {
-        "title": "Kami no Shizuku",
-        "page": "kami-no-shizuku",
-        "image_url": "/wp-content/uploads/2026/04/155698.jpg",
-        "time": "14:30"
-      },
-      {
         "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S2",
         "page": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-s2",
         "image_url": "/wp-content/uploads/2026/04/154843.jpg",
         "time": "14:30"
-      },
-      {
-        "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
-        "page": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
-        "image_url": "/wp-content/uploads/2026/04/155965.jpg",
-        "time": "15:00"
       },
       {
         "title": "Tensei Shitara Slime Datta Ken S4",
@@ -227,10 +215,22 @@
         "time": "15:00"
       },
       {
+        "title": "Kami no Shizuku",
+        "page": "kami-no-shizuku",
+        "image_url": "/wp-content/uploads/2026/04/155698.jpg",
+        "time": "15:30"
+      },
+      {
         "title": "Snowball Earth",
         "page": "snowball-earth",
         "image_url": "/wp-content/uploads/2026/04/156390.jpg",
         "time": "15:30"
+      },
+      {
+        "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+        "page": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
+        "image_url": "/wp-content/uploads/2026/04/155965.jpg",
+        "time": "16:30"
       }
     ],
     "Saturday": [
