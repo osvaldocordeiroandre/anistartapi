@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T15:32:13.202Z",
+  "updatedAt": "2026-04-14T15:41:27.847Z",
   "schedule": {
     "Monday": [
       {
@@ -36,7 +36,7 @@
     "Tuesday": [
       {
         "title": "Aishiteru Game wo Owarasetai",
-        "page": "",
+        "page": "aishiteru-game-wo-owarasetai",
         "image_url": "",
         "time": "13:30"
       },
