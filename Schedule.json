@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T15:41:27.847Z",
+  "updatedAt": "2026-04-14T19:45:00.893Z",
   "schedule": {
     "Monday": [
       {
@@ -35,16 +35,16 @@
     ],
     "Tuesday": [
       {
-        "title": "Aishiteru Game wo Owarasetai",
-        "page": "aishiteru-game-wo-owarasetai",
-        "image_url": "",
-        "time": "13:30"
-      },
-      {
         "title": "LasTame S2",
         "page": "lastame-s2",
         "image_url": "/wp-content/uploads/2026/04/155657.jpg",
         "time": "13:30"
+      },
+      {
+        "title": "Aishiteru Game wo Owarasetai",
+        "page": "aishiteru-game-wo-owarasetai",
+        "image_url": "",
+        "time": "14:30"
       },
       {
         "title": "MARRIAGETOXIN",
