@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T19:45:00.893Z",
+  "updatedAt": "2026-04-26T19:57:25.140Z",
   "schedule": {
     "Monday": [
       {
@@ -43,7 +43,7 @@
       {
         "title": "Aishiteru Game wo Owarasetai",
         "page": "aishiteru-game-wo-owarasetai",
-        "image_url": "",
+        "image_url": "/wp-includes/images/image-coming-soon-placeholder.png",
         "time": "14:30"
       },
       {
@@ -273,7 +273,7 @@
       {
         "title": "Kill Ao",
         "page": "kill-ao",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/04/156600.jpg",
         "time": "14:30"
       },
       {
@@ -353,7 +353,7 @@
       {
         "title": "Kuroneko to Majo no Kyoushitsu",
         "page": "kuroneko-to-majo-no-kyoushitsu",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/04/153989.jpg",
         "time": "15:00"
       },
       {
