@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T19:05:45.582Z",
+  "updatedAt": "2026-05-27T04:50:39.139Z",
   "schedule": {
     "Monday": [
       {
@@ -37,7 +37,7 @@
       {
         "title": "Aishiteru Game wo Owarasetai",
         "page": "aishiteru-game-wo-owarasetai",
-        "image_url": "/wp-includes/images/image-coming-soon-placeholder.png",
+        "image_url": "/wp-content/uploads/2026/04/155958.jpg",
         "time": "14:30"
       },
       {
@@ -81,7 +81,7 @@
       {
         "title": "Quanzhi Fashi S7",
         "page": "quanzhi-fashi-s7",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/05/157370.jpg",
         "time": "02:30"
       },
       {
