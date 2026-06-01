@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T16:39:43.656Z",
+  "updatedAt": "2026-06-01T10:33:30.928Z",
   "schedule": {
     "Monday": [
       {
@@ -319,12 +319,6 @@
         "page": "digimon-beatbreak",
         "image_url": "/wp-content/uploads/2025/10/151242.jpg",
         "time": "03:00"
-      },
-      {
-        "title": "Niwatori Fighter",
-        "page": "niwatori-fighter",
-        "image_url": "/wp-content/uploads/2026/03/150983.jpg",
-        "time": "08:00"
       },
       {
         "title": "Tsue to Tsurugi no Wistoria S2",
