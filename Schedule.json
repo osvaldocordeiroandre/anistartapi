@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T10:33:30.928Z",
+  "updatedAt": "2026-06-14T21:20:57.876Z",
   "schedule": {
     "Monday": [
       {
@@ -257,12 +257,6 @@
         "page": "yowayowa-sensei",
         "image_url": "/wp-content/uploads/2026/04/155774.jpg",
         "time": "13:00"
-      },
-      {
-        "title": "Kanteishi (Kari)",
-        "page": "kanteishi-kari",
-        "image_url": "/wp-content/uploads/2026/03/155095.jpg",
-        "time": "13:30"
       },
       {
         "title": "Kill Ao",
