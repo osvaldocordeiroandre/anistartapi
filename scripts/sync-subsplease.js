@@ -40,23 +40,40 @@ async function syncRss() {
     explicitArray: false,
   });
 
-  const items = parsed?.rss?.channel?.item ?? [];
+  const newItems = parsed?.rss?.channel?.item ?? [];
 
   const local = fs.existsSync(RSS_FILE)
     ? JSON.parse(fs.readFileSync(RSS_FILE, "utf8"))
-    : null;
+    : { items: [] };
 
-  if (JSON.stringify(local?.items) === JSON.stringify(items)) {
+  // Junta os itens novos com os antigos
+  const allItems = [...newItems, ...(local.items || [])];
+
+  // Remove duplicatas usando o link do magnet como referência única
+  const uniqueItems = [];
+  const seenLinks = new Set();
+
+  for (const item of allItems) {
+    if (!seenLinks.has(item.link)) {
+      seenLinks.add(item.link);
+      uniqueItems.push(item);
+    }
+  }
+
+  // Ordena do mais recente para o mais antigo
+  uniqueItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+  if (JSON.stringify(local.items) === JSON.stringify(uniqueItems)) {
     return false;
   }
 
   const output = {
     updatedAt: new Date().toISOString(),
-    items,
+    items: uniqueItems,
   };
 
   fs.writeFileSync(RSS_FILE, JSON.stringify(output, null, 2));
-  console.log("RSS atualizado");
+  console.log("RSS atualizado e episódios acumulados");
   return true;
 }
 
