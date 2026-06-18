@@ -33,26 +33,48 @@ async function syncSchedule() {
 }
 
 async function syncRss() {
+  // 1. Puxa do Subsplease normalmente
   const res = await fetch(RSS_URL);
   const xml = await res.text();
+  const parsed = await parseStringPromise(xml, { explicitArray: false });
 
-  const parsed = await parseStringPromise(xml, {
-    explicitArray: false,
-  });
+  let newItems = parsed?.rss?.channel?.item || [];
+  if (!Array.isArray(newItems)) newItems = [newItems];
 
-  const newItems = parsed?.rss?.channel?.item ?? [];
+  // 2. BUSCA OS ANIMES EXTRAS NO NYAA.SI (Onde tem todos os animes)
+  // Separe os espaços do nome por "+" e coloque +1080p
+  const EXTRAS_SEARCHES = ["Akane-banashi+1080p"];
 
+  for (const query of EXTRAS_SEARCHES) {
+    try {
+      const nyaaRes = await fetch(
+        `https://nyaa.si/?page=rss&q=${query}&c=1_2&f=0`,
+      );
+      const nyaaXml = await nyaaRes.text();
+      const nyaaParsed = await parseStringPromise(nyaaXml, {
+        explicitArray: false,
+      });
+
+      let nyaaItems = nyaaParsed?.rss?.channel?.item || [];
+      if (!Array.isArray(nyaaItems)) nyaaItems = [nyaaItems];
+
+      // Junta os itens do Nyaa com os do Subsplease
+      newItems = [...newItems, ...nyaaItems];
+    } catch (err) {
+      console.error("Erro ao buscar extra no Nyaa:", query);
+    }
+  }
+
+  // 3. Lê o arquivo local para não perder o histórico (A Lógica de Acúmulo)
   const local = fs.existsSync(RSS_FILE)
     ? JSON.parse(fs.readFileSync(RSS_FILE, "utf8"))
     : { items: [] };
 
-  // Junta os itens novos com os antigos
   const allItems = [...newItems, ...(local.items || [])];
 
-  // Remove duplicatas usando o link do magnet como referência única
+  // 4. Remove duplicatas
   const uniqueItems = [];
   const seenLinks = new Set();
-
   for (const item of allItems) {
     if (!seenLinks.has(item.link)) {
       seenLinks.add(item.link);
@@ -63,20 +85,15 @@ async function syncRss() {
   // Ordena do mais recente para o mais antigo
   uniqueItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
-  if (JSON.stringify(local.items) === JSON.stringify(uniqueItems)) {
-    return false;
-  }
-
   const output = {
     updatedAt: new Date().toISOString(),
     items: uniqueItems,
   };
 
   fs.writeFileSync(RSS_FILE, JSON.stringify(output, null, 2));
-  console.log("RSS atualizado e episódios acumulados");
+  console.log("RSS atualizado com Subsplease + Nyaa Extras!");
   return true;
 }
-
 async function run() {
   let changed = false;
 
