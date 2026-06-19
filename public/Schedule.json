@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T21:20:57.876Z",
+  "updatedAt": "2026-06-19T08:16:42.791Z",
   "schedule": {
     "Monday": [
       {
@@ -103,34 +103,16 @@
         "time": "14:00"
       },
       {
-        "title": "Re Zero kara Hajimeru Isekai Seikatsu",
-        "page": "re-zero-kara-hajimeru-isekai-seikatsu",
-        "image_url": "/wp-content/uploads/2021/01/79410.jpg",
-        "time": "14:00"
-      },
-      {
         "title": "Otaku ni Yasashii Gal wa Inai",
         "page": "otaku-ni-yasashii-gal-wa-inai",
         "image_url": "/wp-content/uploads/2026/04/155456.jpg",
         "time": "15:45"
       },
       {
-        "title": "Nigetsuri",
-        "page": "nigetsuri",
-        "image_url": "/wp-content/uploads/2026/04/155068.jpg",
-        "time": "16:00"
-      },
-      {
         "title": "The Beginning After the End S2",
         "page": "the-beginning-after-the-end-s2",
         "image_url": "/wp-content/uploads/2026/04/156028.jpg",
         "time": "16:15"
-      },
-      {
-        "title": "Ganbare! Nakamura-kun!!",
-        "page": "ganbare-nakamura-kun",
-        "image_url": "/wp-content/uploads/2026/03/155682.jpg",
-        "time": "17:00"
       }
     ],
     "Thursday": [
@@ -153,12 +135,6 @@
         "time": "14:00"
       },
       {
-        "title": "Kirio Fanclub",
-        "page": "kirio-fanclub",
-        "image_url": "/wp-content/uploads/2026/04/155831.jpg",
-        "time": "16:00"
-      },
-      {
         "title": "Reincarnation no Kaben",
         "page": "reincarnation-no-kaben",
         "image_url": "/wp-content/uploads/2026/04/155042.jpg",
@@ -169,18 +145,6 @@
         "page": "awajima-hyakkei",
         "image_url": "/wp-content/uploads/2026/04/156361.jpg",
         "time": "16:45"
-      },
-      {
-        "title": "Haibara-kun no Tsuyokute Seishun New Game",
-        "page": "haibara-kun-no-tsuyokute-seishun-new-game",
-        "image_url": "/wp-content/uploads/2026/04/156048.jpg",
-        "time": "17:00"
-      },
-      {
-        "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-        "page": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
-        "image_url": "/wp-content/uploads/2026/04/156152.jpg",
-        "time": "17:30"
       }
     ],
     "Friday": [
@@ -325,12 +289,6 @@
         "page": "ace-of-diamond-act-ii-s2",
         "image_url": "/wp-content/uploads/2026/04/154245.jpg",
         "time": "09:00"
-      },
-      {
-        "title": "Maid-san wa Taberu Dake",
-        "page": "maid-san-wa-taberu-dake",
-        "image_url": "/wp-content/uploads/2026/03/156007.jpg",
-        "time": "14:00"
       },
       {
         "title": "Kuroneko to Majo no Kyoushitsu",
