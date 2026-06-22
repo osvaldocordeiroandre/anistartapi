@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T06:00:47.244Z",
+  "updatedAt": "2026-06-22T07:19:32.822Z",
   "schedule": {
     "Monday": [
       {
@@ -223,22 +223,10 @@
         "time": "14:30"
       },
       {
-        "title": "Kanan-sama wa Akumade Choroi",
-        "page": "kanan-sama-wa-akumade-choroi",
-        "image_url": "/wp-content/uploads/2026/04/154996.jpg",
-        "time": "16:00"
-      },
-      {
         "title": "Yomi no Tsugai",
         "page": "yomi-no-tsugai",
         "image_url": "/wp-content/uploads/2026/04/156397.jpg",
         "time": "16:00"
-      },
-      {
-        "title": "Kami no Niwatsuki Kusunoki-tei",
-        "page": "kami-no-niwatsuki-kusunoki-tei",
-        "image_url": "/wp-content/uploads/2026/04/156105.jpg",
-        "time": "16:30"
       },
       {
         "title": "Shunkashuutou Daikousha - Haru no Mai",
@@ -289,12 +277,6 @@
         "page": "kuroneko-to-majo-no-kyoushitsu",
         "image_url": "/wp-content/uploads/2026/04/153989.jpg",
         "time": "15:00"
-      },
-      {
-        "title": "Ghost Concert - missing Songs",
-        "page": "ghost-concert-missing-songs",
-        "image_url": "/wp-content/uploads/2026/04/155658.jpg",
-        "time": "15:30"
       },
       {
         "title": "One Piece",
