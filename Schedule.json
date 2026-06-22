@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T07:19:32.822Z",
+  "updatedAt": "2026-06-22T17:41:45.139Z",
   "schedule": {
     "Monday": [
       {
@@ -97,6 +97,12 @@
         "time": "13:00"
       },
       {
+        "title": "All Works Maid",
+        "page": "",
+        "image_url": "",
+        "time": "13:30"
+      },
+      {
         "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S3",
         "page": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-s3",
         "image_url": "/wp-content/uploads/2026/03/156029.jpg",
@@ -133,6 +139,12 @@
         "page": "kujima-utaeba-ie-hororo",
         "image_url": "/wp-content/uploads/2026/04/155195.jpg",
         "time": "14:00"
+      },
+      {
+        "title": "Rakudai Kenja no Gakuin Musou",
+        "page": "",
+        "image_url": "",
+        "time": "15:00"
       },
       {
         "title": "Reincarnation no Kaben",
