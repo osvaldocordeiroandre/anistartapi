@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T17:41:45.139Z",
+  "updatedAt": "2026-06-23T02:48:12.782Z",
   "schedule": {
     "Monday": [
       {
@@ -37,7 +37,7 @@
       {
         "title": "Aishiteru Game wo Owarasetai",
         "page": "aishiteru-game-wo-owarasetai",
-        "image_url": "/wp-content/uploads/2026/04/155958.jpg",
+        "image_url": "/wp-includes/images/image-coming-soon-placeholder.png",
         "time": "14:30"
       },
       {
@@ -98,8 +98,8 @@
       },
       {
         "title": "All Works Maid",
-        "page": "",
-        "image_url": "",
+        "page": "all-works-maid",
+        "image_url": "/wp-content/uploads/2026/06/158290.jpg",
         "time": "13:30"
       },
       {
@@ -142,8 +142,8 @@
       },
       {
         "title": "Rakudai Kenja no Gakuin Musou",
-        "page": "",
-        "image_url": "",
+        "page": "rakudai-kenja-no-gakuin-musou",
+        "image_url": "/wp-content/uploads/2026/06/158376.jpg",
         "time": "15:00"
       },
       {
@@ -201,7 +201,7 @@
       {
         "title": "Lord of Mysteries - Specials",
         "page": "lord-of-mysteries-specials",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/06/151543.jpg",
         "time": "02:00"
       },
       {
