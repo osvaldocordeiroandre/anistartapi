@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T16:12:19.693Z",
+  "updatedAt": "2026-06-24T16:38:27.628Z",
   "schedule": {
     "Monday": [
       {
@@ -10,12 +10,6 @@
       }
     ],
     "Tuesday": [
-      {
-        "title": "LasTame S2",
-        "page": "lastame-s2",
-        "image_url": "/wp-content/uploads/2026/04/155657.jpg",
-        "time": "13:30"
-      },
       {
         "title": "Aishiteru Game wo Owarasetai",
         "page": "aishiteru-game-wo-owarasetai",
@@ -35,28 +29,10 @@
         "time": "14:30"
       },
       {
-        "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-        "page": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-        "image_url": "/wp-content/uploads/2026/04/155713.jpg",
-        "time": "15:00"
-      },
-      {
         "title": "Hidarikiki no Eren",
         "page": "hidarikiki-no-eren",
         "image_url": "/wp-content/uploads/2026/04/156388.jpg",
         "time": "16:00"
-      },
-      {
-        "title": "Tadaima, Ojamasaremasu!",
-        "page": "tadaima-ojamasaremasu",
-        "image_url": "/wp-content/uploads/2026/04/156106.jpg",
-        "time": "17:35"
-      },
-      {
-        "title": "Yuusha no Rokkotsu de",
-        "page": "yuusha-no-rokkotsu-de",
-        "image_url": "/wp-content/uploads/2026/04/156005.jpg",
-        "time": "18:05"
       }
     ],
     "Wednesday": [
@@ -79,16 +55,16 @@
         "time": "13:00"
       },
       {
-        "title": "All Works Maid",
-        "page": "all-works-maid",
-        "image_url": "/wp-content/uploads/2026/06/158290.jpg",
-        "time": "13:30"
-      },
-      {
         "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S3",
         "page": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-s3",
         "image_url": "/wp-content/uploads/2026/03/156029.jpg",
         "time": "14:00"
+      },
+      {
+        "title": "All Works Maid",
+        "page": "all-works-maid",
+        "image_url": "/wp-content/uploads/2026/06/158290.jpg",
+        "time": "14:30"
       },
       {
         "title": "Otaku ni Yasashii Gal wa Inai",
