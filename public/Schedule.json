@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-24T16:38:27.628Z",
+  "updatedAt": "2026-06-26T06:51:56.032Z",
   "schedule": {
     "Monday": [
+      {
+        "title": "World Is Dancing",
+        "page": "",
+        "image_url": "",
+        "time": "13:30"
+      },
       {
         "title": "LIAR GAME",
         "page": "liar-game",
@@ -10,6 +16,12 @@
       }
     ],
     "Tuesday": [
+      {
+        "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+        "page": "",
+        "image_url": "",
+        "time": "13:00"
+      },
       {
         "title": "Aishiteru Game wo Owarasetai",
         "page": "aishiteru-game-wo-owarasetai",
@@ -43,78 +55,30 @@
         "time": "02:30"
       },
       {
-        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4",
-        "page": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-s4",
-        "image_url": "/wp-content/uploads/2026/03/153626.jpg",
-        "time": "12:30"
-      },
-      {
-        "title": "Kanojo, Okarishimasu",
-        "page": "kanojo-okarishimasu",
-        "image_url": "/wp-content/uploads/2022/07/107693.jpeg",
-        "time": "13:00"
-      },
-      {
-        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S3",
-        "page": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-s3",
-        "image_url": "/wp-content/uploads/2026/03/156029.jpg",
-        "time": "14:00"
-      },
-      {
         "title": "All Works Maid",
         "page": "all-works-maid",
         "image_url": "/wp-content/uploads/2026/06/158290.jpg",
         "time": "14:30"
       },
       {
-        "title": "Otaku ni Yasashii Gal wa Inai",
-        "page": "otaku-ni-yasashii-gal-wa-inai",
-        "image_url": "/wp-content/uploads/2026/04/155456.jpg",
-        "time": "15:45"
+        "title": "Lv999 no Murabito",
+        "page": "",
+        "image_url": "",
+        "time": "15:00"
       },
       {
-        "title": "The Beginning After the End S2",
-        "page": "the-beginning-after-the-end-s2",
-        "image_url": "/wp-content/uploads/2026/04/156028.jpg",
-        "time": "16:15"
+        "title": "Hanazakari no Kimitachi e",
+        "page": "hanazakari-no-kimitachi-e",
+        "image_url": "/wp-content/uploads/2026/01/152041.jpg",
+        "time": "15:30"
       }
     ],
     "Thursday": [
-      {
-        "title": "Himekishi wa Barbaroi no Yome",
-        "page": "himekishi-wa-barbaroi-no-yome",
-        "image_url": "/wp-content/uploads/2026/04/155022.jpg",
-        "time": "12:30"
-      },
-      {
-        "title": "Dr. Stone S4",
-        "page": "dr-stone-s4",
-        "image_url": "/wp-content/uploads/2025/01/146479.jpg",
-        "time": "14:00"
-      },
-      {
-        "title": "Kujima Utaeba Ie Hororo",
-        "page": "kujima-utaeba-ie-hororo",
-        "image_url": "/wp-content/uploads/2026/04/155195.jpg",
-        "time": "14:00"
-      },
       {
         "title": "Rakudai Kenja no Gakuin Musou",
         "page": "rakudai-kenja-no-gakuin-musou",
         "image_url": "/wp-content/uploads/2026/06/158376.jpg",
         "time": "15:00"
-      },
-      {
-        "title": "Reincarnation no Kaben",
-        "page": "reincarnation-no-kaben",
-        "image_url": "/wp-content/uploads/2026/04/155042.jpg",
-        "time": "16:30"
-      },
-      {
-        "title": "Awajima Hyakkei",
-        "page": "awajima-hyakkei",
-        "image_url": "/wp-content/uploads/2026/04/156361.jpg",
-        "time": "16:45"
       }
     ],
     "Friday": [
