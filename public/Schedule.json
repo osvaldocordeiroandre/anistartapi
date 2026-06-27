@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T15:19:18.536Z",
+  "updatedAt": "2026-06-27T16:34:35.638Z",
   "schedule": {
     "Monday": [
       {
@@ -75,13 +75,49 @@
     ],
     "Thursday": [
       {
+        "title": "Reiwa no Dara-san",
+        "page": "",
+        "image_url": "",
+        "time": "12:30"
+      },
+      {
+        "title": "Bungou Stray Dogs Wan! S2",
+        "page": "",
+        "image_url": "",
+        "time": "12:40"
+      },
+      {
         "title": "Rakudai Kenja no Gakuin Musou",
         "page": "rakudai-kenja-no-gakuin-musou",
         "image_url": "/wp-content/uploads/2026/06/158376.jpg",
         "time": "15:00"
+      },
+      {
+        "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+        "page": "",
+        "image_url": "",
+        "time": "15:26"
+      },
+      {
+        "title": "Otome Kaijuu Caramelise",
+        "page": "",
+        "image_url": "",
+        "time": "16:28"
       }
     ],
     "Friday": [
+      {
+        "title": "Uchi no Otouto-domo ga Sumimasen",
+        "page": "",
+        "image_url": "",
+        "time": "13:30"
+      },
+      {
+        "title": "Kokoore",
+        "page": "",
+        "image_url": "",
+        "time": "15:00"
+      },
       {
         "title": "Tensei Shitara Slime Datta Ken S4",
         "page": "tensei-shitara-slime-datta-ken-s4",
@@ -93,6 +129,12 @@
         "page": "kami-no-shizuku",
         "image_url": "/wp-content/uploads/2026/04/155698.jpg",
         "time": "15:30"
+      },
+      {
+        "title": "Hell Mode S2",
+        "page": "",
+        "image_url": "",
+        "time": "16:30"
       }
     ],
     "Saturday": [
