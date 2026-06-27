@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T06:51:56.032Z",
+  "updatedAt": "2026-06-27T15:19:18.536Z",
   "schedule": {
     "Monday": [
       {
@@ -83,12 +83,6 @@
     ],
     "Friday": [
       {
-        "title": "Hitori no Shita - The Outcast S6",
-        "page": "hitori-no-shita-the-outcast-s6",
-        "image_url": "/wp-content/uploads/2026/01/151431.jpg",
-        "time": "02:00"
-      },
-      {
         "title": "Tensei Shitara Slime Datta Ken S4",
         "page": "tensei-shitara-slime-datta-ken-s4",
         "image_url": "/wp-content/uploads/2026/04/156389.jpg",
@@ -99,18 +93,6 @@
         "page": "kami-no-shizuku",
         "image_url": "/wp-content/uploads/2026/04/155698.jpg",
         "time": "15:30"
-      },
-      {
-        "title": "Snowball Earth",
-        "page": "snowball-earth",
-        "image_url": "/wp-content/uploads/2026/04/156390.jpg",
-        "time": "15:30"
-      },
-      {
-        "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
-        "page": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
-        "image_url": "/wp-content/uploads/2026/04/155965.jpg",
-        "time": "16:30"
       }
     ],
     "Saturday": [
@@ -119,12 +101,6 @@
         "page": "rilakkuma",
         "image_url": "/wp-content/uploads/2026/04/155696.jpg",
         "time": "01:00"
-      },
-      {
-        "title": "Lord of Mysteries - Specials",
-        "page": "lord-of-mysteries-specials",
-        "image_url": "/wp-content/uploads/2026/06/151543.jpg",
-        "time": "02:00"
       },
       {
         "title": "Honzuki no Gekokujou S4",
@@ -149,6 +125,12 @@
         "page": "yowayowa-sensei",
         "image_url": "/wp-content/uploads/2026/04/155774.jpg",
         "time": "13:00"
+      },
+      {
+        "title": "Neko to Ryuu",
+        "page": "neko-to-ryuu-2",
+        "image_url": "",
+        "time": "13:30"
       },
       {
         "title": "Kill Ao",
@@ -187,6 +169,12 @@
         "page": "meitantei-precure",
         "image_url": "/wp-content/uploads/2026/02/154944.jpg",
         "time": "01:30"
+      },
+      {
+        "title": "Lord of Mysteries - Specials",
+        "page": "lord-of-mysteries-specials",
+        "image_url": "/wp-content/uploads/2026/06/151543.jpg",
+        "time": "02:00"
       },
       {
         "title": "Digimon Beatbreak",
