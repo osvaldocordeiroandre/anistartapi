@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-29T11:33:29.300Z",
+  "updatedAt": "2026-06-29T15:01:29.140Z",
   "schedule": {
     "Monday": [
       {
         "title": "World Is Dancing",
-        "page": "",
+        "page": "world-is-dancing",
         "image_url": "",
         "time": "13:30"
       },
