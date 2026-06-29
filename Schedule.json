@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T16:34:35.638Z",
+  "updatedAt": "2026-06-29T06:22:13.399Z",
   "schedule": {
     "Monday": [
       {
@@ -163,46 +163,16 @@
         "time": "11:30"
       },
       {
-        "title": "Yowayowa Sensei",
-        "page": "yowayowa-sensei",
-        "image_url": "/wp-content/uploads/2026/04/155774.jpg",
-        "time": "13:00"
-      },
-      {
         "title": "Neko to Ryuu",
         "page": "neko-to-ryuu-2",
         "image_url": "",
         "time": "13:30"
       },
       {
-        "title": "Kill Ao",
-        "page": "kill-ao",
-        "image_url": "/wp-content/uploads/2026/04/156600.jpg",
-        "time": "14:30"
-      },
-      {
         "title": "Yomi no Tsugai",
         "page": "yomi-no-tsugai",
         "image_url": "/wp-content/uploads/2026/04/156397.jpg",
         "time": "16:00"
-      },
-      {
-        "title": "Shunkashuutou Daikousha - Haru no Mai",
-        "page": "shunkashuutou-daikousha-haru-no-mai",
-        "image_url": "/wp-content/uploads/2026/03/155524.jpg",
-        "time": "16:30"
-      },
-      {
-        "title": "NEEDY GIRL OVERDOSE",
-        "page": "needy-girl-overdose",
-        "image_url": "/wp-content/uploads/2026/04/154935.jpg",
-        "time": "17:00"
-      },
-      {
-        "title": "Yuusha no Kuzu",
-        "page": "yuusha-no-kuzu",
-        "image_url": "/wp-content/uploads/2026/01/154043.jpg",
-        "time": "17:00"
       }
     ],
     "Sunday": [
@@ -213,28 +183,10 @@
         "time": "01:30"
       },
       {
-        "title": "Lord of Mysteries - Specials",
-        "page": "lord-of-mysteries-specials",
-        "image_url": "/wp-content/uploads/2026/06/151543.jpg",
-        "time": "02:00"
-      },
-      {
         "title": "Digimon Beatbreak",
         "page": "digimon-beatbreak",
         "image_url": "/wp-content/uploads/2025/10/151242.jpg",
         "time": "03:00"
-      },
-      {
-        "title": "Tsue to Tsurugi no Wistoria S2",
-        "page": "tsue-to-tsurugi-no-wistoria-s2",
-        "image_url": "/wp-content/uploads/2026/04/155788.jpg",
-        "time": "08:30"
-      },
-      {
-        "title": "Ace of Diamond Act II S2",
-        "page": "ace-of-diamond-act-ii-s2",
-        "image_url": "/wp-content/uploads/2026/04/154245.jpg",
-        "time": "09:00"
       },
       {
         "title": "Kuroneko to Majo no Kyoushitsu",
