@@ -1,12 +1,42 @@
 {
-  "updatedAt": "2026-06-30T14:31:01.380Z",
+  "updatedAt": "2026-07-01T10:34:49.406Z",
   "schedule": {
     "Monday": [
+      {
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+        "page": "",
+        "image_url": "",
+        "time": "11:57"
+      },
+      {
+        "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+        "page": "",
+        "image_url": "",
+        "time": "12:00"
+      },
+      {
+        "title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
+        "page": "",
+        "image_url": "",
+        "time": "13:30"
+      },
       {
         "title": "World Is Dancing",
         "page": "world-is-dancing",
         "image_url": "",
         "time": "13:30"
+      },
+      {
+        "title": "Suterare Seijo no Isekai Gohan Tabi",
+        "page": "",
+        "image_url": "",
+        "time": "14:30"
+      },
+      {
+        "title": "Tenkosaki",
+        "page": "",
+        "image_url": "",
+        "time": "14:30"
       },
       {
         "title": "LIAR GAME",
@@ -17,34 +47,34 @@
     ],
     "Tuesday": [
       {
+        "title": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
+        "page": "",
+        "image_url": "",
+        "time": "11:30"
+      },
+      {
+        "title": "Kimi ga Shinu made Koi wo Shitai",
+        "page": "",
+        "image_url": "",
+        "time": "12:30"
+      },
+      {
         "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
         "page": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
         "image_url": "",
-        "time": "13:00"
+        "time": "13:30"
       },
       {
-        "title": "Aishiteru Game wo Owarasetai",
-        "page": "aishiteru-game-wo-owarasetai",
-        "image_url": "/wp-includes/images/image-coming-soon-placeholder.png",
-        "time": "14:30"
+        "title": "Tefuda ga Oome no Victoria",
+        "page": "",
+        "image_url": "",
+        "time": "15:00"
       },
       {
-        "title": "MARRIAGETOXIN",
-        "page": "marriagetoxin",
-        "image_url": "/wp-content/uploads/2026/04/154309.jpg",
-        "time": "14:30"
-      },
-      {
-        "title": "Replica datte, Koi wo Suru.",
-        "page": "replica-datte-koi-wo-suru",
-        "image_url": "/wp-content/uploads/2026/04/155671.jpg",
-        "time": "14:30"
-      },
-      {
-        "title": "Hidarikiki no Eren",
-        "page": "hidarikiki-no-eren",
-        "image_url": "/wp-content/uploads/2026/04/156388.jpg",
-        "time": "16:00"
+        "title": "Yoroi Shin Den Samurai Troopers",
+        "page": "yoroi-shin-den-samurai-troopers",
+        "image_url": "/wp-content/uploads/2026/01/153952-1.jpg",
+        "time": "15:00"
       }
     ],
     "Wednesday": [
