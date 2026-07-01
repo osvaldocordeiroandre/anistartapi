@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T13:20:26.225Z",
+  "updatedAt": "2026-07-01T16:08:51.501Z",
   "schedule": {
     "Monday": [
       {
@@ -104,14 +104,14 @@
       },
       {
         "title": "Lv999 no Murabito",
-        "page": "",
+        "page": "lv999-no-murabito",
         "image_url": "",
         "time": "15:00"
       },
       {
-        "title": "Hanazakari no Kimitachi e",
-        "page": "hanazakari-no-kimitachi-e",
-        "image_url": "/wp-content/uploads/2026/01/152041.jpg",
+        "title": "Hanazakari no Kimitachi e S2",
+        "page": "",
+        "image_url": "",
         "time": "15:30"
       }
     ],
