@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T17:43:45.929Z",
+  "updatedAt": "2026-07-01T20:17:47.508Z",
   "schedule": {
     "Monday": [
       {
@@ -117,12 +117,6 @@
     ],
     "Thursday": [
       {
-        "title": "Bai Ri Cheng Wang",
-        "page": "",
-        "image_url": "",
-        "time": "04:00"
-      },
-      {
         "title": "Reiwa no Dara-san",
         "page": "",
         "image_url": "",
@@ -138,7 +132,7 @@
         "title": "BanG Dream! Yumemita",
         "page": "",
         "image_url": "",
-        "time": "14:30"
+        "time": "14:00"
       },
       {
         "title": "Rakudai Kenja no Gakuin Musou",
@@ -160,6 +154,12 @@
       }
     ],
     "Friday": [
+      {
+        "title": "Bai Ri Cheng Wang",
+        "page": "",
+        "image_url": "",
+        "time": "04:00"
+      },
       {
         "title": "Kore Kaite Shine",
         "page": "",
