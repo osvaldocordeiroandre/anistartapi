@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T10:34:49.406Z",
+  "updatedAt": "2026-07-01T13:20:26.225Z",
   "schedule": {
     "Monday": [
       {
@@ -39,6 +39,12 @@
         "time": "14:30"
       },
       {
+        "title": "Grand Blue S3",
+        "page": "",
+        "image_url": "",
+        "time": "15:00"
+      },
+      {
         "title": "LIAR GAME",
         "page": "liar-game",
         "image_url": "/wp-content/uploads/2026/04/156078.jpg",
@@ -75,6 +81,12 @@
         "page": "yoroi-shin-den-samurai-troopers",
         "image_url": "/wp-content/uploads/2026/01/153952-1.jpg",
         "time": "15:00"
+      },
+      {
+        "title": "Sora wa Akai Kawa no Hotori",
+        "page": "",
+        "image_url": "",
+        "time": "16:35"
       }
     ],
     "Wednesday": [
@@ -105,6 +117,12 @@
     ],
     "Thursday": [
       {
+        "title": "Bai Ri Cheng Wang",
+        "page": "",
+        "image_url": "",
+        "time": "04:00"
+      },
+      {
         "title": "Reiwa no Dara-san",
         "page": "",
         "image_url": "",
@@ -115,6 +133,12 @@
         "page": "",
         "image_url": "",
         "time": "12:40"
+      },
+      {
+        "title": "BanG Dream! Yumemita",
+        "page": "",
+        "image_url": "",
+        "time": "14:30"
       },
       {
         "title": "Rakudai Kenja no Gakuin Musou",
@@ -136,6 +160,18 @@
       }
     ],
     "Friday": [
+      {
+        "title": "Kore Kaite Shine",
+        "page": "",
+        "image_url": "",
+        "time": "13:30"
+      },
+      {
+        "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+        "page": "",
+        "image_url": "",
+        "time": "13:30"
+      },
       {
         "title": "Uchi no Otouto-domo ga Sumimasen",
         "page": "",
@@ -197,6 +233,12 @@
         "page": "",
         "image_url": "",
         "time": "13:00"
+      },
+      {
+        "title": "Iwamoto-senpai no Suisen",
+        "page": "",
+        "image_url": "",
+        "time": "13:30"
       },
       {
         "title": "Neko to Ryuu",
@@ -267,9 +309,21 @@
         "time": "03:00"
       },
       {
+        "title": "Let's Go Kaiki-gumi",
+        "page": "",
+        "image_url": "",
+        "time": "07:30"
+      },
+      {
         "title": "Seihantai na Kimi to Boku",
         "page": "seihantai-na-kimi-to-boku",
         "image_url": "/wp-content/uploads/2026/01/154457.jpg",
+        "time": "08:30"
+      },
+      {
+        "title": "Tetsunabe no Jan!",
+        "page": "",
+        "image_url": "",
         "time": "08:30"
       },
       {
@@ -283,6 +337,12 @@
         "page": "",
         "image_url": "",
         "time": "13:00"
+      },
+      {
+        "title": "Hyakkano",
+        "page": "hyakkano",
+        "image_url": "/wp-content/uploads/2023/10/136764.jpg",
+        "time": "14:00"
       },
       {
         "title": "Kuroneko to Majo no Kyoushitsu",
