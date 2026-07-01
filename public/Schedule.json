@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T16:08:51.501Z",
+  "updatedAt": "2026-07-01T17:43:45.929Z",
   "schedule": {
     "Monday": [
       {
@@ -103,16 +103,16 @@
         "time": "14:30"
       },
       {
+        "title": "Hanazakari no Kimitachi e S2",
+        "page": "hanazakari-no-kimitachi-e-s2",
+        "image_url": "",
+        "time": "16:00"
+      },
+      {
         "title": "Lv999 no Murabito",
         "page": "lv999-no-murabito",
         "image_url": "",
-        "time": "15:00"
-      },
-      {
-        "title": "Hanazakari no Kimitachi e S2",
-        "page": "",
-        "image_url": "",
-        "time": "15:30"
+        "time": "16:00"
       }
     ],
     "Thursday": [
