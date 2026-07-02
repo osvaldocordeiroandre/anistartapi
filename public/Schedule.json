@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T20:17:47.508Z",
+  "updatedAt": "2026-07-02T13:09:43.393Z",
   "schedule": {
     "Monday": [
       {
@@ -118,13 +118,13 @@
     "Thursday": [
       {
         "title": "Reiwa no Dara-san",
-        "page": "",
+        "page": "reiwa-no-dara-san",
         "image_url": "",
         "time": "12:30"
       },
       {
         "title": "Bungou Stray Dogs Wan! S2",
-        "page": "",
+        "page": "bungou-stray-dogs-wan-s2",
         "image_url": "",
         "time": "12:40"
       },
