@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T13:09:43.393Z",
+  "updatedAt": "2026-07-02T15:33:11.162Z",
   "schedule": {
     "Monday": [
       {
@@ -130,7 +130,7 @@
       },
       {
         "title": "BanG Dream! Yumemita",
-        "page": "",
+        "page": "bang-dream-yumemita",
         "image_url": "",
         "time": "14:00"
       },
