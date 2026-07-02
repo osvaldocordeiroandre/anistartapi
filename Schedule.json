@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T15:33:11.162Z",
+  "updatedAt": "2026-07-02T17:14:25.724Z",
   "schedule": {
     "Monday": [
       {
@@ -142,12 +142,12 @@
       },
       {
         "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-        "page": "",
+        "page": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru",
         "image_url": "",
-        "time": "15:26"
+        "time": "16:00"
       },
       {
-        "title": "Otome Kaijuu Caramelise",
+        "title": "Otome Kaijuu Carameliser",
         "page": "",
         "image_url": "",
         "time": "16:28"
@@ -182,7 +182,7 @@
         "title": "Kokoore",
         "page": "",
         "image_url": "",
-        "time": "15:00"
+        "time": "14:00"
       },
       {
         "title": "Tensei Shitara Slime Datta Ken S4",
