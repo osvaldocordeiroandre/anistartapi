@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-07-02T17:14:25.724Z",
+  "updatedAt": "2026-07-02T18:49:46.477Z",
   "schedule": {
     "Monday": [
       {
         "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-        "page": "",
+        "page": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
         "image_url": "",
         "time": "11:57"
       },
       {
         "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
-        "page": "",
+        "page": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita",
         "image_url": "",
         "time": "12:00"
       },
       {
         "title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
-        "page": "",
+        "page": "buchigire-reijou-wa-houfuku-wo-chikaimashita",
         "image_url": "",
         "time": "13:30"
       },
       {
         "title": "World Is Dancing",
         "page": "world-is-dancing",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/07/158709.jpg",
         "time": "13:30"
       },
       {
         "title": "Suterare Seijo no Isekai Gohan Tabi",
-        "page": "",
+        "page": "suterare-seijo-no-isekai-gohan-tabi",
         "image_url": "",
         "time": "14:30"
       },
       {
         "title": "Tenkosaki",
-        "page": "",
+        "page": "tenkosaki",
         "image_url": "",
         "time": "14:30"
       },
       {
         "title": "Grand Blue S3",
-        "page": "",
+        "page": "grand-blue-s3",
         "image_url": "",
         "time": "15:00"
       },
@@ -54,25 +54,25 @@
     "Tuesday": [
       {
         "title": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
-        "page": "",
+        "page": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai",
         "image_url": "",
         "time": "11:30"
       },
       {
         "title": "Kimi ga Shinu made Koi wo Shitai",
-        "page": "",
+        "page": "kimi-ga-shinu-made-koi-wo-shitai",
         "image_url": "",
         "time": "12:30"
       },
       {
         "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
         "page": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/07/158373.jpg",
         "time": "13:30"
       },
       {
         "title": "Tefuda ga Oome no Victoria",
-        "page": "",
+        "page": "tefuda-ga-oome-no-victoria",
         "image_url": "",
         "time": "15:00"
       },
@@ -84,7 +84,7 @@
       },
       {
         "title": "Sora wa Akai Kawa no Hotori",
-        "page": "",
+        "page": "sora-wa-akai-kawa-no-hotori",
         "image_url": "",
         "time": "16:35"
       }
@@ -105,13 +105,13 @@
       {
         "title": "Hanazakari no Kimitachi e S2",
         "page": "hanazakari-no-kimitachi-e-s2",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/07/158523.jpg",
         "time": "16:00"
       },
       {
         "title": "Lv999 no Murabito",
         "page": "lv999-no-murabito",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/07/158400.jpg",
         "time": "16:00"
       }
     ],
@@ -119,19 +119,19 @@
       {
         "title": "Reiwa no Dara-san",
         "page": "reiwa-no-dara-san",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/07/155761.jpg",
         "time": "12:30"
       },
       {
         "title": "Bungou Stray Dogs Wan! S2",
         "page": "bungou-stray-dogs-wan-s2",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/07/157071.jpg",
         "time": "12:40"
       },
       {
         "title": "BanG Dream! Yumemita",
         "page": "bang-dream-yumemita",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/07/158693.jpg",
         "time": "14:00"
       },
       {
@@ -143,44 +143,44 @@
       {
         "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
         "page": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/07/158711.jpg",
         "time": "16:00"
       },
       {
         "title": "Otome Kaijuu Carameliser",
-        "page": "",
-        "image_url": "",
-        "time": "16:28"
+        "page": "otome-kaijuu-carameliser",
+        "image_url": "/wp-content/uploads/2026/07/156340.jpg",
+        "time": "17:30"
       }
     ],
     "Friday": [
       {
         "title": "Bai Ri Cheng Wang",
-        "page": "",
+        "page": "bai-ri-cheng-wang-2",
         "image_url": "",
         "time": "04:00"
       },
       {
         "title": "Kore Kaite Shine",
-        "page": "",
+        "page": "kore-kaite-shine-2",
         "image_url": "",
         "time": "13:30"
       },
       {
         "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
-        "page": "",
+        "page": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama-2",
         "image_url": "",
         "time": "13:30"
       },
       {
         "title": "Uchi no Otouto-domo ga Sumimasen",
-        "page": "",
+        "page": "uchi-no-otouto-domo-ga-sumimasen-2",
         "image_url": "",
         "time": "13:30"
       },
       {
         "title": "Kokoore",
-        "page": "",
+        "page": "kokoore-2",
         "image_url": "",
         "time": "14:00"
       },
@@ -198,7 +198,7 @@
       },
       {
         "title": "Hell Mode S2",
-        "page": "",
+        "page": "hell-mode-s2-2",
         "image_url": "",
         "time": "16:30"
       }
@@ -230,49 +230,49 @@
       },
       {
         "title": "Black Torch",
-        "page": "",
+        "page": "black-torch-2",
         "image_url": "",
         "time": "13:00"
       },
       {
         "title": "Iwamoto-senpai no Suisen",
-        "page": "",
+        "page": "iwamoto-senpai-no-suisene",
         "image_url": "",
         "time": "13:30"
       },
       {
         "title": "Neko to Ryuu",
-        "page": "neko-to-ryuu-2",
-        "image_url": "",
+        "page": "neko-to-ryuu",
+        "image_url": "/wp-content/uploads/2026/07/157796.jpg",
         "time": "13:30"
       },
       {
         "title": "Tenmaku no Jaadugar",
-        "page": "",
+        "page": "tenmaku-no-jaadugar",
         "image_url": "",
         "time": "14:00"
       },
       {
         "title": "Grow Up Show - Himawari no Circus-dan",
-        "page": "",
+        "page": "grow-up-show-himawari-no-circus-dan",
         "image_url": "",
         "time": "15:00"
       },
       {
         "title": "Oni no Hanayome",
-        "page": "",
+        "page": "oni-no-hanayome",
         "image_url": "",
         "time": "15:30"
       },
       {
         "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2",
-        "page": "",
+        "page": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-s2",
         "image_url": "",
         "time": "16:00"
       },
       {
         "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance",
-        "page": "",
+        "page": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
         "image_url": "",
         "time": "16:00"
       },
@@ -284,13 +284,13 @@
       },
       {
         "title": "Kimiai",
-        "page": "",
+        "page": "kimiai",
         "image_url": "",
         "time": "16:30"
       },
       {
         "title": "Saijo no Osewa",
-        "page": "",
+        "page": "saijo-no-osewa",
         "image_url": "",
         "time": "17:38"
       }
@@ -310,7 +310,7 @@
       },
       {
         "title": "Let's Go Kaiki-gumi",
-        "page": "",
+        "page": "lets-go-kaiki-gumi",
         "image_url": "",
         "time": "07:30"
       },
@@ -322,19 +322,19 @@
       },
       {
         "title": "Tetsunabe no Jan!",
-        "page": "",
+        "page": "tetsunabe-no-jan",
         "image_url": "",
         "time": "08:30"
       },
       {
         "title": "Mushoku Tensei S3",
-        "page": "",
+        "page": "mushoku-tensei-s3",
         "image_url": "",
         "time": "11:00"
       },
       {
         "title": "Sekai Saikyou no Kouei",
-        "page": "",
+        "page": "sekai-saikyou-no-kouei",
         "image_url": "",
         "time": "13:00"
       },
@@ -352,13 +352,13 @@
       },
       {
         "title": "Sayonara Lara",
-        "page": "",
+        "page": "sayonara-lara",
         "image_url": "",
         "time": "15:30"
       },
       {
         "title": "Azur Lane - Bisoku Zenshin! S2",
-        "page": "",
+        "page": "azur-lane-bisoku-zenshin-s2",
         "image_url": "",
         "time": "16:00"
       },
