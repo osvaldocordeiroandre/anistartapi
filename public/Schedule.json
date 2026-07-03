@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T10:30:47.290Z",
+  "updatedAt": "2026-07-03T16:22:48.704Z",
   "schedule": {
     "Monday": [
       {
@@ -197,12 +197,6 @@
         "time": "04:00"
       },
       {
-        "title": "Kore Kaite Shine",
-        "page": "kore-kaite-shine",
-        "image_url": "/wp-content/uploads/2026/07/154997.jpg",
-        "time": "13:30"
-      },
-      {
         "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
         "page": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama",
         "image_url": "/wp-content/uploads/2026/07/158566.jpg",
@@ -233,6 +227,12 @@
         "time": "15:30"
       },
       {
+        "title": "Kore Kaite Shine",
+        "page": "kore-kaite-shine",
+        "image_url": "/wp-content/uploads/2026/07/154997.jpg",
+        "time": "15:35"
+      },
+      {
         "title": "Hell Mode S2",
         "page": "hell-mode-s2",
         "image_url": "/wp-content/uploads/2026/07/156314.jpg",
@@ -257,6 +257,12 @@
         "page": "mairimashita-iruma-kun-s4",
         "image_url": "/wp-content/uploads/2026/04/154048.jpg",
         "time": "10:25"
+      },
+      {
+        "title": "Mushoku Tensei S3",
+        "page": "mushoku-tensei-s3",
+        "image_url": "/wp-content/uploads/2026/07/158340.jpg",
+        "time": "11:00"
       },
       {
         "title": "Detective Conan",
@@ -361,12 +367,6 @@
         "page": "tetsunabe-no-jan",
         "image_url": "/wp-content/uploads/2026/07/158686.jpg",
         "time": "08:30"
-      },
-      {
-        "title": "Mushoku Tensei S3",
-        "page": "mushoku-tensei-s3",
-        "image_url": "/wp-content/uploads/2026/07/158340.jpg",
-        "time": "11:00"
       },
       {
         "title": "Sekai Saikyou no Kouei",
