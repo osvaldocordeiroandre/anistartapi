@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T16:22:48.704Z",
+  "updatedAt": "2026-07-03T18:00:09.782Z",
   "schedule": {
     "Monday": [
       {
@@ -203,12 +203,6 @@
         "time": "13:30"
       },
       {
-        "title": "Uchi no Otouto-domo ga Sumimasen",
-        "page": "uchi-no-otouto-domo-ga-sumimasen",
-        "image_url": "/wp-content/uploads/2026/07/156345.jpg",
-        "time": "13:30"
-      },
-      {
         "title": "Kokoore",
         "page": "kokoore",
         "image_url": "/wp-content/uploads/2026/07/154308.jpg",
@@ -236,6 +230,12 @@
         "title": "Hell Mode S2",
         "page": "hell-mode-s2",
         "image_url": "/wp-content/uploads/2026/07/156314.jpg",
+        "time": "16:30"
+      },
+      {
+        "title": "Uchi no Otouto-domo ga Sumimasen",
+        "page": "uchi-no-otouto-domo-ga-sumimasen",
+        "image_url": "/wp-content/uploads/2026/07/156345.jpg",
         "time": "16:30"
       }
     ],
@@ -268,6 +268,12 @@
         "title": "Detective Conan",
         "page": "detective-conan",
         "image_url": "/wp-content/uploads/2020/10/75199.jpg",
+        "time": "11:30"
+      },
+      {
+        "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2",
+        "page": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-s2",
+        "image_url": "/wp-content/uploads/2026/07/157046.jpg",
         "time": "11:30"
       },
       {
@@ -305,12 +311,6 @@
         "page": "oni-no-hanayome",
         "image_url": "/wp-content/uploads/2026/07/158708.jpg",
         "time": "15:30"
-      },
-      {
-        "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2",
-        "page": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-s2",
-        "image_url": "/wp-content/uploads/2026/07/157046.jpg",
-        "time": "16:00"
       },
       {
         "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance",
