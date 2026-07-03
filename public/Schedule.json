@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T20:15:35.263Z",
+  "updatedAt": "2026-07-03T10:30:47.290Z",
   "schedule": {
     "Monday": [
       {
@@ -97,9 +97,27 @@
         "time": "02:30"
       },
       {
+        "title": "Clevatess S2",
+        "page": "",
+        "image_url": "",
+        "time": "12:00"
+      },
+      {
+        "title": "Youjo Senki S2",
+        "page": "",
+        "image_url": "",
+        "time": "12:30"
+      },
+      {
         "title": "All Works Maid",
         "page": "all-works-maid",
         "image_url": "/wp-content/uploads/2026/06/158290.jpg",
+        "time": "14:30"
+      },
+      {
+        "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu S2",
+        "page": "",
+        "image_url": "",
         "time": "14:30"
       },
       {
@@ -113,6 +131,12 @@
         "page": "lv999-no-murabito",
         "image_url": "/wp-content/uploads/2026/07/158400.jpg",
         "time": "16:00"
+      },
+      {
+        "title": "Toukutsu Ou",
+        "page": "",
+        "image_url": "",
+        "time": "16:20"
       }
     ],
     "Thursday": [
@@ -133,6 +157,18 @@
         "page": "bang-dream-yumemita",
         "image_url": "/wp-content/uploads/2026/07/158693.jpg",
         "time": "14:00"
+      },
+      {
+        "title": "Mebius Dust",
+        "page": "",
+        "image_url": "",
+        "time": "14:30"
+      },
+      {
+        "title": "Super no Ura de Yani Suu Futari",
+        "page": "",
+        "image_url": "",
+        "time": "14:56"
       },
       {
         "title": "Rakudai Kenja no Gakuin Musou",
