@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T14:45:57.159Z",
+  "updatedAt": "2026-07-04T17:07:23.139Z",
   "schedule": {
     "Monday": [
       {
@@ -298,18 +298,6 @@
         "title": "Grow Up Show - Himawari no Circus-dan",
         "page": "grow-up-show-himawari-no-circus-dan",
         "image_url": "/wp-content/uploads/2026/07/158716.jpg",
-        "time": "15:00"
-      },
-      {
-        "title": "Oni no Hanayome",
-        "page": "oni-no-hanayome",
-        "image_url": "/wp-content/uploads/2026/07/158708.jpg",
-        "time": "15:30"
-      },
-      {
-        "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance",
-        "page": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
-        "image_url": "/wp-content/uploads/2026/07/158611.jpg",
         "time": "16:00"
       },
       {
@@ -328,7 +316,19 @@
         "title": "Kimiai",
         "page": "kimiai",
         "image_url": "/wp-content/uploads/2026/07/158710.jpg",
-        "time": "16:30"
+        "time": "17:00"
+      },
+      {
+        "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance",
+        "page": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
+        "image_url": "/wp-content/uploads/2026/07/158611.jpg",
+        "time": "17:00"
+      },
+      {
+        "title": "Oni no Hanayome",
+        "page": "oni-no-hanayome",
+        "image_url": "/wp-content/uploads/2026/07/158708.jpg",
+        "time": "17:00"
       },
       {
         "title": "Saijo no Osewa",
