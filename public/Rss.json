@@ -1,9 +1,4 @@
 {
-<<<<<<< HEAD
-  "updatedAt": "2026-06-17T18:03:26.779Z",
-  "items": [
-    {
-=======
   "updatedAt": "2026-07-04T19:56:59.984Z",
   "items": [
     {
@@ -2845,44 +2840,7 @@
       "category": "Maid-san wa Taberu Dake - 1080",
       "subsplease:size": "1.35 GiB"
     },
-    {
-<<<<<<< HEAD
-=======
-      "title": "[Half-Baked] Akane-banashi - S01E11 [WEB 1080p HEVC AAC] (Multi-sub)",
-      "link": "https://nyaa.si/download/2121603.torrent",
-      "guid": {
-        "_": "https://nyaa.si/view/2121603",
-        "$": {
-          "isPermaLink": "true"
-        }
-      },
-      "pubDate": "Sun, 14 Jun 2026 10:15:02 -0000",
-      "nyaa:seeders": "93",
-      "nyaa:leechers": "2",
-      "nyaa:downloads": "764",
-      "nyaa:infoHash": "ec9ec2262c9b4f5239f8dac0b0e0437595b83c80",
-      "nyaa:categoryId": "1_2",
-      "nyaa:category": "Anime - English-translated",
-      "nyaa:size": "2.2 GiB",
-      "nyaa:comments": "1",
-      "nyaa:trusted": "No",
-      "nyaa:remake": "No",
-      "description": "<a href=\"https://nyaa.si/view/2121603\">#2121603 | [Half-Baked] Akane-banashi - S01E11 [WEB 1080p HEVC AAC] (Multi-sub)</a> | 2.2 GiB | Anime - English-translated | ec9ec2262c9b4f5239f8dac0b0e0437595b83c80"
-    },
-    {
->>>>>>> 77baafe1f28de48da012f53add18d4e9dc815045
-      "title": "[SubsPlease] Ace of Diamond Act II S2 - 11 (1080p) [09E15D36].mkv",
-      "link": "magnet:?xt=urn:btih:GTWS6NC4EZRCVJ53U7JWSCTUHLP2DG4G&dn=%5BSubsPlease%5D%20Ace%20of%20Diamond%20Act%20II%20S2%20-%2011%20%281080p%29%20%5B09E15D36%5D.mkv&xl=1444605771&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
-      "guid": {
-        "_": "GTWS6NC4EZRCVJ53U7JWSCTUHLP2DG4G",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sun, 14 Jun 2026 09:02:07 +0000",
-      "category": "Ace of Diamond Act II S2 - 1080",
-      "subsplease:size": "1.35 GiB"
-    },
+
     {
       "title": "[SubsPlease] Tsue to Tsurugi no Wistoria S2 - 10 (1080p) [C825E649].mkv",
       "link": "magnet:?xt=urn:btih:WPY42JY2AZJ3RYPEFT3SJ7CJNUCT5YQE&dn=%5BSubsPlease%5D%20Tsue%20to%20Tsurugi%20no%20Wistoria%20S2%20-%2010%20%281080p%29%20%5BC825E649%5D.mkv&xl=1454879463&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
@@ -2923,44 +2881,6 @@
       "subsplease:size": "1.37 GiB"
     },
     {
-<<<<<<< HEAD
-=======
-      "title": "[DKB] Akane-banashi - S01E11 [1080p][HEVC x265 10bit][Multi-Subs][weekly]",
-      "link": "https://nyaa.si/download/2121428.torrent",
-      "guid": {
-        "_": "https://nyaa.si/view/2121428",
-        "$": {
-          "isPermaLink": "true"
-        }
-      },
-      "pubDate": "Sat, 13 Jun 2026 21:21:32 -0000",
-      "nyaa:seeders": "52",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "1071",
-      "nyaa:infoHash": "6678d163ba988dc7dc76943d6f876512744c5bdf",
-      "nyaa:categoryId": "1_2",
-      "nyaa:category": "Anime - English-translated",
-      "nyaa:size": "348.2 MiB",
-      "nyaa:comments": "0",
-      "nyaa:trusted": "No",
-      "nyaa:remake": "Yes",
-      "description": "<a href=\"https://nyaa.si/view/2121428\">#2121428 | [DKB] Akane-banashi - S01E11 [1080p][HEVC x265 10bit][Multi-Subs][weekly]</a> | 348.2 MiB | Anime - English-translated | 6678d163ba988dc7dc76943d6f876512744c5bdf"
-    },
-    {
->>>>>>> 77baafe1f28de48da012f53add18d4e9dc815045
-      "title": "[SubsPlease] Yuusha no Kuzu - 22 (1080p) [B0AC3556].mkv",
-      "link": "magnet:?xt=urn:btih:TZCPHCIR6YWBMOCMPHGD4HU3UZKJ3HFA&dn=%5BSubsPlease%5D%20Yuusha%20no%20Kuzu%20-%2022%20%281080p%29%20%5BB0AC3556%5D.mkv&xl=1394297459&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
-      "guid": {
-        "_": "TZCPHCIR6YWBMOCMPHGD4HU3UZKJ3HFA",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sat, 13 Jun 2026 17:12:33 +0000",
-      "category": "Yuusha no Kuzu - 1080",
-      "subsplease:size": "1.3 GiB"
-    },
-    {
       "title": "[SubsPlease] NEEDY GIRL OVERDOSE - 11 (1080p) [60947665].mkv",
       "link": "magnet:?xt=urn:btih:B3AUERDVZXFTLEE4PM5TV2FZRWZHYSDN&dn=%5BSubsPlease%5D%20NEEDY%20GIRL%20OVERDOSE%20-%2011%20%281080p%29%20%5B60947665%5D.mkv&xl=1444795232&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
       "guid": {
@@ -2972,30 +2892,6 @@
       "pubDate": "Sat, 13 Jun 2026 17:01:13 +0000",
       "category": "NEEDY GIRL OVERDOSE - 1080",
       "subsplease:size": "1.35 GiB"
-    },
-    {
-<<<<<<< HEAD
-=======
-      "title": "[Judas] Akane-banashi - S01E11 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)",
-      "link": "https://nyaa.si/download/2121342.torrent",
-      "guid": {
-        "_": "https://nyaa.si/view/2121342",
-        "$": {
-          "isPermaLink": "true"
-        }
-      },
-      "pubDate": "Sat, 13 Jun 2026 16:49:47 -0000",
-      "nyaa:seeders": "81",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "2158",
-      "nyaa:infoHash": "066edffac2a8ba46064e2561f2aebf8af6d2cd00",
-      "nyaa:categoryId": "1_2",
-      "nyaa:category": "Anime - English-translated",
-      "nyaa:size": "285.5 MiB",
-      "nyaa:comments": "0",
-      "nyaa:trusted": "No",
-      "nyaa:remake": "Yes",
-      "description": "<a href=\"https://nyaa.si/view/2121342\">#2121342 | [Judas] Akane-banashi - S01E11 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)</a> | 285.5 MiB | Anime - English-translated | 066edffac2a8ba46064e2561f2aebf8af6d2cd00"
     },
     {
       "title": "[Erai-raws] Akane-banashi - 11 [1080p NF WEBRip HEVC AAC][MultiSub][20D6AE92]",
@@ -3064,20 +2960,6 @@
       "description": "<a href=\"https://nyaa.si/view/2121320\">#2121320 | [Erai-raws] Akane-banashi - 06 (REPACK) [1080p NF WEB-DL AVC AAC][MultiSub][D95F63FE]</a> | 919.8 MiB | Anime - English-translated | aba2a67a0d757736b07e211197dfd211eaff2b20"
     },
     {
->>>>>>> 77baafe1f28de48da012f53add18d4e9dc815045
-      "title": "[SubsPlease] Shunkashuutou Daikousha - Haru no Mai - 12 (1080p) [1DF0D5B4].mkv",
-      "link": "magnet:?xt=urn:btih:TKHE76VOYWFQ2UWC4F3ZFMQYI54IXXYU&dn=%5BSubsPlease%5D%20Shunkashuutou%20Daikousha%20-%20Haru%20no%20Mai%20-%2012%20%281080p%29%20%5B1DF0D5B4%5D.mkv&xl=1446700698&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
-      "guid": {
-        "_": "TKHE76VOYWFQ2UWC4F3ZFMQYI54IXXYU",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sat, 13 Jun 2026 16:31:57 +0000",
-      "category": "Shunkashuutou Daikousha - Haru no Mai - 1080",
-      "subsplease:size": "1.35 GiB"
-    },
-    {
       "title": "[SubsPlease] Kami no Niwatsuki Kusunoki-tei - 11 (1080p) [46F12B9D].mkv",
       "link": "magnet:?xt=urn:btih:MPP5QCW2NST4NDEJEN6GOKO2UJVQI6X2&dn=%5BSubsPlease%5D%20Kami%20no%20Niwatsuki%20Kusunoki-tei%20-%2011%20%281080p%29%20%5B46F12B9D%5D.mkv&xl=1448523367&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
       "guid": {
@@ -3089,30 +2971,6 @@
       "pubDate": "Sat, 13 Jun 2026 16:31:13 +0000",
       "category": "Kami no Niwatsuki Kusunoki-tei - 1080",
       "subsplease:size": "1.35 GiB"
-    },
-    {
-<<<<<<< HEAD
-=======
-      "title": "[ToonsHub] Akane-Banashi S01E06 1080p NF WEB-DL MULTi AAC2.0 H.264 (Multi-Audio, Multi-Subs)",
-      "link": "https://nyaa.si/download/2121295.torrent",
-      "guid": {
-        "_": "https://nyaa.si/view/2121295",
-        "$": {
-          "isPermaLink": "true"
-        }
-      },
-      "pubDate": "Sat, 13 Jun 2026 16:18:01 -0000",
-      "nyaa:seeders": "12",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "215",
-      "nyaa:infoHash": "973fcc1b8433da285dd534e8940346662f1512ef",
-      "nyaa:categoryId": "1_2",
-      "nyaa:category": "Anime - English-translated",
-      "nyaa:size": "412.6 MiB",
-      "nyaa:comments": "0",
-      "nyaa:trusted": "No",
-      "nyaa:remake": "No",
-      "description": "<a href=\"https://nyaa.si/view/2121295\">#2121295 | [ToonsHub] Akane-Banashi S01E06 1080p NF WEB-DL MULTi AAC2.0 H.264 (Multi-Audio, Multi-Subs)</a> | 412.6 MiB | Anime - English-translated | 973fcc1b8433da285dd534e8940346662f1512ef"
     },
     {
       "title": "[ToonsHub] Akane-Banashi S01E06 1080p NF WEB-DL DUAL AAC2.0 H.264 (Dual-Audio, Multi-Subs)",
@@ -3159,20 +3017,6 @@
       "description": "<a href=\"https://nyaa.si/view/2121277\">#2121277 | Akane Banashi S01E06 Terakoya 1080p NF WEB-DL MULTi AAC2.0 H 264-VARYG (Akane-banashi, Multi-Audio, Multi-Subs)</a> | 412.6 MiB | Anime - English-translated | 3a0533deb3854e8ac6b33599bf2e2eaaf174e28c"
     },
     {
->>>>>>> 77baafe1f28de48da012f53add18d4e9dc815045
-      "title": "[SubsPlease] Kanan-sama wa Akumade Choroi - 11 (1080p) [911C7398].mkv",
-      "link": "magnet:?xt=urn:btih:BPOZDK7IOQYOBMFIAPZWUCKTQ74CJGFA&dn=%5BSubsPlease%5D%20Kanan-sama%20wa%20Akumade%20Choroi%20-%2011%20%281080p%29%20%5B911C7398%5D.mkv&xl=1447851714&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
-      "guid": {
-        "_": "BPOZDK7IOQYOBMFIAPZWUCKTQ74CJGFA",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sat, 13 Jun 2026 16:02:00 +0000",
-      "category": "Kanan-sama wa Akumade Choroi - 1080",
-      "subsplease:size": "1.35 GiB"
-    },
-    {
       "title": "[SubsPlease] Yomi no Tsugai - 11 (1080p) [161685EF].mkv",
       "link": "magnet:?xt=urn:btih:FLOLLT4XNU4CKPP77BGN6FNHAKYCBTNG&dn=%5BSubsPlease%5D%20Yomi%20no%20Tsugai%20-%2011%20%281080p%29%20%5B161685EF%5D.mkv&xl=1447072762&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
       "guid": {
@@ -3184,30 +3028,6 @@
       "pubDate": "Sat, 13 Jun 2026 16:01:07 +0000",
       "category": "Yomi no Tsugai - 1080",
       "subsplease:size": "1.35 GiB"
-    },
-    {
-<<<<<<< HEAD
-=======
-      "title": "[Erai-raws] Akane-banashi - 11 [1080p NF WEB-DL AVC AAC][MultiSub][DBEF71DF]",
-      "link": "https://nyaa.si/download/2121239.torrent",
-      "guid": {
-        "_": "https://nyaa.si/view/2121239",
-        "$": {
-          "isPermaLink": "true"
-        }
-      },
-      "pubDate": "Sat, 13 Jun 2026 15:31:25 -0000",
-      "nyaa:seeders": "177",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "4131",
-      "nyaa:infoHash": "5d48f4e0909adae37babd104f93f0d2b1d3a8d26",
-      "nyaa:categoryId": "1_2",
-      "nyaa:category": "Anime - English-translated",
-      "nyaa:size": "927.6 MiB",
-      "nyaa:comments": "0",
-      "nyaa:trusted": "Yes",
-      "nyaa:remake": "No",
-      "description": "<a href=\"https://nyaa.si/view/2121239\">#2121239 | [Erai-raws] Akane-banashi - 11 [1080p NF WEB-DL AVC AAC][MultiSub][DBEF71DF]</a> | 927.6 MiB | Anime - English-translated | 5d48f4e0909adae37babd104f93f0d2b1d3a8d26"
     },
     {
       "title": "[ToonsHub] Akane-Banashi S01E11 1080p NF WEB-DL AAC2.0 H.264 (Multi-Subs)",
@@ -3252,20 +3072,6 @@
       "nyaa:trusted": "No",
       "nyaa:remake": "No",
       "description": "<a href=\"https://nyaa.si/view/2121225\">#2121225 | Akane Banashi S01E11 1080p NF WEB-DL AAC2.0 H 264-VARYG (Akane-banashi, Multi-Subs)</a> | 1.0 GiB | Anime - English-translated | 0d8aff9c4f4d7a86d17d2fc7dbb4a0d8a7c5d754"
-    },
-    {
->>>>>>> 77baafe1f28de48da012f53add18d4e9dc815045
-      "title": "[SubsPlease] Kill Ao - 10 (1080p) [5C9E744A].mkv",
-      "link": "magnet:?xt=urn:btih:BKG75YX53M5BPRR6ZABGWFHMSUNGEP5Y&dn=%5BSubsPlease%5D%20Kill%20Ao%20-%2010%20%281080p%29%20%5B5C9E744A%5D.mkv&xl=1445864470&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
-      "guid": {
-        "_": "BKG75YX53M5BPRR6ZABGWFHMSUNGEP5Y",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sat, 13 Jun 2026 14:32:00 +0000",
-      "category": "Kill Ao - 1080",
-      "subsplease:size": "1.35 GiB"
     },
     {
       "title": "[SubsPlease] Kanteishi (Kari) - 12 (1080p) [F80436B2].mkv",
@@ -4801,7 +4607,6 @@
       "nyaa:trusted": "No",
       "nyaa:remake": "Yes",
       "description": "<a href=\"https://nyaa.si/view/2107980\">#2107980 | [Judas] Akane-banashi - S01E06 [1080p][HEVC x265 10bit][Multi-Subs] (Weekly)</a> | 300.6 MiB | Anime - English-translated | 94fa7a0529f347f4f5bcea8677cab0b69a602034"
->>>>>>> 77baafe1f28de48da012f53add18d4e9dc815045
     }
   ]
 }
