@@ -43,7 +43,7 @@ async function syncRss() {
 
   // 2. BUSCA OS ANIMES EXTRAS NO NYAA.SI (Onde tem todos os animes)
   // Separe os espaços do nome por "+" e coloque +1080p
-  const EXTRAS_SEARCHES = ["Akane-banashi+1080p"];
+  const EXTRAS_SEARCHES = ["Akane-banashi+1080p", "Yani+Neko+1080p"];
 
   for (const query of EXTRAS_SEARCHES) {
     try {
