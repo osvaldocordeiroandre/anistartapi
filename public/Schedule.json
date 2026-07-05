@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T11:01:53.361Z",
+  "updatedAt": "2026-07-05T17:03:55.703Z",
   "schedule": {
     "Monday": [
       {
@@ -393,16 +393,16 @@
         "time": "15:30"
       },
       {
-        "title": "Azur Lane - Bisoku Zenshin! S2",
-        "page": "azur-lane-bisoku-zenshin-s2",
-        "image_url": "/wp-content/uploads/2026/07/158715.jpg",
-        "time": "16:00"
-      },
-      {
         "title": "One Piece",
         "page": "one-piece",
         "image_url": "/wp-content/uploads/2020/10/73245.jpg",
         "time": "16:00"
+      },
+      {
+        "title": "Azur Lane - Bisoku Zenshin! S2",
+        "page": "azur-lane-bisoku-zenshin-s2",
+        "image_url": "/wp-content/uploads/2026/07/158715.jpg",
+        "time": "16:45"
       }
     ]
   }
