@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-07-05T17:03:55.703Z",
+  "updatedAt": "2026-07-06T15:39:52.568Z",
   "schedule": {
     "Monday": [
-      {
-        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-        "page": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
-        "image_url": "/wp-content/uploads/2026/07/158522.jpg",
-        "time": "11:57"
-      },
       {
         "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
         "page": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita",
         "image_url": "/wp-content/uploads/2026/07/158339.jpg",
-        "time": "12:00"
+        "time": "12:30"
       },
       {
-        "title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
-        "page": "buchigire-reijou-wa-houfuku-wo-chikaimashita",
-        "image_url": "/wp-content/uploads/2026/07/157170.jpg",
-        "time": "13:30"
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+        "page": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+        "image_url": "/wp-content/uploads/2026/07/158522.jpg",
+        "time": "13:00"
       },
       {
         "title": "World Is Dancing",
         "page": "world-is-dancing",
         "image_url": "/wp-content/uploads/2026/07/158709.jpg",
         "time": "13:30"
+      },
+      {
+        "title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
+        "page": "buchigire-reijou-wa-houfuku-wo-chikaimashita",
+        "image_url": "/wp-content/uploads/2026/07/157170.jpg",
+        "time": "14:30"
       },
       {
         "title": "Suterare Seijo no Isekai Gohan Tabi",
@@ -36,13 +36,13 @@
         "title": "Tenkosaki",
         "page": "tenkosaki",
         "image_url": "/wp-content/uploads/2026/07/158564.jpg",
-        "time": "14:30"
+        "time": "15:00"
       },
       {
         "title": "Grand Blue S3",
         "page": "grand-blue-s3",
         "image_url": "/wp-content/uploads/2026/07/158194.jpg",
-        "time": "15:00"
+        "time": "15:30"
       },
       {
         "title": "LIAR GAME",
