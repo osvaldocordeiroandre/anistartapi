@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T15:39:52.568Z",
+  "updatedAt": "2026-07-06T16:16:05.364Z",
   "schedule": {
     "Monday": [
       {
@@ -259,12 +259,6 @@
         "time": "10:25"
       },
       {
-        "title": "Mushoku Tensei S3",
-        "page": "mushoku-tensei-s3",
-        "image_url": "/wp-content/uploads/2026/07/158340.jpg",
-        "time": "11:00"
-      },
-      {
         "title": "Detective Conan",
         "page": "detective-conan",
         "image_url": "/wp-content/uploads/2020/10/75199.jpg",
@@ -384,6 +378,12 @@
         "title": "Kuroneko to Majo no Kyoushitsu",
         "page": "kuroneko-to-majo-no-kyoushitsu",
         "image_url": "/wp-content/uploads/2026/04/153989.jpg",
+        "time": "15:00"
+      },
+      {
+        "title": "Mushoku Tensei S3",
+        "page": "mushoku-tensei-s3",
+        "image_url": "/wp-content/uploads/2026/07/158340.jpg",
         "time": "15:00"
       },
       {
