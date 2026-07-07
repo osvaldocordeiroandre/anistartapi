@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T16:16:05.364Z",
+  "updatedAt": "2026-07-07T11:42:52.794Z",
   "schedule": {
     "Monday": [
       {
@@ -7,6 +7,12 @@
         "page": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita",
         "image_url": "/wp-content/uploads/2026/07/158339.jpg",
         "time": "12:30"
+      },
+      {
+        "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2",
+        "page": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-s2",
+        "image_url": "/wp-content/uploads/2026/07/157046.jpg",
+        "time": "13:00"
       },
       {
         "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
@@ -265,12 +271,6 @@
         "time": "11:30"
       },
       {
-        "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2",
-        "page": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-s2",
-        "image_url": "/wp-content/uploads/2026/07/157046.jpg",
-        "time": "11:30"
-      },
-      {
         "title": "Black Torch",
         "page": "black-torch",
         "image_url": "/wp-content/uploads/2026/07/158363.jpg",
@@ -305,6 +305,12 @@
         "page": "yomi-no-tsugai",
         "image_url": "/wp-content/uploads/2026/04/156397.jpg",
         "time": "16:00"
+      },
+      {
+        "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
+        "page": "",
+        "image_url": "",
+        "time": "17:00"
       },
       {
         "title": "Kimiai",
@@ -373,6 +379,12 @@
         "page": "hyakkano",
         "image_url": "/wp-content/uploads/2023/10/136764.jpg",
         "time": "14:00"
+      },
+      {
+        "title": "Futsutsuka na Akujo dewa Gozaimasu ga",
+        "page": "",
+        "image_url": "",
+        "time": "14:45"
       },
       {
         "title": "Kuroneko to Majo no Kyoushitsu",
