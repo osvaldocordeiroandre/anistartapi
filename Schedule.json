@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T19:03:35.527Z",
+  "updatedAt": "2026-07-08T12:54:55.309Z",
   "schedule": {
     "Monday": [
       {
@@ -104,7 +104,7 @@
       },
       {
         "title": "Clevatess S2",
-        "page": "",
+        "page": "clevatess-s2",
         "image_url": "",
         "time": "12:00"
       },
