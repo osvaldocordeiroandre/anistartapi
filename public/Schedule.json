@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T15:16:04.757Z",
+  "updatedAt": "2026-07-08T16:51:38.891Z",
   "schedule": {
     "Monday": [
       {
@@ -122,9 +122,9 @@
       },
       {
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu S2",
-        "page": "",
+        "page": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-s2",
         "image_url": "",
-        "time": "14:30"
+        "time": "15:30"
       },
       {
         "title": "Hanazakari no Kimitachi e S2",
@@ -142,7 +142,7 @@
         "title": "Toukutsu Ou",
         "page": "",
         "image_url": "",
-        "time": "16:20"
+        "time": "17:20"
       }
     ],
     "Thursday": [
