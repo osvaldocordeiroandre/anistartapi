@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T16:51:38.891Z",
+  "updatedAt": "2026-07-08T18:14:12.964Z",
   "schedule": {
     "Monday": [
       {
@@ -140,7 +140,7 @@
       },
       {
         "title": "Toukutsu Ou",
-        "page": "",
+        "page": "toukutsu-ou",
         "image_url": "",
         "time": "17:20"
       }
