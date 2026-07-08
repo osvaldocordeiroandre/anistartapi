@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T12:54:55.309Z",
+  "updatedAt": "2026-07-08T15:16:04.757Z",
   "schedule": {
     "Monday": [
       {
@@ -110,9 +110,9 @@
       },
       {
         "title": "Youjo Senki S2",
-        "page": "",
+        "page": "youjo-senki-s2",
         "image_url": "",
-        "time": "12:30"
+        "time": "13:30"
       },
       {
         "title": "All Works Maid",
