@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T18:14:12.964Z",
+  "updatedAt": "2026-07-09T01:12:46.638Z",
   "schedule": {
     "Monday": [
       {
@@ -166,13 +166,13 @@
       },
       {
         "title": "Mebius Dust",
-        "page": "",
+        "page": "mebius-dust",
         "image_url": "",
         "time": "14:30"
       },
       {
         "title": "Super no Ura de Yani Suu Futari",
-        "page": "",
+        "page": "super-no-ura-de-yani-suu-futari",
         "image_url": "",
         "time": "14:56"
       },
@@ -308,7 +308,7 @@
       },
       {
         "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-        "page": "",
+        "page": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai",
         "image_url": "",
         "time": "17:00"
       },
@@ -382,7 +382,7 @@
       },
       {
         "title": "Futsutsuka na Akujo dewa Gozaimasu ga",
-        "page": "",
+        "page": "futsutsuka-na-akujo-dewa-gozaimasu-ga",
         "image_url": "",
         "time": "14:45"
       },
