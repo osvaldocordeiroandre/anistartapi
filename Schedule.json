@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T17:18:59.855Z",
+  "updatedAt": "2026-07-09T19:01:25.128Z",
   "schedule": {
     "Monday": [
       {
@@ -177,12 +177,6 @@
         "time": "15:00"
       },
       {
-        "title": "Super no Ura de Yani Suu Futari",
-        "page": "super-no-ura-de-yani-suu-futari",
-        "image_url": "",
-        "time": "15:30"
-      },
-      {
         "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
         "page": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru",
         "image_url": "/wp-content/uploads/2026/07/158711.jpg",
@@ -193,6 +187,12 @@
         "page": "otome-kaijuu-carameliser",
         "image_url": "/wp-content/uploads/2026/07/156340.jpg",
         "time": "17:30"
+      },
+      {
+        "title": "Super no Ura de Yani Suu Futari",
+        "page": "super-no-ura-de-yani-suu-futari",
+        "image_url": "",
+        "time": "18:00"
       }
     ],
     "Friday": [
