@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T01:12:46.638Z",
+  "updatedAt": "2026-07-09T17:18:59.855Z",
   "schedule": {
     "Monday": [
       {
@@ -168,19 +168,19 @@
         "title": "Mebius Dust",
         "page": "mebius-dust",
         "image_url": "",
-        "time": "14:30"
-      },
-      {
-        "title": "Super no Ura de Yani Suu Futari",
-        "page": "super-no-ura-de-yani-suu-futari",
-        "image_url": "",
-        "time": "14:56"
+        "time": "15:00"
       },
       {
         "title": "Rakudai Kenja no Gakuin Musou",
         "page": "rakudai-kenja-no-gakuin-musou",
         "image_url": "/wp-content/uploads/2026/06/158376.jpg",
         "time": "15:00"
+      },
+      {
+        "title": "Super no Ura de Yani Suu Futari",
+        "page": "super-no-ura-de-yani-suu-futari",
+        "image_url": "",
+        "time": "15:30"
       },
       {
         "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
