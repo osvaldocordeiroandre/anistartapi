@@ -52,7 +52,7 @@ async function syncRss() {
   for (const query of EXTRAS_SEARCHES) {
     try {
       const nyaaRes = await fetch(
-        `https://nyaa.si/?page=rss&q=${query}&c=1_2&f=0`,
+        `https://nyaa.si/?page=rss&q=${query}&c=1_4&f=0`,
       );
       const nyaaXml = await nyaaRes.text();
       const nyaaParsed = await parseStringPromise(nyaaXml, {
