@@ -46,7 +46,7 @@ async function syncRss() {
   const EXTRAS_SEARCHES = [
     "Akane-banashi+1080p",
     "Yani+Neko+1080p",
-    "Tomb+Raider+King",
+    "Tomb+Raider+King+1080p",
   ];
 
   for (const query of EXTRAS_SEARCHES) {
