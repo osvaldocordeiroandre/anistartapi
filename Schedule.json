@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T19:01:25.128Z",
+  "updatedAt": "2026-07-11T18:10:12.663Z",
   "schedule": {
     "Monday": [
       {
@@ -307,12 +307,6 @@
         "time": "16:00"
       },
       {
-        "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-        "page": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai",
-        "image_url": "",
-        "time": "17:00"
-      },
-      {
         "title": "Kimiai",
         "page": "kimiai",
         "image_url": "/wp-content/uploads/2026/07/158710.jpg",
@@ -329,6 +323,12 @@
         "page": "oni-no-hanayome",
         "image_url": "/wp-content/uploads/2026/07/158708.jpg",
         "time": "17:00"
+      },
+      {
+        "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
+        "page": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai",
+        "image_url": "",
+        "time": "17:30"
       },
       {
         "title": "Saijo no Osewa",
