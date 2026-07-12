@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T16:02:13.829Z",
+  "updatedAt": "2026-07-12T17:27:09.051Z",
   "schedule": {
     "Monday": [
       {
@@ -213,6 +213,12 @@
         "page": "kokoore",
         "image_url": "/wp-content/uploads/2026/07/154308.jpg",
         "time": "14:00"
+      },
+      {
+        "title": "Nige Jouzu no Wakagimi",
+        "page": "nige-jouzu-no-wakagimi",
+        "image_url": "/wp-content/uploads/2024/07/140401.jpg",
+        "time": "14:30"
       },
       {
         "title": "Tensei Shitara Slime Datta Ken S4",
