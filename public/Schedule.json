@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T18:10:12.663Z",
+  "updatedAt": "2026-07-12T16:02:13.829Z",
   "schedule": {
     "Monday": [
       {
@@ -381,12 +381,6 @@
         "time": "14:00"
       },
       {
-        "title": "Futsutsuka na Akujo dewa Gozaimasu ga",
-        "page": "futsutsuka-na-akujo-dewa-gozaimasu-ga",
-        "image_url": "",
-        "time": "14:45"
-      },
-      {
         "title": "Kuroneko to Majo no Kyoushitsu",
         "page": "kuroneko-to-majo-no-kyoushitsu",
         "image_url": "/wp-content/uploads/2026/04/153989.jpg",
@@ -403,6 +397,12 @@
         "page": "sayonara-lara",
         "image_url": "/wp-content/uploads/2026/07/156343.jpg",
         "time": "15:30"
+      },
+      {
+        "title": "Futsutsuka na Akujo dewa Gozaimasu ga",
+        "page": "futsutsuka-na-akujo-dewa-gozaimasu-ga",
+        "image_url": "",
+        "time": "15:45"
       },
       {
         "title": "One Piece",
