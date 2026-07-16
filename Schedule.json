@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T18:44:07.963Z",
+  "updatedAt": "2026-07-16T17:41:17.151Z",
   "schedule": {
     "Monday": [
       {
@@ -215,12 +215,6 @@
         "time": "14:00"
       },
       {
-        "title": "Nige Jouzu no Wakagimi",
-        "page": "nige-jouzu-no-wakagimi",
-        "image_url": "/wp-content/uploads/2024/07/140401.jpg",
-        "time": "14:30"
-      },
-      {
         "title": "Tensei Shitara Slime Datta Ken S4",
         "page": "tensei-shitara-slime-datta-ken-s4",
         "image_url": "/wp-content/uploads/2026/04/156389.jpg",
@@ -237,6 +231,12 @@
         "page": "kore-kaite-shine",
         "image_url": "/wp-content/uploads/2026/07/154997.jpg",
         "time": "15:35"
+      },
+      {
+        "title": "Nige Jouzu no Wakagimi",
+        "page": "nige-jouzu-no-wakagimi",
+        "image_url": "/wp-content/uploads/2024/07/140401.jpg",
+        "time": "16:00"
       },
       {
         "title": "Hell Mode S2",
