@@ -67,7 +67,11 @@ async function syncRss() {
   if (!Array.isArray(newItems)) newItems = [newItems];
 
   // 2. Busca os Extras no Nyaa.si
-  const EXTRAS_SEARCHES = ["Akane-banashi+1080p", "Yani+Neko+1080p"];
+  const EXTRAS_SEARCHES = [
+    "Akane-banashi+1080p",
+    "Yani+Neko+1080p",
+    "Tomb+Raider+King+1080p",
+  ];
 
   for (const query of EXTRAS_SEARCHES) {
     try {
