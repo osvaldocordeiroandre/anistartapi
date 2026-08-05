@@ -71,6 +71,7 @@ async function syncRss() {
     "Akane-banashi+1080p",
     "Yani+Neko+1080p",
     "Tomb+Raider+King+1080p",
+    "Bleach%3A+Thousand-Year+Blood+War+-+The+Calamity",
   ];
 
   for (const query of EXTRAS_SEARCHES) {
