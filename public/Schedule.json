@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T01:12:46.638Z",
+  "updatedAt": "2026-07-30T18:48:45.605Z",
   "schedule": {
     "Monday": [
       {
@@ -92,7 +92,7 @@
         "title": "Sora wa Akai Kawa no Hotori",
         "page": "sora-wa-akai-kawa-no-hotori",
         "image_url": "/wp-content/uploads/2026/07/158138.jpg",
-        "time": "16:30"
+        "time": "17:30"
       }
     ],
     "Wednesday": [
@@ -105,13 +105,13 @@
       {
         "title": "Clevatess S2",
         "page": "clevatess-s2",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/07/157105.jpg",
         "time": "12:00"
       },
       {
         "title": "Youjo Senki S2",
         "page": "youjo-senki-s2",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/07/158371.jpg",
         "time": "13:30"
       },
       {
@@ -123,7 +123,7 @@
       {
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu S2",
         "page": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-s2",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/07/158337.jpg",
         "time": "15:30"
       },
       {
@@ -141,8 +141,8 @@
       {
         "title": "Toukutsu Ou",
         "page": "toukutsu-ou",
-        "image_url": "",
-        "time": "17:20"
+        "image_url": "/wp-content/uploads/2026/07/158471.jpg",
+        "time": "17:15"
       }
     ],
     "Thursday": [
@@ -167,20 +167,20 @@
       {
         "title": "Mebius Dust",
         "page": "mebius-dust",
-        "image_url": "",
-        "time": "14:30"
-      },
-      {
-        "title": "Super no Ura de Yani Suu Futari",
-        "page": "super-no-ura-de-yani-suu-futari",
-        "image_url": "",
-        "time": "14:56"
+        "image_url": "/wp-content/uploads/2026/07/158352.jpg",
+        "time": "15:00"
       },
       {
         "title": "Rakudai Kenja no Gakuin Musou",
         "page": "rakudai-kenja-no-gakuin-musou",
         "image_url": "/wp-content/uploads/2026/06/158376.jpg",
         "time": "15:00"
+      },
+      {
+        "title": "Super no Ura de Yani Suu Futari",
+        "page": "super-no-ura-de-yani-suu-futari",
+        "image_url": "/wp-content/uploads/2026/07/156339.jpg",
+        "time": "16:00"
       },
       {
         "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
@@ -231,6 +231,12 @@
         "page": "kore-kaite-shine",
         "image_url": "/wp-content/uploads/2026/07/154997.jpg",
         "time": "15:35"
+      },
+      {
+        "title": "Nige Jouzu no Wakagimi S2",
+        "page": "nige-jouzu-no-wakagimi-s2",
+        "image_url": "/wp-content/uploads/2026/07/156329.jpg",
+        "time": "16:00"
       },
       {
         "title": "Hell Mode S2",
@@ -307,12 +313,6 @@
         "time": "16:00"
       },
       {
-        "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-        "page": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai",
-        "image_url": "",
-        "time": "17:00"
-      },
-      {
         "title": "Kimiai",
         "page": "kimiai",
         "image_url": "/wp-content/uploads/2026/07/158710.jpg",
@@ -329,6 +329,12 @@
         "page": "oni-no-hanayome",
         "image_url": "/wp-content/uploads/2026/07/158708.jpg",
         "time": "17:00"
+      },
+      {
+        "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
+        "page": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai",
+        "image_url": "/wp-content/uploads/2026/07/156331.jpg",
+        "time": "17:30"
       },
       {
         "title": "Saijo no Osewa",
@@ -381,12 +387,6 @@
         "time": "14:00"
       },
       {
-        "title": "Futsutsuka na Akujo dewa Gozaimasu ga",
-        "page": "futsutsuka-na-akujo-dewa-gozaimasu-ga",
-        "image_url": "",
-        "time": "14:45"
-      },
-      {
         "title": "Kuroneko to Majo no Kyoushitsu",
         "page": "kuroneko-to-majo-no-kyoushitsu",
         "image_url": "/wp-content/uploads/2026/04/153989.jpg",
@@ -403,6 +403,12 @@
         "page": "sayonara-lara",
         "image_url": "/wp-content/uploads/2026/07/156343.jpg",
         "time": "15:30"
+      },
+      {
+        "title": "Futsutsuka na Akujo dewa Gozaimasu ga",
+        "page": "futsutsuka-na-akujo-dewa-gozaimasu-ga",
+        "image_url": "/wp-content/uploads/2026/07/158341.jpg",
+        "time": "15:45"
       },
       {
         "title": "One Piece",
