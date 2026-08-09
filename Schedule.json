@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T18:48:45.605Z",
+  "updatedAt": "2026-08-09T17:30:47.206Z",
   "schedule": {
     "Monday": [
       {
@@ -115,6 +115,12 @@
         "time": "13:30"
       },
       {
+        "title": "Re Zero kara Hajimeru Isekai Seikatsu",
+        "page": "re-zero-kara-hajimeru-isekai-seikatsu",
+        "image_url": "/wp-content/uploads/2021/01/79410.jpg",
+        "time": "14:00"
+      },
+      {
         "title": "All Works Maid",
         "page": "all-works-maid",
         "image_url": "/wp-content/uploads/2026/06/158290.jpg",
@@ -200,6 +206,12 @@
         "title": "Bai Ri Cheng Wang",
         "page": "bai-ri-cheng-wang",
         "image_url": "/wp-content/uploads/2026/07/158621.jpg",
+        "time": "04:00"
+      },
+      {
+        "title": "Link Click S3",
+        "page": "",
+        "image_url": "",
         "time": "04:00"
       },
       {
