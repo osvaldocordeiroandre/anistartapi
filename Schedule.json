@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T07:52:25.476Z",
+  "updatedAt": "2026-08-16T09:54:59.674Z",
   "schedule": {
     "Monday": [
       {
@@ -299,6 +299,12 @@
         "page": "iwamoto-senpai-no-suisen",
         "image_url": "/wp-content/uploads/2026/07/158450.jpg",
         "time": "14:00"
+      },
+      {
+        "title": "Bleach - Sennen Kessen Hen",
+        "page": "",
+        "image_url": "",
+        "time": "15:00"
       },
       {
         "title": "Grow Up Show - Himawari no Circus-dan",
