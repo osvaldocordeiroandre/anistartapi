@@ -58,29 +58,26 @@ async function syncSchedule() {
     titleCache = JSON.parse(fs.readFileSync(TITLE_CACHE_FILE, "utf8"));
   }
 
-  // Verifica se o schedule original mudou (opcional: você pode remover esse if
-  // caso queira forçar a tradução de itens antigos que falharam antes)
-  if (JSON.stringify(local?.schedule) === JSON.stringify(remote.schedule)) {
-    return false;
-  }
-
-  // Percorre os dias da semana e os animes para injetar o título em inglês
+  // 1. PRIMEIRO nós percorremos os dias e injetamos os títulos
   for (const day in remote.schedule) {
     for (let i = 0; i < remote.schedule[day].length; i++) {
       const anime = remote.schedule[day][i];
       const originalTitle = anime.title;
 
-      // Se não temos a tradução no cache, fazemos a busca na API
       if (titleCache[originalTitle] === undefined) {
         console.log(`Buscando tradução para: ${originalTitle}`);
         const englishTitle = await getEnglishTitle(originalTitle);
-        // Salva no cache. Se não achou (null), salva o original para não buscar de novo na próxima vez.
         titleCache[originalTitle] = englishTitle || originalTitle;
       }
 
-      // Adiciona a nova propriedade que você usará no Front-end!
       remote.schedule[day][i].title_en = titleCache[originalTitle];
     }
+  }
+
+  // 2. DEPOIS de injetar, verificamos se o objeto final (agora com title_en)
+  // é igual ao que já temos salvo localmente. Se for igual, cancela o salvamento.
+  if (JSON.stringify(local?.schedule) === JSON.stringify(remote.schedule)) {
+    return false;
   }
 
   // Prepara o output com a schedule modificada
@@ -89,8 +86,6 @@ async function syncSchedule() {
     schedule: remote.schedule,
   };
 
-  // Salva os arquivos. Como seu Git e GitHub Actions já adicionam `public/*.json`,
-  // o TitleCache também será versionado automaticamente!
   fs.writeFileSync(TITLE_CACHE_FILE, JSON.stringify(titleCache, null, 2));
   fs.writeFileSync(SCHEDULE_FILE, JSON.stringify(output, null, 2));
 
