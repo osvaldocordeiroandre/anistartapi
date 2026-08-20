@@ -1,60 +1,69 @@
 {
-  "updatedAt": "2026-08-16T10:17:22.973Z",
+  "updatedAt": "2026-08-20T22:57:16.301Z",
   "schedule": {
     "Monday": [
       {
         "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
         "page": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita",
         "image_url": "/wp-content/uploads/2026/07/158339.jpg",
-        "time": "12:30"
+        "time": "12:30",
+        "title_en": "Love Unseen Beneath the Clear Night Sky"
       },
       {
         "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2",
         "page": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-s2",
         "image_url": "/wp-content/uploads/2026/07/157046.jpg",
-        "time": "13:00"
+        "time": "13:00",
+        "title_en": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2"
       },
       {
         "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
         "page": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
         "image_url": "/wp-content/uploads/2026/07/158522.jpg",
-        "time": "13:00"
+        "time": "13:00",
+        "title_en": "The Insipid Prince's Furtive Grab for the Throne"
       },
       {
         "title": "World Is Dancing",
         "page": "world-is-dancing",
         "image_url": "/wp-content/uploads/2026/07/158709.jpg",
-        "time": "13:30"
+        "time": "13:30",
+        "title_en": "The World Is Dancing"
       },
       {
         "title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
         "page": "buchigire-reijou-wa-houfuku-wo-chikaimashita",
         "image_url": "/wp-content/uploads/2026/07/157170.jpg",
-        "time": "14:30"
+        "time": "14:30",
+        "title_en": "A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires"
       },
       {
         "title": "Suterare Seijo no Isekai Gohan Tabi",
         "page": "suterare-seijo-no-isekai-gohan-tabi",
         "image_url": "/wp-content/uploads/2026/07/157798.jpg",
-        "time": "14:30"
+        "time": "14:30",
+        "title_en": "Suterare Seijo no Isekai Gohan Tabi"
       },
       {
         "title": "Tenkosaki",
         "page": "tenkosaki",
         "image_url": "/wp-content/uploads/2026/07/158564.jpg",
-        "time": "15:00"
+        "time": "15:00",
+        "title_en": "Oh Boy, Was I Wrong About Her"
       },
       {
         "title": "Grand Blue S3",
         "page": "grand-blue-s3",
         "image_url": "/wp-content/uploads/2026/07/158194.jpg",
-        "time": "15:30"
+        "time": "15:30",
+        "title_en": "Grand Blue S3"
       },
       {
         "title": "LIAR GAME",
         "page": "liar-game",
         "image_url": "/wp-content/uploads/2026/04/156078.jpg",
-        "time": "16:00"
+        "time": "16:00",
+        "title_en": "LIAR GAME"
       }
     ],
     "Tuesday": [
@@ -62,37 +71,43 @@
         "title": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
         "page": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai",
         "image_url": "/wp-content/uploads/2026/07/156268.jpg",
-        "time": "11:30"
+        "time": "11:30",
+        "title_en": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai"
       },
       {
         "title": "Kimi ga Shinu made Koi wo Shitai",
         "page": "kimi-ga-shinu-made-koi-wo-shitai",
         "image_url": "/wp-content/uploads/2026/07/158712.jpg",
-        "time": "12:30"
+        "time": "12:30",
+        "title_en": "I Want to Love You Till Your Dying Day"
       },
       {
         "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
         "page": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
         "image_url": "/wp-content/uploads/2026/07/158373.jpg",
-        "time": "13:30"
+        "time": "13:30",
+        "title_en": "The Oblivious Saint Can't Contain Her Power"
       },
       {
         "title": "Tefuda ga Oome no Victoria",
         "page": "tefuda-ga-oome-no-victoria",
         "image_url": "/wp-content/uploads/2026/07/158743.jpg",
-        "time": "15:00"
+        "time": "15:00",
+        "title_en": "Victoria of Many Faces"
       },
       {
         "title": "Yoroi Shin Den Samurai Troopers",
         "page": "yoroi-shin-den-samurai-troopers",
         "image_url": "/wp-content/uploads/2026/01/153952-1.jpg",
-        "time": "15:00"
+        "time": "15:00",
+        "title_en": "Yoroi Shin Den Samurai Troopers"
       },
       {
         "title": "Sora wa Akai Kawa no Hotori",
         "page": "sora-wa-akai-kawa-no-hotori",
         "image_url": "/wp-content/uploads/2026/07/158138.jpg",
-        "time": "17:30"
+        "time": "17:30",
+        "title_en": "Red River"
       }
     ],
     "Wednesday": [
@@ -100,49 +115,57 @@
         "title": "Clevatess S2",
         "page": "clevatess-s2",
         "image_url": "/wp-content/uploads/2026/07/157105.jpg",
-        "time": "12:00"
+        "time": "12:00",
+        "title_en": "Clevatess S2"
       },
       {
         "title": "Youjo Senki S2",
         "page": "youjo-senki-s2",
         "image_url": "/wp-content/uploads/2026/07/158371.jpg",
-        "time": "13:30"
+        "time": "13:30",
+        "title_en": "Youjo Senki S2"
       },
       {
         "title": "Re Zero kara Hajimeru Isekai Seikatsu",
         "page": "re-zero-kara-hajimeru-isekai-seikatsu",
         "image_url": "/wp-content/uploads/2021/01/79410.jpg",
-        "time": "14:00"
+        "time": "14:00",
+        "title_en": "Re:ZERO -Starting Life in Another World-"
       },
       {
         "title": "All Works Maid",
         "page": "all-works-maid",
         "image_url": "/wp-content/uploads/2026/06/158290.jpg",
-        "time": "14:30"
+        "time": "14:30",
+        "title_en": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!"
       },
       {
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu S2",
         "page": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-s2",
         "image_url": "/wp-content/uploads/2026/07/158337.jpg",
-        "time": "15:30"
+        "time": "15:30",
+        "title_en": "Otome Game Sekai wa Mob ni Kibishii Sekai desu S2"
       },
       {
         "title": "Hanazakari no Kimitachi e S2",
         "page": "hanazakari-no-kimitachi-e-s2",
         "image_url": "/wp-content/uploads/2026/07/158523.jpg",
-        "time": "16:00"
+        "time": "16:00",
+        "title_en": "Hanazakari no Kimitachi e S2"
       },
       {
         "title": "Lv999 no Murabito",
         "page": "lv999-no-murabito",
         "image_url": "/wp-content/uploads/2026/07/158400.jpg",
-        "time": "16:00"
+        "time": "16:00",
+        "title_en": "The Villager of Level 999"
       },
       {
         "title": "Toukutsu Ou",
         "page": "toukutsu-ou",
         "image_url": "/wp-content/uploads/2026/07/158471.jpg",
-        "time": "17:15"
+        "time": "17:15",
+        "title_en": "Toukutsu Ou"
       }
     ],
     "Thursday": [
@@ -150,49 +173,57 @@
         "title": "Reiwa no Dara-san",
         "page": "reiwa-no-dara-san",
         "image_url": "/wp-content/uploads/2026/07/155761.jpg",
-        "time": "12:30"
+        "time": "12:30",
+        "title_en": "Dara-san of the Reiwa Era"
       },
       {
         "title": "Bungou Stray Dogs Wan! S2",
         "page": "bungou-stray-dogs-wan-s2",
         "image_url": "/wp-content/uploads/2026/07/157071.jpg",
-        "time": "12:40"
+        "time": "12:40",
+        "title_en": "Bungou Stray Dogs Wan! S2"
       },
       {
         "title": "BanG Dream! Yumemita",
         "page": "bang-dream-yumemita",
         "image_url": "/wp-content/uploads/2026/07/158693.jpg",
-        "time": "14:00"
+        "time": "14:00",
+        "title_en": "BanG Dream! YUME∞MITA"
       },
       {
         "title": "Mebius Dust",
         "page": "mebius-dust",
         "image_url": "/wp-content/uploads/2026/07/158352.jpg",
-        "time": "15:00"
+        "time": "15:00",
+        "title_en": "Mebius Dust"
       },
       {
         "title": "Rakudai Kenja no Gakuin Musou",
         "page": "rakudai-kenja-no-gakuin-musou",
         "image_url": "/wp-content/uploads/2026/06/158376.jpg",
-        "time": "15:00"
+        "time": "15:00",
+        "title_en": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage"
       },
       {
         "title": "Super no Ura de Yani Suu Futari",
         "page": "super-no-ura-de-yani-suu-futari",
         "image_url": "/wp-content/uploads/2026/07/156339.jpg",
-        "time": "16:00"
+        "time": "16:00",
+        "title_en": "Smoking Behind the Supermarket with You"
       },
       {
         "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
         "page": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru",
         "image_url": "/wp-content/uploads/2026/07/158711.jpg",
-        "time": "16:00"
+        "time": "16:00",
+        "title_en": "The Exiled Heavy Knight Knows How to Game the System"
       },
       {
         "title": "Otome Kaijuu Carameliser",
         "page": "otome-kaijuu-carameliser",
         "image_url": "/wp-content/uploads/2026/07/156340.jpg",
-        "time": "17:30"
+        "time": "17:30",
+        "title_en": "Otome Kaijuu Carameliser"
       }
     ],
     "Friday": [
@@ -200,61 +231,71 @@
         "title": "Link Click S3",
         "page": "link-click-s3",
         "image_url": "",
-        "time": "03:00"
+        "time": "03:00",
+        "title_en": "Link Click S3"
       },
       {
         "title": "Bai Ri Cheng Wang",
         "page": "bai-ri-cheng-wang",
         "image_url": "/wp-content/uploads/2026/07/158621.jpg",
-        "time": "04:00"
+        "time": "04:00",
+        "title_en": "Bai Ri Cheng Wang"
       },
       {
         "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
         "page": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama",
         "image_url": "/wp-content/uploads/2026/07/158566.jpg",
-        "time": "13:30"
+        "time": "13:30",
+        "title_en": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama"
       },
       {
         "title": "Kokoore",
         "page": "kokoore",
         "image_url": "/wp-content/uploads/2026/07/154308.jpg",
-        "time": "14:00"
+        "time": "14:00",
+        "title_en": "Kokoore"
       },
       {
         "title": "Tensei Shitara Slime Datta Ken S4",
         "page": "tensei-shitara-slime-datta-ken-s4",
         "image_url": "/wp-content/uploads/2026/04/156389.jpg",
-        "time": "15:00"
+        "time": "15:00",
+        "title_en": "Tensei Shitara Slime Datta Ken S4"
       },
       {
         "title": "Kami no Shizuku",
         "page": "kami-no-shizuku",
         "image_url": "/wp-content/uploads/2026/04/155698.jpg",
-        "time": "15:30"
+        "time": "15:30",
+        "title_en": "Kami no Shizuku"
       },
       {
         "title": "Kore Kaite Shine",
         "page": "kore-kaite-shine",
         "image_url": "/wp-content/uploads/2026/07/154997.jpg",
-        "time": "15:35"
+        "time": "15:35",
+        "title_en": "Kore Kaite Shine"
       },
       {
         "title": "Nige Jouzu no Wakagimi S2",
         "page": "nige-jouzu-no-wakagimi-s2",
         "image_url": "/wp-content/uploads/2026/07/156329.jpg",
-        "time": "16:00"
+        "time": "16:00",
+        "title_en": "Nige Jouzu no Wakagimi S2"
       },
       {
         "title": "Hell Mode S2",
         "page": "hell-mode-s2",
         "image_url": "/wp-content/uploads/2026/07/156314.jpg",
-        "time": "16:30"
+        "time": "16:30",
+        "title_en": "Hell Mode S2"
       },
       {
         "title": "Uchi no Otouto-domo ga Sumimasen",
         "page": "uchi-no-otouto-domo-ga-sumimasen",
         "image_url": "/wp-content/uploads/2026/07/156345.jpg",
-        "time": "16:30"
+        "time": "16:30",
+        "title_en": "Uchi no Otouto-domo ga Sumimasen"
       }
     ],
     "Saturday": [
@@ -262,97 +303,113 @@
         "title": "Rilakkuma",
         "page": "rilakkuma",
         "image_url": "/wp-content/uploads/2026/04/155696.jpg",
-        "time": "01:00"
+        "time": "01:00",
+        "title_en": "Rilakkuma"
       },
       {
         "title": "Honzuki no Gekokujou S4",
         "page": "honzuki-no-gekokujou-s4",
         "image_url": "/wp-content/uploads/2026/04/155054.jpg",
-        "time": "09:30"
+        "time": "09:30",
+        "title_en": "Honzuki no Gekokujou S4"
       },
       {
         "title": "Mairimashita! Iruma-kun S4",
         "page": "mairimashita-iruma-kun-s4",
         "image_url": "/wp-content/uploads/2026/04/154048.jpg",
-        "time": "10:25"
+        "time": "10:25",
+        "title_en": "Mairimashita! Iruma-kun S4"
       },
       {
         "title": "Detective Conan",
         "page": "detective-conan",
         "image_url": "/wp-content/uploads/2020/10/75199.jpg",
-        "time": "11:30"
+        "time": "11:30",
+        "title_en": "Detective Conan"
       },
       {
         "title": "Black Torch",
         "page": "black-torch",
         "image_url": "/wp-content/uploads/2026/07/158363.jpg",
-        "time": "13:00"
+        "time": "13:00",
+        "title_en": "Black Torch"
       },
       {
         "title": "Neko to Ryuu",
         "page": "neko-to-ryuu",
         "image_url": "/wp-content/uploads/2026/07/157796.jpg",
-        "time": "13:30"
+        "time": "13:30",
+        "title_en": "Neko to Ryuu"
       },
       {
         "title": "Iwamoto-senpai no Suisen",
         "page": "iwamoto-senpai-no-suisen",
         "image_url": "/wp-content/uploads/2026/07/158450.jpg",
-        "time": "14:00"
+        "time": "14:00",
+        "title_en": "Iwamoto-senpai no Suisen"
       },
       {
         "title": "Bleach - Sennen Kessen Hen",
         "page": "bleach-sennen-kessen-hen",
         "image_url": "",
-        "time": "15:00"
+        "time": "15:00",
+        "title_en": "Bleach - Sennen Kessen Hen"
       },
       {
         "title": "Grow Up Show - Himawari no Circus-dan",
         "page": "grow-up-show-himawari-no-circus-dan",
         "image_url": "/wp-content/uploads/2026/07/158716.jpg",
-        "time": "16:00"
+        "time": "16:00",
+        "title_en": "Grow Up Show - Himawari no Circus-dan"
       },
       {
         "title": "Tenmaku no Jaadugar",
         "page": "tenmaku-no-jaadugar",
         "image_url": "/wp-content/uploads/2026/07/158227.jpg",
-        "time": "16:00"
+        "time": "16:00",
+        "title_en": "Tenmaku no Jaadugar"
       },
       {
         "title": "Yomi no Tsugai",
         "page": "yomi-no-tsugai",
         "image_url": "/wp-content/uploads/2026/04/156397.jpg",
-        "time": "16:00"
+        "time": "16:00",
+        "title_en": "Yomi no Tsugai"
       },
       {
         "title": "Kimiai",
         "page": "kimiai",
         "image_url": "/wp-content/uploads/2026/07/158710.jpg",
-        "time": "17:00"
+        "time": "17:00",
+        "title_en": "Kimiai"
       },
       {
         "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance",
         "page": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
         "image_url": "/wp-content/uploads/2026/07/158611.jpg",
-        "time": "17:00"
+        "time": "17:00",
+        "title_en": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance"
       },
       {
         "title": "Oni no Hanayome",
         "page": "oni-no-hanayome",
         "image_url": "/wp-content/uploads/2026/07/158708.jpg",
-        "time": "17:00"
+        "time": "17:00",
+        "title_en": "Oni no Hanayome"
       },
       {
         "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
         "page": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai",
         "image_url": "/wp-content/uploads/2026/07/156331.jpg",
-        "time": "17:30"
+        "time": "17:30",
+        "title_en": "Hanaori-san wa Tensei shitemo Kenka ga Shitai"
       },
       {
         "title": "Saijo no Osewa",
         "page": "saijo-no-osewa",
         "image_url": "/wp-content/uploads/2026/07/157083.jpg",
-        "time": "18:10"
+        "time": "18:10",
+        "title_en": "Saijo no Osewa"
       }
     ],
     "Sunday": [
@@ -360,79 +417,92 @@
         "title": "Meitantei Precure!",
         "page": "meitantei-precure",
         "image_url": "/wp-content/uploads/2026/02/154944.jpg",
-        "time": "01:30"
+        "time": "01:30",
+        "title_en": "Meitantei Precure!"
       },
       {
         "title": "Digimon Beatbreak",
         "page": "digimon-beatbreak",
         "image_url": "/wp-content/uploads/2025/10/151242.jpg",
-        "time": "03:00"
+        "time": "03:00",
+        "title_en": "Digimon Beatbreak"
       },
       {
         "title": "Let's Go Kaiki-gumi",
         "page": "lets-go-kaiki-gumi",
         "image_url": "/wp-content/uploads/2026/07/158581.jpg",
-        "time": "08:30"
+        "time": "08:30",
+        "title_en": "Let's Go Kaiki-gumi"
       },
       {
         "title": "Seihantai na Kimi to Boku",
         "page": "seihantai-na-kimi-to-boku",
         "image_url": "/wp-content/uploads/2026/01/154457.jpg",
-        "time": "08:30"
+        "time": "08:30",
+        "title_en": "Seihantai na Kimi to Boku"
       },
       {
         "title": "Tetsunabe no Jan!",
         "page": "tetsunabe-no-jan",
         "image_url": "/wp-content/uploads/2026/07/158686.jpg",
-        "time": "09:00"
+        "time": "09:00",
+        "title_en": "Tetsunabe no Jan!"
       },
       {
         "title": "Sekai Saikyou no Kouei",
         "page": "sekai-saikyou-no-kouei",
         "image_url": "/wp-content/uploads/2026/07/157378.jpg",
-        "time": "13:00"
+        "time": "13:00",
+        "title_en": "Sekai Saikyou no Kouei"
       },
       {
         "title": "Hyakkano",
         "page": "hyakkano",
         "image_url": "/wp-content/uploads/2023/10/136764.jpg",
-        "time": "14:00"
+        "time": "14:00",
+        "title_en": "Hyakkano"
       },
       {
         "title": "Kuroneko to Majo no Kyoushitsu",
         "page": "kuroneko-to-majo-no-kyoushitsu",
         "image_url": "/wp-content/uploads/2026/04/153989.jpg",
-        "time": "15:00"
+        "time": "15:00",
+        "title_en": "Kuroneko to Majo no Kyoushitsu"
       },
       {
         "title": "Mushoku Tensei S3",
         "page": "mushoku-tensei-s3",
         "image_url": "/wp-content/uploads/2026/07/158340.jpg",
-        "time": "15:00"
+        "time": "15:00",
+        "title_en": "Mushoku Tensei S3"
       },
       {
         "title": "Sayonara Lara",
         "page": "sayonara-lara",
         "image_url": "/wp-content/uploads/2026/07/156343.jpg",
-        "time": "15:30"
+        "time": "15:30",
+        "title_en": "Sayonara Lara"
       },
       {
         "title": "Futsutsuka na Akujo dewa Gozaimasu ga",
         "page": "futsutsuka-na-akujo-dewa-gozaimasu-ga",
         "image_url": "/wp-content/uploads/2026/07/158341.jpg",
-        "time": "15:45"
+        "time": "15:45",
+        "title_en": "Futsutsuka na Akujo dewa Gozaimasu ga"
       },
       {
         "title": "One Piece",
         "page": "one-piece",
         "image_url": "/wp-content/uploads/2020/10/73245.jpg",
-        "time": "16:00"
+        "time": "16:00",
+        "title_en": "One Piece"
       },
       {
         "title": "Azur Lane - Bisoku Zenshin! S2",
         "page": "azur-lane-bisoku-zenshin-s2",
         "image_url": "/wp-content/uploads/2026/07/158715.jpg",
-        "time": "16:45"
+        "time": "16:45",
+        "title_en": "Azur Lane - Bisoku Zenshin! S2"
       }
     ]
   }
