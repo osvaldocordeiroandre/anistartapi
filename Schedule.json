@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:57:16.301Z",
+  "updatedAt": "2026-09-03T14:36:18.661Z",
   "schedule": {
     "Monday": [
       {
@@ -319,6 +319,13 @@
         "image_url": "/wp-content/uploads/2026/04/154048.jpg",
         "time": "10:25",
         "title_en": "Mairimashita! Iruma-kun S4"
+      },
+      {
+        "title": "Kaijuu 8-gou - Narumi no Heijitsu",
+        "page": "",
+        "image_url": "",
+        "time": "11:00",
+        "title_en": "Narumi's Week at Work"
       },
       {
         "title": "Detective Conan",
