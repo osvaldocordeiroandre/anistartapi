@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T14:36:18.661Z",
+  "updatedAt": "2026-09-05T12:18:16.943Z",
   "schedule": {
     "Monday": [
       {
@@ -314,15 +314,8 @@
         "title_en": "Honzuki no Gekokujou S4"
       },
       {
-        "title": "Mairimashita! Iruma-kun S4",
-        "page": "mairimashita-iruma-kun-s4",
-        "image_url": "/wp-content/uploads/2026/04/154048.jpg",
-        "time": "10:25",
-        "title_en": "Mairimashita! Iruma-kun S4"
-      },
-      {
         "title": "Kaijuu 8-gou - Narumi no Heijitsu",
-        "page": "",
+        "page": "kaijuu-8-gou-narumi-no-heijitsu",
         "image_url": "",
         "time": "11:00",
         "title_en": "Narumi's Week at Work"
@@ -333,6 +326,13 @@
         "image_url": "/wp-content/uploads/2020/10/75199.jpg",
         "time": "11:30",
         "title_en": "Detective Conan"
+      },
+      {
+        "title": "Mairimashita! Iruma-kun S4",
+        "page": "mairimashita-iruma-kun-s4",
+        "image_url": "/wp-content/uploads/2026/04/154048.jpg",
+        "time": "12:00",
+        "title_en": "Mairimashita! Iruma-kun S4"
       },
       {
         "title": "Black Torch",
