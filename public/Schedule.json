@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T12:18:16.943Z",
+  "updatedAt": "2026-09-10T16:40:27.320Z",
   "schedule": {
     "Monday": [
       {
@@ -89,13 +89,6 @@
         "title_en": "The Oblivious Saint Can't Contain Her Power"
       },
       {
-        "title": "Tefuda ga Oome no Victoria",
-        "page": "tefuda-ga-oome-no-victoria",
-        "image_url": "/wp-content/uploads/2026/07/158743.jpg",
-        "time": "15:00",
-        "title_en": "Victoria of Many Faces"
-      },
-      {
         "title": "Yoroi Shin Den Samurai Troopers",
         "page": "yoroi-shin-den-samurai-troopers",
         "image_url": "/wp-content/uploads/2026/01/153952-1.jpg",
@@ -133,13 +126,6 @@
         "title_en": "Re:ZERO -Starting Life in Another World-"
       },
       {
-        "title": "All Works Maid",
-        "page": "all-works-maid",
-        "image_url": "/wp-content/uploads/2026/06/158290.jpg",
-        "time": "14:30",
-        "title_en": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!"
-      },
-      {
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu S2",
         "page": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-s2",
         "image_url": "/wp-content/uploads/2026/07/158337.jpg",
@@ -152,13 +138,6 @@
         "image_url": "/wp-content/uploads/2026/07/158523.jpg",
         "time": "16:00",
         "title_en": "Hanazakari no Kimitachi e S2"
-      },
-      {
-        "title": "Lv999 no Murabito",
-        "page": "lv999-no-murabito",
-        "image_url": "/wp-content/uploads/2026/07/158400.jpg",
-        "time": "16:00",
-        "title_en": "The Villager of Level 999"
       },
       {
         "title": "Toukutsu Ou",
