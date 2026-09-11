@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T16:40:27.320Z",
+  "updatedAt": "2026-09-11T21:32:02.490Z",
   "schedule": {
     "Monday": [
       {
@@ -163,25 +163,11 @@
         "title_en": "Bungou Stray Dogs Wan! S2"
       },
       {
-        "title": "BanG Dream! Yumemita",
-        "page": "bang-dream-yumemita",
-        "image_url": "/wp-content/uploads/2026/07/158693.jpg",
-        "time": "14:00",
-        "title_en": "BanG Dream! YUME∞MITA"
-      },
-      {
         "title": "Mebius Dust",
         "page": "mebius-dust",
         "image_url": "/wp-content/uploads/2026/07/158352.jpg",
         "time": "15:00",
         "title_en": "Mebius Dust"
-      },
-      {
-        "title": "Rakudai Kenja no Gakuin Musou",
-        "page": "rakudai-kenja-no-gakuin-musou",
-        "image_url": "/wp-content/uploads/2026/06/158376.jpg",
-        "time": "15:00",
-        "title_en": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage"
       },
       {
         "title": "Super no Ura de Yani Suu Futari",
