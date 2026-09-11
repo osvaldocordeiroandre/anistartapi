@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T01:27:58.701Z",
+  "updatedAt": "2026-09-11T06:36:15.965Z",
   "items": [
     {
       "title": "[DKB] Yani Neko - S01E10 [1080p][HEVC x265 10bit][Multi-Subs][weekly]",
@@ -11,9 +11,9 @@
         }
       },
       "pubDate": "Thu, 10 Sep 2026 23:00:07 -0000",
-      "nyaa:seeders": "270",
-      "nyaa:leechers": "16",
-      "nyaa:downloads": "697",
+      "nyaa:seeders": "232",
+      "nyaa:leechers": "15",
+      "nyaa:downloads": "992",
       "nyaa:infoHash": "0df763c677aeef5ccba9676f34279041420fd735",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -33,9 +33,9 @@
         }
       },
       "pubDate": "Thu, 10 Sep 2026 21:08:18 -0000",
-      "nyaa:seeders": "310",
-      "nyaa:leechers": "17",
-      "nyaa:downloads": "1029",
+      "nyaa:seeders": "309",
+      "nyaa:leechers": "13",
+      "nyaa:downloads": "1462",
       "nyaa:infoHash": "2d629f98bd5a5ebe8c06a314ecbf8542a45136a0",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -46,17 +46,30 @@
       "description": "<a href=\"https://nyaa.si/view/2159333\">#2159333 | [Ironclad] Yani Neko - S01E10 [WEB.1080p.AV1] | Chainsmoker Cat (Multi-Subs, UNCENSORED) (Weekly)</a> | 482.8 MiB | Anime - English-translated | 2d629f98bd5a5ebe8c06a314ecbf8542a45136a0"
     },
     {
-      "title": "[SubsPlease] Ao no Miburo S2 (01-14) (1080p) [Batch]",
-      "link": "magnet:?xt=urn:btih:JCSJNNUALZCKFSGQO7M64W5NYJ434NQY&dn=%5BSubsPlease%5D%20Ao%20no%20Miburo%20S2%20%2801-14%29%20%281080p%29%20%5BBatch%5D&xl=20384001849&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+      "title": "[SubsPlease] Bai Ri Cheng Wang - 24 (1080p) [82A5B71F].mkv",
+      "link": "magnet:?xt=urn:btih:J4XCNCCTCIN3WQLYKXCF2AFUWNRTXDHH&dn=%5BSubsPlease%5D%20Bai%20Ri%20Cheng%20Wang%20-%2024%20%281080p%29%20%5B82A5B71F%5D.mkv&xl=1044438028&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
       "guid": {
-        "_": "JCSJNNUALZCKFSGQO7M64W5NYJ434NQY",
+        "_": "J4XCNCCTCIN3WQLYKXCF2AFUWNRTXDHH",
         "$": {
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Thu, 10 Sep 2026 20:54:26 +0000",
-      "category": "Ao no Miburo S2 - 1080",
-      "subsplease:size": "18.98 GiB"
+      "pubDate": "Thu, 10 Sep 2026 21:01:13 +0000",
+      "category": "Bai Ri Cheng Wang - 1080",
+      "subsplease:size": "996.05 MiB"
+    },
+    {
+      "title": "[SubsPlease] Link Click S3 - 06 (1080p) [287BFB16].mkv",
+      "link": "magnet:?xt=urn:btih:JNCUBD2K6KM5DNGIITTP5AEVWCLPCNHL&dn=%5BSubsPlease%5D%20Link%20Click%20S3%20-%2006%20%281080p%29%20%5B287BFB16%5D.mkv&xl=1562764219&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+      "guid": {
+        "_": "JNCUBD2K6KM5DNGIITTP5AEVWCLPCNHL",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Thu, 10 Sep 2026 20:01:50 +0000",
+      "category": "Link Click S3 - 1080",
+      "subsplease:size": "1.46 GiB"
     },
     {
       "title": "[geckyzz] Chainsmoker Cat - S01E10 (ヤニねこ; Yani Neko) [UNCENSORED, OVEIL.WEB-DL 1080P AVC, AAC, HARD SUB (EN)][3773E7E9]",
@@ -68,9 +81,9 @@
         }
       },
       "pubDate": "Thu, 10 Sep 2026 18:20:54 -0000",
-      "nyaa:seeders": "131",
-      "nyaa:leechers": "24",
-      "nyaa:downloads": "524",
+      "nyaa:seeders": "130",
+      "nyaa:leechers": "18",
+      "nyaa:downloads": "657",
       "nyaa:infoHash": "a14cd1ce6216dd369f86f94281d3dd4ee9a872d4",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -79,19 +92,6 @@
       "nyaa:trusted": "No",
       "nyaa:remake": "No",
       "description": "<a href=\"https://nyaa.si/view/2159297\">#2159297 | [geckyzz] Chainsmoker Cat - S01E10 (ヤニねこ; Yani Neko) [UNCENSORED, OVEIL.WEB-DL 1080P AVC, AAC, HARD SUB (EN)][3773E7E9]</a> | 1.4 GiB | Anime - English-translated | a14cd1ce6216dd369f86f94281d3dd4ee9a872d4"
-    },
-    {
-      "title": "[SubsPlease] Otome Kaijuu Carameliser - 11 (1080p) [9EEF7A5D].mkv",
-      "link": "magnet:?xt=urn:btih:XNDEVYWOK6OCVEARVJY4WZEWTE7LGXEX&dn=%5BSubsPlease%5D%20Otome%20Kaijuu%20Carameliser%20-%2011%20%281080p%29%20%5B9EEF7A5D%5D.mkv&xl=1486028331&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
-      "guid": {
-        "_": "XNDEVYWOK6OCVEARVJY4WZEWTE7LGXEX",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Thu, 10 Sep 2026 17:32:07 +0000",
-      "category": "Otome Kaijuu Carameliser - 1080",
-      "subsplease:size": "1.38 GiB"
     },
     {
       "title": "[Erai-raws] Yani Neko - 10 [1080p NF WEB-DL AVC AAC][MultiSub][121FB6C2]",
@@ -103,9 +103,9 @@
         }
       },
       "pubDate": "Thu, 10 Sep 2026 16:18:18 -0000",
-      "nyaa:seeders": "1243",
-      "nyaa:leechers": "71",
-      "nyaa:downloads": "5560",
+      "nyaa:seeders": "1094",
+      "nyaa:leechers": "46",
+      "nyaa:downloads": "6424",
       "nyaa:infoHash": "5ddfb36511542c806973640d9b48c3980d160147",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -125,9 +125,9 @@
         }
       },
       "pubDate": "Thu, 10 Sep 2026 16:13:52 -0000",
-      "nyaa:seeders": "325",
-      "nyaa:leechers": "6",
-      "nyaa:downloads": "1399",
+      "nyaa:seeders": "305",
+      "nyaa:leechers": "9",
+      "nyaa:downloads": "1470",
       "nyaa:infoHash": "fd349d5fa5ae29ac71d1e80c9d9bb92c901bfbe0",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -136,19 +136,6 @@
       "nyaa:trusted": "No",
       "nyaa:remake": "No",
       "description": "<a href=\"https://nyaa.si/view/2159236\">#2159236 | Chainsmoker Cat S01E10 1080p NF WEB-DL AAC2.0 H.264-VARYG (Yani Neko, Multi-Subs)</a> | 865.7 MiB | Anime - English-translated | fd349d5fa5ae29ac71d1e80c9d9bb92c901bfbe0"
-    },
-    {
-      "title": "[SubsPlease] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru - 11 (1080p) [239C562C].mkv",
-      "link": "magnet:?xt=urn:btih:BYOSIV3SY6P5BOBPEGEOCB5HC6AHRIBA&dn=%5BSubsPlease%5D%20Tsuihou%20sareta%20Tensei%20Juukishi%20wa%20Game%20Chishiki%20de%20Musou%20suru%20-%2011%20%281080p%29%20%5B239C562C%5D.mkv&xl=1443692348&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
-      "guid": {
-        "_": "BYOSIV3SY6P5BOBPEGEOCB5HC6AHRIBA",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Thu, 10 Sep 2026 16:08:47 +0000",
-      "category": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru - 1080",
-      "subsplease:size": "1.34 GiB"
     },
     {
       "title": "[ToonsHub] Chainsmoker Cat S01E08 1080p NF WEB-DL MULTi AAC2.0 H.264 (Yani Neko, Multi-Audio, Multi-Subs, Uncensored)",
@@ -182,9 +169,9 @@
         }
       },
       "pubDate": "Thu, 10 Sep 2026 16:01:47 -0000",
-      "nyaa:seeders": "2809",
-      "nyaa:leechers": "63",
-      "nyaa:downloads": "9658",
+      "nyaa:seeders": "2647",
+      "nyaa:leechers": "37",
+      "nyaa:downloads": "10217",
       "nyaa:infoHash": "fc6d2a9afde5dfaa5547d269fef4c860e08b0c95",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -217,6 +204,45 @@
       "description": "<a href=\"https://nyaa.si/view/2159201\">#2159201 | [ToonsHub] Chainsmoker Cat S01E08 1080p NF WEB-DL DUAL AAC2.0 H.264 (Yani Neko, Dual-Audio, Multi-Subs, Uncensored)</a> | 895.6 MiB | Anime - English-translated | 0c60eaabea9feed59a637edf0e2e788cd3b6b6a5"
     },
     {
+      "title": "[SubsPlease] Ao no Miburo S2 (01-14) (1080p) [Batch]",
+      "link": "magnet:?xt=urn:btih:JCSJNNUALZCKFSGQO7M64W5NYJ434NQY&dn=%5BSubsPlease%5D%20Ao%20no%20Miburo%20S2%20%2801-14%29%20%281080p%29%20%5BBatch%5D&xl=20384001849&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+      "guid": {
+        "_": "JCSJNNUALZCKFSGQO7M64W5NYJ434NQY",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Thu, 10 Sep 2026 13:54:26 +0000",
+      "category": "Ao no Miburo S2 - 1080",
+      "subsplease:size": "18.98 GiB"
+    },
+    {
+      "title": "[SubsPlease] Otome Kaijuu Carameliser - 11 (1080p) [9EEF7A5D].mkv",
+      "link": "magnet:?xt=urn:btih:XNDEVYWOK6OCVEARVJY4WZEWTE7LGXEX&dn=%5BSubsPlease%5D%20Otome%20Kaijuu%20Carameliser%20-%2011%20%281080p%29%20%5B9EEF7A5D%5D.mkv&xl=1486028331&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+      "guid": {
+        "_": "XNDEVYWOK6OCVEARVJY4WZEWTE7LGXEX",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Thu, 10 Sep 2026 10:32:07 +0000",
+      "category": "Otome Kaijuu Carameliser - 1080",
+      "subsplease:size": "1.38 GiB"
+    },
+    {
+      "title": "[SubsPlease] Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru - 11 (1080p) [239C562C].mkv",
+      "link": "magnet:?xt=urn:btih:BYOSIV3SY6P5BOBPEGEOCB5HC6AHRIBA&dn=%5BSubsPlease%5D%20Tsuihou%20sareta%20Tensei%20Juukishi%20wa%20Game%20Chishiki%20de%20Musou%20suru%20-%2011%20%281080p%29%20%5B239C562C%5D.mkv&xl=1443692348&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+      "guid": {
+        "_": "BYOSIV3SY6P5BOBPEGEOCB5HC6AHRIBA",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Thu, 10 Sep 2026 09:08:47 +0000",
+      "category": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru - 1080",
+      "subsplease:size": "1.34 GiB"
+    },
+    {
       "title": "[SubsPlease] Super no Ura de Yani Suu Futari - 10 (1080p) [8839C9A7].mkv",
       "link": "magnet:?xt=urn:btih:Z52TKZGAHFVP3F6H2ZKGK6A5XBFINMX7&dn=%5BSubsPlease%5D%20Super%20no%20Ura%20de%20Yani%20Suu%20Futari%20-%2010%20%281080p%29%20%5B8839C9A7%5D.mkv&xl=1463034909&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
       "guid": {
@@ -225,7 +251,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Thu, 10 Sep 2026 16:00:50 +0000",
+      "pubDate": "Thu, 10 Sep 2026 09:00:50 +0000",
       "category": "Super no Ura de Yani Suu Futari - 1080",
       "subsplease:size": "1.36 GiB"
     },
@@ -238,7 +264,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Thu, 10 Sep 2026 15:02:12 +0000",
+      "pubDate": "Thu, 10 Sep 2026 08:02:12 +0000",
       "category": "Rakudai Kenja no Gakuin Musou - 1080",
       "subsplease:size": "1.35 GiB"
     },
@@ -251,7 +277,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Thu, 10 Sep 2026 15:00:50 +0000",
+      "pubDate": "Thu, 10 Sep 2026 08:00:50 +0000",
       "category": "Mebius Dust - 1080",
       "subsplease:size": "1.35 GiB"
     },
@@ -264,7 +290,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Thu, 10 Sep 2026 14:02:14 +0000",
+      "pubDate": "Thu, 10 Sep 2026 07:02:14 +0000",
       "category": "BanG Dream! Yumemita - 1080",
       "subsplease:size": "1.34 GiB"
     },
@@ -277,7 +303,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Thu, 10 Sep 2026 12:41:10 +0000",
+      "pubDate": "Thu, 10 Sep 2026 05:41:10 +0000",
       "category": "Bungou Stray Dogs Wan! S2 - 1080",
       "subsplease:size": "683.29 MiB"
     },
@@ -290,7 +316,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Thu, 10 Sep 2026 12:32:18 +0000",
+      "pubDate": "Thu, 10 Sep 2026 05:32:18 +0000",
       "category": "Reiwa no Dara-san - 1080",
       "subsplease:size": "1.35 GiB"
     },
@@ -304,9 +330,9 @@
         }
       },
       "pubDate": "Wed, 09 Sep 2026 18:53:58 -0000",
-      "nyaa:seeders": "24",
-      "nyaa:leechers": "3",
-      "nyaa:downloads": "214",
+      "nyaa:seeders": "29",
+      "nyaa:leechers": "7",
+      "nyaa:downloads": "223",
       "nyaa:infoHash": "34a99e0d24cc5f67dbb38dfefea109c00e47fddc",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -326,9 +352,9 @@
         }
       },
       "pubDate": "Wed, 09 Sep 2026 17:38:19 -0000",
-      "nyaa:seeders": "16",
-      "nyaa:leechers": "3",
-      "nyaa:downloads": "148",
+      "nyaa:seeders": "15",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "151",
       "nyaa:infoHash": "cb4906f8672129e5a98d45c337ada0b07242102c",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -350,7 +376,7 @@
       "pubDate": "Wed, 09 Sep 2026 17:37:59 -0000",
       "nyaa:seeders": "18",
       "nyaa:leechers": "2",
-      "nyaa:downloads": "115",
+      "nyaa:downloads": "120",
       "nyaa:infoHash": "219574d63cc5907940ca17dbb0e10aa4c3e6a1f9",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -371,8 +397,8 @@
       },
       "pubDate": "Wed, 09 Sep 2026 17:36:32 -0000",
       "nyaa:seeders": "59",
-      "nyaa:leechers": "3",
-      "nyaa:downloads": "416",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "428",
       "nyaa:infoHash": "395a5463709bbbd41cee8bca7477d92071170918",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -392,9 +418,9 @@
         }
       },
       "pubDate": "Wed, 09 Sep 2026 17:36:04 -0000",
-      "nyaa:seeders": "80",
-      "nyaa:leechers": "3",
-      "nyaa:downloads": "708",
+      "nyaa:seeders": "76",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "729",
       "nyaa:infoHash": "2e2c50ad9f0a168433ed1a34ea0d94e951ee1f96",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -414,9 +440,9 @@
         }
       },
       "pubDate": "Wed, 09 Sep 2026 17:34:18 -0000",
-      "nyaa:seeders": "28",
+      "nyaa:seeders": "25",
       "nyaa:leechers": "1",
-      "nyaa:downloads": "196",
+      "nyaa:downloads": "201",
       "nyaa:infoHash": "28a43fad15e1b7800fd6b59bc2b829a318b53962",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -436,9 +462,9 @@
         }
       },
       "pubDate": "Wed, 09 Sep 2026 17:24:32 -0000",
-      "nyaa:seeders": "64",
+      "nyaa:seeders": "66",
       "nyaa:leechers": "3",
-      "nyaa:downloads": "347",
+      "nyaa:downloads": "352",
       "nyaa:infoHash": "03ddae6c2e0d640c77c609f3aa462d5731f80a73",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -458,9 +484,9 @@
         }
       },
       "pubDate": "Wed, 09 Sep 2026 17:24:12 -0000",
-      "nyaa:seeders": "80",
-      "nyaa:leechers": "5",
-      "nyaa:downloads": "546",
+      "nyaa:seeders": "71",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "553",
       "nyaa:infoHash": "c51926892387a0bf491d9f5ebb27356a230ff55c",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -480,9 +506,9 @@
         }
       },
       "pubDate": "Wed, 09 Sep 2026 17:23:59 -0000",
-      "nyaa:seeders": "50",
-      "nyaa:leechers": "3",
-      "nyaa:downloads": "345",
+      "nyaa:seeders": "52",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "350",
       "nyaa:infoHash": "d3feed4d2746ba845c0c80eddbfe34590d8911d8",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -502,9 +528,9 @@
         }
       },
       "pubDate": "Wed, 09 Sep 2026 17:22:24 -0000",
-      "nyaa:seeders": "62",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "431",
+      "nyaa:seeders": "63",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "442",
       "nyaa:infoHash": "3a7bf07ec5bcec16d0449ce766b7aed88d18fb43",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -524,9 +550,9 @@
         }
       },
       "pubDate": "Wed, 09 Sep 2026 17:22:15 -0000",
-      "nyaa:seeders": "88",
-      "nyaa:leechers": "8",
-      "nyaa:downloads": "718",
+      "nyaa:seeders": "81",
+      "nyaa:leechers": "6",
+      "nyaa:downloads": "739",
       "nyaa:infoHash": "ef768a48b1383bca0423842ea9a7d6d026b5ccef",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -546,9 +572,9 @@
         }
       },
       "pubDate": "Wed, 09 Sep 2026 17:19:30 -0000",
-      "nyaa:seeders": "87",
+      "nyaa:seeders": "82",
       "nyaa:leechers": "2",
-      "nyaa:downloads": "358",
+      "nyaa:downloads": "362",
       "nyaa:infoHash": "539c894c8699a6527dfab61bf397f8cadcb428e6",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -557,19 +583,6 @@
       "nyaa:trusted": "No",
       "nyaa:remake": "No",
       "description": "<a href=\"https://nyaa.si/view/2158832\">#2158832 | [AnoZu] Tomb Raider King S01E10 1080p CR WEB-DL AAC 2.0 H.264 | Dogulwang</a> | 1.6 GiB | Anime - English-translated | 539c894c8699a6527dfab61bf397f8cadcb428e6"
-    },
-    {
-      "title": "[SubsPlease] Toukutsu Ou - 10 (1080p) [6236F8AC].mkv",
-      "link": "magnet:?xt=urn:btih:2JEG5DQSHMBUAP5AIKJCUBOD56LBFA7P&dn=%5BSubsPlease%5D%20Toukutsu%20Ou%20-%2010%20%281080p%29%20%5B6236F8AC%5D.mkv&xl=1404167552&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
-      "guid": {
-        "_": "2JEG5DQSHMBUAP5AIKJCUBOD56LBFA7P",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Wed, 09 Sep 2026 17:17:18 +0000",
-      "category": "Toukutsu Ou - 1080",
-      "subsplease:size": "1.31 GiB"
     },
     {
       "title": "[ToonsHub] Tomb Raider King S01E10 1080p BILI WEB-DL AAC2.0 H.265 (Dogulwang, Multi-Subs)",
@@ -581,9 +594,9 @@
         }
       },
       "pubDate": "Wed, 09 Sep 2026 17:16:38 -0000",
-      "nyaa:seeders": "111",
-      "nyaa:leechers": "2",
-      "nyaa:downloads": "822",
+      "nyaa:seeders": "108",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "838",
       "nyaa:infoHash": "bbfea0d52f56e1fc020d0d98e8f3b869f6dd47c6",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -594,6 +607,19 @@
       "description": "<a href=\"https://nyaa.si/view/2158822\">#2158822 | [ToonsHub] Tomb Raider King S01E10 1080p BILI WEB-DL AAC2.0 H.265 (Dogulwang, Multi-Subs)</a> | 339.8 MiB | Anime - English-translated | bbfea0d52f56e1fc020d0d98e8f3b869f6dd47c6"
     },
     {
+      "title": "[SubsPlease] Toukutsu Ou - 10 (1080p) [6236F8AC].mkv",
+      "link": "magnet:?xt=urn:btih:2JEG5DQSHMBUAP5AIKJCUBOD56LBFA7P&dn=%5BSubsPlease%5D%20Toukutsu%20Ou%20-%2010%20%281080p%29%20%5B6236F8AC%5D.mkv&xl=1404167552&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+      "guid": {
+        "_": "2JEG5DQSHMBUAP5AIKJCUBOD56LBFA7P",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Wed, 09 Sep 2026 10:17:18 +0000",
+      "category": "Toukutsu Ou - 1080",
+      "subsplease:size": "1.31 GiB"
+    },
+    {
       "title": "[SubsPlease] Lv999 no Murabito - 12 (1080p) [A6EB3EBB].mkv",
       "link": "magnet:?xt=urn:btih:U535NNAW7XUJBN45QC5PEIPXJ5Q2PXEI&dn=%5BSubsPlease%5D%20Lv999%20no%20Murabito%20-%2012%20%281080p%29%20%5BA6EB3EBB%5D.mkv&xl=1455207425&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
       "guid": {
@@ -602,7 +628,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Wed, 09 Sep 2026 16:02:18 +0000",
+      "pubDate": "Wed, 09 Sep 2026 09:02:18 +0000",
       "category": "Lv999 no Murabito - 1080",
       "subsplease:size": "1.36 GiB"
     },
@@ -615,7 +641,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Wed, 09 Sep 2026 16:00:59 +0000",
+      "pubDate": "Wed, 09 Sep 2026 09:00:59 +0000",
       "category": "Hanazakari no Kimitachi e S2 - 1080",
       "subsplease:size": "1.37 GiB"
     },
@@ -628,7 +654,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Wed, 09 Sep 2026 15:32:12 +0000",
+      "pubDate": "Wed, 09 Sep 2026 08:32:12 +0000",
       "category": "Otome Game Sekai wa Mob ni Kibishii Sekai desu S2 - 1080",
       "subsplease:size": "1.35 GiB"
     },
@@ -641,7 +667,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Wed, 09 Sep 2026 14:32:17 +0000",
+      "pubDate": "Wed, 09 Sep 2026 07:32:17 +0000",
       "category": "All Works Maid - 1080",
       "subsplease:size": "1.34 GiB"
     },
@@ -654,7 +680,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Wed, 09 Sep 2026 14:02:27 +0000",
+      "pubDate": "Wed, 09 Sep 2026 07:02:27 +0000",
       "category": "Re Zero kara Hajimeru Isekai Seikatsu - 1080",
       "subsplease:size": "1.52 GiB"
     },
@@ -667,7 +693,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Wed, 09 Sep 2026 13:32:13 +0000",
+      "pubDate": "Wed, 09 Sep 2026 06:32:13 +0000",
       "category": "Youjo Senki S2 - 1080",
       "subsplease:size": "1.34 GiB"
     },
@@ -680,7 +706,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Wed, 09 Sep 2026 12:02:16 +0000",
+      "pubDate": "Wed, 09 Sep 2026 05:02:16 +0000",
       "category": "Clevatess S2 - 1080",
       "subsplease:size": "1.35 GiB"
     },
@@ -693,7 +719,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Tue, 08 Sep 2026 17:31:53 +0000",
+      "pubDate": "Tue, 08 Sep 2026 10:31:53 +0000",
       "category": "Sora wa Akai Kawa no Hotori - 1080",
       "subsplease:size": "1.3 GiB"
     },
@@ -706,7 +732,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Tue, 08 Sep 2026 15:00:52 +0000",
+      "pubDate": "Tue, 08 Sep 2026 08:00:52 +0000",
       "category": "Yoroi Shin Den Samurai Troopers - 1080",
       "subsplease:size": "1.36 GiB"
     },
@@ -719,7 +745,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Tue, 08 Sep 2026 13:32:01 +0000",
+      "pubDate": "Tue, 08 Sep 2026 06:32:01 +0000",
       "category": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu - 1080",
       "subsplease:size": "1.34 GiB"
     },
@@ -732,7 +758,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Tue, 08 Sep 2026 12:32:14 +0000",
+      "pubDate": "Tue, 08 Sep 2026 05:32:14 +0000",
       "category": "Kimi ga Shinu made Koi wo Shitai - 1080",
       "subsplease:size": "1.35 GiB"
     },
@@ -745,7 +771,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Tue, 08 Sep 2026 11:32:06 +0000",
+      "pubDate": "Tue, 08 Sep 2026 04:32:06 +0000",
       "category": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai - 1080",
       "subsplease:size": "1.35 GiB"
     },
@@ -758,7 +784,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Tue, 08 Sep 2026 04:01:16 +0000",
+      "pubDate": "Mon, 07 Sep 2026 21:01:16 +0000",
       "category": "Bai Ri Cheng Wang - 1080",
       "subsplease:size": "803.58 MiB"
     },
@@ -771,7 +797,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Mon, 07 Sep 2026 18:51:20 +0000",
+      "pubDate": "Mon, 07 Sep 2026 11:51:20 +0000",
       "category": "Ao no Miburo - 1080",
       "subsplease:size": "32.54 GiB"
     },
@@ -784,7 +810,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Mon, 07 Sep 2026 16:02:08 +0000",
+      "pubDate": "Mon, 07 Sep 2026 09:02:08 +0000",
       "category": "LIAR GAME - 1080",
       "subsplease:size": "1.36 GiB"
     },
@@ -797,7 +823,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Mon, 07 Sep 2026 15:32:04 +0000",
+      "pubDate": "Mon, 07 Sep 2026 08:32:04 +0000",
       "category": "Grand Blue S3 - 1080",
       "subsplease:size": "1.37 GiB"
     },
@@ -810,7 +836,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Mon, 07 Sep 2026 15:02:09 +0000",
+      "pubDate": "Mon, 07 Sep 2026 08:02:09 +0000",
       "category": "Tenkosaki - 1080",
       "subsplease:size": "1.37 GiB"
     },
@@ -823,7 +849,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Mon, 07 Sep 2026 14:33:30 +0000",
+      "pubDate": "Mon, 07 Sep 2026 07:33:30 +0000",
       "category": "Suterare Seijo no Isekai Gohan Tabi - 1080",
       "subsplease:size": "862.81 MiB"
     },
@@ -836,7 +862,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Mon, 07 Sep 2026 14:30:50 +0000",
+      "pubDate": "Mon, 07 Sep 2026 07:30:50 +0000",
       "category": "Buchigire Reijou wa Houfuku wo Chikaimashita - 1080",
       "subsplease:size": "1.35 GiB"
     },
@@ -849,7 +875,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Mon, 07 Sep 2026 13:33:25 +0000",
+      "pubDate": "Mon, 07 Sep 2026 06:33:25 +0000",
       "category": "World Is Dancing - 1080",
       "subsplease:size": "925.49 MiB"
     },
@@ -862,7 +888,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Mon, 07 Sep 2026 13:01:59 +0000",
+      "pubDate": "Mon, 07 Sep 2026 06:01:59 +0000",
       "category": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2 - 1080",
       "subsplease:size": "1.35 GiB"
     },
@@ -875,7 +901,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Mon, 07 Sep 2026 13:00:52 +0000",
+      "pubDate": "Mon, 07 Sep 2026 06:00:52 +0000",
       "category": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 1080",
       "subsplease:size": "1.34 GiB"
     },
@@ -888,9 +914,31 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Mon, 07 Sep 2026 12:32:09 +0000",
+      "pubDate": "Mon, 07 Sep 2026 05:32:09 +0000",
       "category": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. - 1080",
       "subsplease:size": "1.37 GiB"
+    },
+    {
+      "title": "[CenturyZeta] Yanineko Mini Anime - 18 (1080p) (Yani Neko)",
+      "link": "https://nyaa.si/download/2157383.torrent",
+      "guid": {
+        "_": "https://nyaa.si/view/2157383",
+        "$": {
+          "isPermaLink": "true"
+        }
+      },
+      "pubDate": "Sun, 06 Sep 2026 14:10:17 -0000",
+      "nyaa:seeders": "38",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "353",
+      "nyaa:infoHash": "46d184b0d2dd167cdf52c55787dfda28e2dca31e",
+      "nyaa:categoryId": "1_2",
+      "nyaa:category": "Anime - English-translated",
+      "nyaa:size": "8.7 MiB",
+      "nyaa:comments": "0",
+      "nyaa:trusted": "No",
+      "nyaa:remake": "No",
+      "description": "<a href=\"https://nyaa.si/view/2157383\">#2157383 | [CenturyZeta] Yanineko Mini Anime - 18 (1080p) (Yani Neko)</a> | 8.7 MiB | Anime - English-translated | 46d184b0d2dd167cdf52c55787dfda28e2dca31e"
     },
     {
       "title": "[SubsPlease] Azur Lane - Bisoku Zenshin! S2 - 10 (1080p) [7469F9C5].mkv",
@@ -901,7 +949,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Sun, 06 Sep 2026 16:45:43 +0000",
+      "pubDate": "Sun, 06 Sep 2026 09:45:43 +0000",
       "category": "Azur Lane - Bisoku Zenshin! S2 - 1080",
       "subsplease:size": "497.68 MiB"
     },
@@ -914,7 +962,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Sun, 06 Sep 2026 16:02:11 +0000",
+      "pubDate": "Sun, 06 Sep 2026 09:02:11 +0000",
       "category": "One Piece - 1080",
       "subsplease:size": "1.34 GiB"
     },
@@ -927,7 +975,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Sun, 06 Sep 2026 15:47:20 +0000",
+      "pubDate": "Sun, 06 Sep 2026 08:47:20 +0000",
       "category": "Futsutsuka na Akujo dewa Gozaimasu ga - 1080",
       "subsplease:size": "1.36 GiB"
     },
@@ -940,7 +988,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Sun, 06 Sep 2026 15:32:05 +0000",
+      "pubDate": "Sun, 06 Sep 2026 08:32:05 +0000",
       "category": "Sayonara Lara - 1080",
       "subsplease:size": "1.36 GiB"
     },
@@ -953,7 +1001,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Sun, 06 Sep 2026 15:02:01 +0000",
+      "pubDate": "Sun, 06 Sep 2026 08:02:01 +0000",
       "category": "Mushoku Tensei S3 - 1080",
       "subsplease:size": "1.35 GiB"
     },
@@ -966,31 +1014,9 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Sun, 06 Sep 2026 15:00:49 +0000",
+      "pubDate": "Sun, 06 Sep 2026 08:00:49 +0000",
       "category": "Kuroneko to Majo no Kyoushitsu - 1080",
       "subsplease:size": "1.35 GiB"
-    },
-    {
-      "title": "[CenturyZeta] Yanineko Mini Anime - 18 (1080p) (Yani Neko)",
-      "link": "https://nyaa.si/download/2157383.torrent",
-      "guid": {
-        "_": "https://nyaa.si/view/2157383",
-        "$": {
-          "isPermaLink": "true"
-        }
-      },
-      "pubDate": "Sun, 06 Sep 2026 14:10:17 -0000",
-      "nyaa:seeders": "43",
-      "nyaa:leechers": "3",
-      "nyaa:downloads": "345",
-      "nyaa:infoHash": "46d184b0d2dd167cdf52c55787dfda28e2dca31e",
-      "nyaa:categoryId": "1_2",
-      "nyaa:category": "Anime - English-translated",
-      "nyaa:size": "8.7 MiB",
-      "nyaa:comments": "0",
-      "nyaa:trusted": "No",
-      "nyaa:remake": "No",
-      "description": "<a href=\"https://nyaa.si/view/2157383\">#2157383 | [CenturyZeta] Yanineko Mini Anime - 18 (1080p) (Yani Neko)</a> | 8.7 MiB | Anime - English-translated | 46d184b0d2dd167cdf52c55787dfda28e2dca31e"
     },
     {
       "title": "[SubsPlease] Hyakkano - 34 (1080p) [1182C772].mkv",
@@ -1001,7 +1027,7 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Sun, 06 Sep 2026 14:00:45 +0000",
+      "pubDate": "Sun, 06 Sep 2026 07:00:45 +0000",
       "category": "Hyakkano - 1080",
       "subsplease:size": "1.34 GiB"
     },
@@ -1014,61 +1040,9 @@
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Sun, 06 Sep 2026 13:02:06 +0000",
+      "pubDate": "Sun, 06 Sep 2026 06:02:06 +0000",
       "category": "Sekai Saikyou no Kouei - 1080",
       "subsplease:size": "1.35 GiB"
-    },
-    {
-      "title": "[SubsPlease] Tetsunabe no Jan! - 10 (1080p) [C90D1EA3].mkv",
-      "link": "magnet:?xt=urn:btih:Z66W2MRKNAYQJRWFNHPJZXOESX57SWJ2&dn=%5BSubsPlease%5D%20Tetsunabe%20no%20Jan%21%20-%2010%20%281080p%29%20%5BC90D1EA3%5D.mkv&xl=1440338656&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
-      "guid": {
-        "_": "Z66W2MRKNAYQJRWFNHPJZXOESX57SWJ2",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sun, 06 Sep 2026 09:02:11 +0000",
-      "category": "Tetsunabe no Jan! - 1080",
-      "subsplease:size": "1.34 GiB"
-    },
-    {
-      "title": "[SubsPlease] Seihantai na Kimi to Boku - 22 (1080p) [728FF942].mkv",
-      "link": "magnet:?xt=urn:btih:6YQVUOJNOKAPISICFDAH4AZ2FWCEAQM3&dn=%5BSubsPlease%5D%20Seihantai%20na%20Kimi%20to%20Boku%20-%2022%20%281080p%29%20%5B728FF942%5D.mkv&xl=1458284139&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
-      "guid": {
-        "_": "6YQVUOJNOKAPISICFDAH4AZ2FWCEAQM3",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sun, 06 Sep 2026 08:31:53 +0000",
-      "category": "Seihantai na Kimi to Boku - 1080",
-      "subsplease:size": "1.36 GiB"
-    },
-    {
-      "title": "[SubsPlease] Let's Go Kaiki-gumi - 10 (1080p) [515D2C23].mkv",
-      "link": "magnet:?xt=urn:btih:3VSTUX43V6TZFM37FXWQLRAUS45GZXY7&dn=%5BSubsPlease%5D%20Let%27s%20Go%20Kaiki-gumi%20-%2010%20%281080p%29%20%5B515D2C23%5D.mkv&xl=1453487079&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
-      "guid": {
-        "_": "3VSTUX43V6TZFM37FXWQLRAUS45GZXY7",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sun, 06 Sep 2026 08:30:49 +0000",
-      "category": "Let's Go Kaiki-gumi - 1080",
-      "subsplease:size": "1.35 GiB"
-    },
-    {
-      "title": "[SubsPlease] Digimon Beatbreak - 46 (1080p) [62EC1901].mkv",
-      "link": "magnet:?xt=urn:btih:AATVIQEFDB5DYMZ3E7VU6FPPDMIUVQWF&dn=%5BSubsPlease%5D%20Digimon%20Beatbreak%20-%2046%20%281080p%29%20%5B62EC1901%5D.mkv&xl=1432793815&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
-      "guid": {
-        "_": "AATVIQEFDB5DYMZ3E7VU6FPPDMIUVQWF",
-        "$": {
-          "isPermaLink": "false"
-        }
-      },
-      "pubDate": "Sun, 06 Sep 2026 03:02:10 +0000",
-      "category": "Digimon Beatbreak - 1080",
-      "subsplease:size": "1.33 GiB"
     },
     {
       "title": "[Doomdos] - BLEACH Thousand-Year Blood War - The Calamity - 47 [1080p IQ WEB-DL]",
@@ -1081,8 +1055,8 @@
       },
       "pubDate": "Sun, 06 Sep 2026 02:18:17 -0000",
       "nyaa:seeders": "14",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "322",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "323",
       "nyaa:infoHash": "799f6cb9880228a1f9bd0b5f8603d2bc7a895428",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1093,17 +1067,43 @@
       "description": "<a href=\"https://nyaa.si/view/2157069\">#2157069 | [Doomdos] - BLEACH Thousand-Year Blood War - The Calamity - 47 [1080p IQ WEB-DL]</a> | 384.1 MiB | Anime - English-translated | 799f6cb9880228a1f9bd0b5f8603d2bc7a895428"
     },
     {
-      "title": "[SubsPlease] Meitantei Precure! - 32 (1080p) [15CD534D].mkv",
-      "link": "magnet:?xt=urn:btih:HZVCBQQPG37ZQQOAN4IUOAU6GP2KF7CE&dn=%5BSubsPlease%5D%20Meitantei%20Precure%21%20-%2032%20%281080p%29%20%5B15CD534D%5D.mkv&xl=1471564459&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+      "title": "[SubsPlease] Tetsunabe no Jan! - 10 (1080p) [C90D1EA3].mkv",
+      "link": "magnet:?xt=urn:btih:Z66W2MRKNAYQJRWFNHPJZXOESX57SWJ2&dn=%5BSubsPlease%5D%20Tetsunabe%20no%20Jan%21%20-%2010%20%281080p%29%20%5BC90D1EA3%5D.mkv&xl=1440338656&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
       "guid": {
-        "_": "HZVCBQQPG37ZQQOAN4IUOAU6GP2KF7CE",
+        "_": "Z66W2MRKNAYQJRWFNHPJZXOESX57SWJ2",
         "$": {
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Sun, 06 Sep 2026 01:31:45 +0000",
-      "category": "Meitantei Precure! - 1080",
-      "subsplease:size": "1.37 GiB"
+      "pubDate": "Sun, 06 Sep 2026 02:02:11 +0000",
+      "category": "Tetsunabe no Jan! - 1080",
+      "subsplease:size": "1.34 GiB"
+    },
+    {
+      "title": "[SubsPlease] Seihantai na Kimi to Boku - 22 (1080p) [728FF942].mkv",
+      "link": "magnet:?xt=urn:btih:6YQVUOJNOKAPISICFDAH4AZ2FWCEAQM3&dn=%5BSubsPlease%5D%20Seihantai%20na%20Kimi%20to%20Boku%20-%2022%20%281080p%29%20%5B728FF942%5D.mkv&xl=1458284139&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+      "guid": {
+        "_": "6YQVUOJNOKAPISICFDAH4AZ2FWCEAQM3",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Sun, 06 Sep 2026 01:31:53 +0000",
+      "category": "Seihantai na Kimi to Boku - 1080",
+      "subsplease:size": "1.36 GiB"
+    },
+    {
+      "title": "[SubsPlease] Let's Go Kaiki-gumi - 10 (1080p) [515D2C23].mkv",
+      "link": "magnet:?xt=urn:btih:3VSTUX43V6TZFM37FXWQLRAUS45GZXY7&dn=%5BSubsPlease%5D%20Let%27s%20Go%20Kaiki-gumi%20-%2010%20%281080p%29%20%5B515D2C23%5D.mkv&xl=1453487079&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+      "guid": {
+        "_": "3VSTUX43V6TZFM37FXWQLRAUS45GZXY7",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Sun, 06 Sep 2026 01:30:49 +0000",
+      "category": "Let's Go Kaiki-gumi - 1080",
+      "subsplease:size": "1.35 GiB"
     },
     {
       "title": "[Lazier] Bleach Thousand-Year Blood War - 47 (WEB 1080p AAC) | Bleach: Thousand-Year Blood War - The Calamity | Bleach: Sennen Kessen Hen - Kashin Tan",
@@ -1115,9 +1115,9 @@
         }
       },
       "pubDate": "Sat, 05 Sep 2026 20:22:46 -0000",
-      "nyaa:seeders": "79",
+      "nyaa:seeders": "72",
       "nyaa:leechers": "1",
-      "nyaa:downloads": "1318",
+      "nyaa:downloads": "1321",
       "nyaa:infoHash": "8e0f496231efcaecc5b316c50459b763b9b20515",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1128,30 +1128,30 @@
       "description": "<a href=\"https://nyaa.si/view/2156986\">#2156986 | [Lazier] Bleach Thousand-Year Blood War - 47 (WEB 1080p AAC) | Bleach: Thousand-Year Blood War - The Calamity | Bleach: Sennen Kessen Hen - Kashin Tan</a> | 1.4 GiB | Anime - English-translated | 8e0f496231efcaecc5b316c50459b763b9b20515"
     },
     {
-      "title": "[SubsPlease] Oshi no Ko S3 (01-11) (1080p) [Batch]",
-      "link": "magnet:?xt=urn:btih:QPUHD7XLTILFPCIJHSRZ55H55M67DZQ7&dn=%5BSubsPlease%5D%20Oshi%20no%20Ko%20S3%20%2801-11%29%20%281080p%29%20%5BBatch%5D&xl=18169686142&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+      "title": "[SubsPlease] Digimon Beatbreak - 46 (1080p) [62EC1901].mkv",
+      "link": "magnet:?xt=urn:btih:AATVIQEFDB5DYMZ3E7VU6FPPDMIUVQWF&dn=%5BSubsPlease%5D%20Digimon%20Beatbreak%20-%2046%20%281080p%29%20%5B62EC1901%5D.mkv&xl=1432793815&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
       "guid": {
-        "_": "QPUHD7XLTILFPCIJHSRZ55H55M67DZQ7",
+        "_": "AATVIQEFDB5DYMZ3E7VU6FPPDMIUVQWF",
         "$": {
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Sat, 05 Sep 2026 19:59:12 +0000",
-      "category": "Oshi no Ko S3 - 1080",
-      "subsplease:size": "16.92 GiB"
+      "pubDate": "Sat, 05 Sep 2026 20:02:10 +0000",
+      "category": "Digimon Beatbreak - 1080",
+      "subsplease:size": "1.33 GiB"
     },
     {
-      "title": "[SubsPlease] Saijo no Osewa - 10 (1080p) [A87EB168].mkv",
-      "link": "magnet:?xt=urn:btih:EQW3YKCZ3F2337WTS55TUAT7QXIN2GI7&dn=%5BSubsPlease%5D%20Saijo%20no%20Osewa%20-%2010%20%281080p%29%20%5BA87EB168%5D.mkv&xl=1506311249&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+      "title": "[SubsPlease] Meitantei Precure! - 32 (1080p) [15CD534D].mkv",
+      "link": "magnet:?xt=urn:btih:HZVCBQQPG37ZQQOAN4IUOAU6GP2KF7CE&dn=%5BSubsPlease%5D%20Meitantei%20Precure%21%20-%2032%20%281080p%29%20%5B15CD534D%5D.mkv&xl=1471564459&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
       "guid": {
-        "_": "EQW3YKCZ3F2337WTS55TUAT7QXIN2GI7",
+        "_": "HZVCBQQPG37ZQQOAN4IUOAU6GP2KF7CE",
         "$": {
           "isPermaLink": "false"
         }
       },
-      "pubDate": "Sat, 05 Sep 2026 18:12:01 +0000",
-      "category": "Saijo no Osewa - 1080",
-      "subsplease:size": "1.4 GiB"
+      "pubDate": "Sat, 05 Sep 2026 18:31:45 +0000",
+      "category": "Meitantei Precure! - 1080",
+      "subsplease:size": "1.37 GiB"
     },
     {
       "title": "[SubsPlease] Hanaori-san wa Tensei shitemo Kenka ga Shitai - 09 (1080p) [678F4015].mkv",
@@ -1254,9 +1254,9 @@
         }
       },
       "pubDate": "Sat, 05 Sep 2026 15:27:29 -0000",
-      "nyaa:seeders": "229",
-      "nyaa:leechers": "4",
-      "nyaa:downloads": "1972",
+      "nyaa:seeders": "212",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "1976",
       "nyaa:infoHash": "7547368f293a12ee451be82f937c7617db8bf027",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1319,6 +1319,19 @@
       "subsplease:size": "1.35 GiB"
     },
     {
+      "title": "[SubsPlease] Oshi no Ko S3 (01-11) (1080p) [Batch]",
+      "link": "magnet:?xt=urn:btih:QPUHD7XLTILFPCIJHSRZ55H55M67DZQ7&dn=%5BSubsPlease%5D%20Oshi%20no%20Ko%20S3%20%2801-11%29%20%281080p%29%20%5BBatch%5D&xl=18169686142&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+      "guid": {
+        "_": "QPUHD7XLTILFPCIJHSRZ55H55M67DZQ7",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Sat, 05 Sep 2026 12:59:12 +0000",
+      "category": "Oshi no Ko S3 - 1080",
+      "subsplease:size": "16.92 GiB"
+    },
+    {
       "title": "[SubsPlease] Mairimashita! Iruma-kun S4 - 21 (1080p) [3D2552C1].mkv",
       "link": "magnet:?xt=urn:btih:XODPQL5TKIEABA5AABWD3QUEU63VAWEZ&dn=%5BSubsPlease%5D%20Mairimashita%21%20Iruma-kun%20S4%20-%2021%20%281080p%29%20%5B3D2552C1%5D.mkv&xl=1525993629&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
       "guid": {
@@ -1343,6 +1356,19 @@
       "pubDate": "Sat, 05 Sep 2026 11:31:25 +0000",
       "category": "Detective Conan - 1080",
       "subsplease:size": "1.35 GiB"
+    },
+    {
+      "title": "[SubsPlease] Saijo no Osewa - 10 (1080p) [A87EB168].mkv",
+      "link": "magnet:?xt=urn:btih:EQW3YKCZ3F2337WTS55TUAT7QXIN2GI7&dn=%5BSubsPlease%5D%20Saijo%20no%20Osewa%20-%2010%20%281080p%29%20%5BA87EB168%5D.mkv&xl=1506311249&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.hotplug.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.beeimg.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ft.overflow.biz%3A6969%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+      "guid": {
+        "_": "EQW3YKCZ3F2337WTS55TUAT7QXIN2GI7",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Sat, 05 Sep 2026 11:12:01 +0000",
+      "category": "Saijo no Osewa - 1080",
+      "subsplease:size": "1.4 GiB"
     },
     {
       "title": "[SubsPlease] Kaijuu 8-gou - Narumi no Heijitsu - 01 (1080p) [71F003F7].mkv",
@@ -1497,9 +1523,9 @@
         }
       },
       "pubDate": "Fri, 04 Sep 2026 07:10:12 -0000",
-      "nyaa:seeders": "749",
-      "nyaa:leechers": "16",
-      "nyaa:downloads": "8579",
+      "nyaa:seeders": "682",
+      "nyaa:leechers": "11",
+      "nyaa:downloads": "8653",
       "nyaa:infoHash": "572af74bd8d94721712703b739d164ce435e5268",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1545,9 +1571,9 @@
         }
       },
       "pubDate": "Thu, 03 Sep 2026 19:51:47 -0000",
-      "nyaa:seeders": "237",
-      "nyaa:leechers": "6",
-      "nyaa:downloads": "3034",
+      "nyaa:seeders": "210",
+      "nyaa:leechers": "8",
+      "nyaa:downloads": "3048",
       "nyaa:infoHash": "8327e677891a1ad08513e91e3242cfac489a6c51",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1580,9 +1606,9 @@
         }
       },
       "pubDate": "Thu, 03 Sep 2026 19:05:47 -0000",
-      "nyaa:seeders": "350",
-      "nyaa:leechers": "2",
-      "nyaa:downloads": "4505",
+      "nyaa:seeders": "320",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "4550",
       "nyaa:infoHash": "e7cfbc61d1127e9bbcaa315bc382ff00fe20cf89",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1615,9 +1641,9 @@
         }
       },
       "pubDate": "Thu, 03 Sep 2026 16:59:04 -0000",
-      "nyaa:seeders": "103",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "971",
+      "nyaa:seeders": "96",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "977",
       "nyaa:infoHash": "f34cab0ffea69ee9bc86bbb8f0156521f5072a39",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1637,9 +1663,9 @@
         }
       },
       "pubDate": "Thu, 03 Sep 2026 16:56:09 -0000",
-      "nyaa:seeders": "215",
-      "nyaa:leechers": "4",
-      "nyaa:downloads": "2061",
+      "nyaa:seeders": "188",
+      "nyaa:leechers": "5",
+      "nyaa:downloads": "2079",
       "nyaa:infoHash": "601611f3294065546ad829fca9d6939201390408",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1659,9 +1685,9 @@
         }
       },
       "pubDate": "Thu, 03 Sep 2026 16:13:27 -0000",
-      "nyaa:seeders": "108",
-      "nyaa:leechers": "3",
-      "nyaa:downloads": "1535",
+      "nyaa:seeders": "96",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "1543",
       "nyaa:infoHash": "78965de18c1342b5746f0827bfaa0eef2d659972",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1681,9 +1707,9 @@
         }
       },
       "pubDate": "Thu, 03 Sep 2026 16:09:19 -0000",
-      "nyaa:seeders": "54",
-      "nyaa:leechers": "3",
-      "nyaa:downloads": "593",
+      "nyaa:seeders": "56",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "598",
       "nyaa:infoHash": "2595fde64adbd9684848ab28ce69215a3597568a",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1717,8 +1743,8 @@
       },
       "pubDate": "Thu, 03 Sep 2026 16:07:51 -0000",
       "nyaa:seeders": "257",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "2046",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "2049",
       "nyaa:infoHash": "8419388fbc096de5686b5449e8297a07df68aba5",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1738,9 +1764,9 @@
         }
       },
       "pubDate": "Thu, 03 Sep 2026 16:06:27 -0000",
-      "nyaa:seeders": "321",
+      "nyaa:seeders": "311",
       "nyaa:leechers": "3",
-      "nyaa:downloads": "2799",
+      "nyaa:downloads": "2802",
       "nyaa:infoHash": "116dd7d211bfe44f09d7b4d3ef706d21b83353aa",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1760,9 +1786,9 @@
         }
       },
       "pubDate": "Thu, 03 Sep 2026 16:01:45 -0000",
-      "nyaa:seeders": "1665",
-      "nyaa:leechers": "15",
-      "nyaa:downloads": "15034",
+      "nyaa:seeders": "1624",
+      "nyaa:leechers": "10",
+      "nyaa:downloads": "15100",
       "nyaa:infoHash": "7dae91619530b3f3d8d1bcaa3ebf9d634fd3fe3b",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1874,8 +1900,8 @@
       },
       "pubDate": "Thu, 03 Sep 2026 04:27:04 -0000",
       "nyaa:seeders": "51",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "913",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "917",
       "nyaa:infoHash": "6be4ea558658b90902423dc2b6cd5055620173d3",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1895,9 +1921,9 @@
         }
       },
       "pubDate": "Thu, 03 Sep 2026 02:31:03 -0000",
-      "nyaa:seeders": "10",
+      "nyaa:seeders": "14",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "267",
+      "nyaa:downloads": "268",
       "nyaa:infoHash": "5c66deae12ff0b2780180d097df99d4ef2ce8a7d",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1939,8 +1965,8 @@
         }
       },
       "pubDate": "Wed, 02 Sep 2026 17:55:02 -0000",
-      "nyaa:seeders": "8",
-      "nyaa:leechers": "2",
+      "nyaa:seeders": "7",
+      "nyaa:leechers": "0",
       "nyaa:downloads": "184",
       "nyaa:infoHash": "4e880e328243a910c15626a94d16cdb6b43c5456",
       "nyaa:categoryId": "1_2",
@@ -1961,9 +1987,9 @@
         }
       },
       "pubDate": "Wed, 02 Sep 2026 17:45:28 -0000",
-      "nyaa:seeders": "20",
-      "nyaa:leechers": "2",
-      "nyaa:downloads": "214",
+      "nyaa:seeders": "17",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "215",
       "nyaa:infoHash": "0a252e305a717c6ff430085f4e03445af19d0201",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -1983,8 +2009,8 @@
         }
       },
       "pubDate": "Wed, 02 Sep 2026 17:35:41 -0000",
-      "nyaa:seeders": "40",
-      "nyaa:leechers": "3",
+      "nyaa:seeders": "42",
+      "nyaa:leechers": "1",
       "nyaa:downloads": "550",
       "nyaa:infoHash": "7e78895535ca88b969f25e411dd65bab658959fc",
       "nyaa:categoryId": "1_2",
@@ -2005,8 +2031,8 @@
         }
       },
       "pubDate": "Wed, 02 Sep 2026 17:35:41 -0000",
-      "nyaa:seeders": "61",
-      "nyaa:leechers": "1",
+      "nyaa:seeders": "60",
+      "nyaa:leechers": "2",
       "nyaa:downloads": "819",
       "nyaa:infoHash": "53db2f5eae55d8e711b024760578f10654b4444e",
       "nyaa:categoryId": "1_2",
@@ -2027,9 +2053,9 @@
         }
       },
       "pubDate": "Wed, 02 Sep 2026 17:33:08 -0000",
-      "nyaa:seeders": "53",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "355",
+      "nyaa:seeders": "54",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "357",
       "nyaa:infoHash": "233da3251262e39c584f0132780a89cd5c874d1f",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -2049,9 +2075,9 @@
         }
       },
       "pubDate": "Wed, 02 Sep 2026 17:31:32 -0000",
-      "nyaa:seeders": "102",
-      "nyaa:leechers": "5",
-      "nyaa:downloads": "1414",
+      "nyaa:seeders": "100",
+      "nyaa:leechers": "3",
+      "nyaa:downloads": "1421",
       "nyaa:infoHash": "84a476d87d5893c971a494bfddc7535704f37ef9",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -2071,9 +2097,9 @@
         }
       },
       "pubDate": "Wed, 02 Sep 2026 17:31:29 -0000",
-      "nyaa:seeders": "50",
-      "nyaa:leechers": "3",
-      "nyaa:downloads": "668",
+      "nyaa:seeders": "48",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "672",
       "nyaa:infoHash": "a259ea56d75c34a5f489cc4bea999acab6712c80",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -2093,9 +2119,9 @@
         }
       },
       "pubDate": "Wed, 02 Sep 2026 17:31:06 -0000",
-      "nyaa:seeders": "27",
-      "nyaa:leechers": "2",
-      "nyaa:downloads": "419",
+      "nyaa:seeders": "26",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "422",
       "nyaa:infoHash": "f00f3fc83c6488fceb214dc682ab5ecfde4092ab",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -2116,8 +2142,8 @@
       },
       "pubDate": "Wed, 02 Sep 2026 17:30:25 -0000",
       "nyaa:seeders": "46",
-      "nyaa:leechers": "3",
-      "nyaa:downloads": "868",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "873",
       "nyaa:infoHash": "195f3a3f60d48199ade46666490ff0a77713b3e7",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -2137,9 +2163,9 @@
         }
       },
       "pubDate": "Wed, 02 Sep 2026 17:29:11 -0000",
-      "nyaa:seeders": "56",
+      "nyaa:seeders": "46",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "247",
+      "nyaa:downloads": "249",
       "nyaa:infoHash": "1f5f6f7efa7505167f0c391947de1d86bfbe123e",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -2172,9 +2198,9 @@
         }
       },
       "pubDate": "Wed, 02 Sep 2026 17:29:00 -0000",
-      "nyaa:seeders": "66",
+      "nyaa:seeders": "67",
       "nyaa:leechers": "1",
-      "nyaa:downloads": "431",
+      "nyaa:downloads": "432",
       "nyaa:infoHash": "2612d68f11452a98889090ae23dd2b958215e4f8",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -2675,9 +2701,9 @@
         }
       },
       "pubDate": "Sun, 30 Aug 2026 11:32:53 -0000",
-      "nyaa:seeders": "46",
-      "nyaa:leechers": "3",
-      "nyaa:downloads": "566",
+      "nyaa:seeders": "40",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "569",
       "nyaa:infoHash": "32749aa8ea69ebee6ce203dcdf14a576e4c97bec",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -2763,8 +2789,8 @@
       },
       "pubDate": "Sat, 29 Aug 2026 18:55:35 -0000",
       "nyaa:seeders": "60",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "1807",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "1811",
       "nyaa:infoHash": "978ab2c07d30c5fc666a676b32248b1f82c77ed0",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -2888,9 +2914,9 @@
         }
       },
       "pubDate": "Sat, 29 Aug 2026 15:52:02 -0000",
-      "nyaa:seeders": "150",
-      "nyaa:leechers": "7",
-      "nyaa:downloads": "1668",
+      "nyaa:seeders": "151",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "1672",
       "nyaa:infoHash": "3d73a9ffbc88a6fc6a77b6a7920d9b0d9675ce4b",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -2910,7 +2936,7 @@
         }
       },
       "pubDate": "Sat, 29 Aug 2026 15:07:29 -0000",
-      "nyaa:seeders": "7",
+      "nyaa:seeders": "3",
       "nyaa:leechers": "0",
       "nyaa:downloads": "241",
       "nyaa:infoHash": "ace0bce0ae1de71c4a1abe79507b949444647954",
@@ -3201,9 +3227,9 @@
         }
       },
       "pubDate": "Thu, 27 Aug 2026 17:27:59 -0000",
-      "nyaa:seeders": "83",
+      "nyaa:seeders": "81",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "1168",
+      "nyaa:downloads": "1172",
       "nyaa:infoHash": "fb74c7cead1075e333a75d231517ae1a706f3cc2",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -3223,8 +3249,8 @@
         }
       },
       "pubDate": "Thu, 27 Aug 2026 16:10:44 -0000",
-      "nyaa:seeders": "48",
-      "nyaa:leechers": "1",
+      "nyaa:seeders": "41",
+      "nyaa:leechers": "0",
       "nyaa:downloads": "616",
       "nyaa:infoHash": "e6ecd7d83dfd03c728d5e4d32197f61593bbd8a7",
       "nyaa:categoryId": "1_2",
@@ -3245,8 +3271,8 @@
         }
       },
       "pubDate": "Thu, 27 Aug 2026 16:09:18 -0000",
-      "nyaa:seeders": "96",
-      "nyaa:leechers": "0",
+      "nyaa:seeders": "91",
+      "nyaa:leechers": "2",
       "nyaa:downloads": "1190",
       "nyaa:infoHash": "a45ffd5489a633d5eb1818fae77221f8e589f5c0",
       "nyaa:categoryId": "1_2",
@@ -3280,9 +3306,9 @@
         }
       },
       "pubDate": "Thu, 27 Aug 2026 16:01:52 -0000",
-      "nyaa:seeders": "272",
-      "nyaa:leechers": "2",
-      "nyaa:downloads": "3450",
+      "nyaa:seeders": "267",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "3461",
       "nyaa:infoHash": "1584386a3e4e9853ebdf91e6c126eb6f7f60c0ab",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -3393,9 +3419,9 @@
         }
       },
       "pubDate": "Wed, 26 Aug 2026 18:33:55 -0000",
-      "nyaa:seeders": "9",
+      "nyaa:seeders": "13",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "469",
+      "nyaa:downloads": "470",
       "nyaa:infoHash": "e61b9d0b6597af835f6e139fb0d1d2fd53c0e72c",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -3417,7 +3443,7 @@
       "pubDate": "Wed, 26 Aug 2026 18:32:36 -0000",
       "nyaa:seeders": "38",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "1046",
+      "nyaa:downloads": "1047",
       "nyaa:infoHash": "3ee47de9803cd78c0cd35353ed394240ce539745",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -3437,8 +3463,8 @@
         }
       },
       "pubDate": "Wed, 26 Aug 2026 17:35:22 -0000",
-      "nyaa:seeders": "15",
-      "nyaa:leechers": "2",
+      "nyaa:seeders": "11",
+      "nyaa:leechers": "3",
       "nyaa:downloads": "282",
       "nyaa:infoHash": "45194e1166cf85019e3d33808409a6e9431766e3",
       "nyaa:categoryId": "1_2",
@@ -3459,9 +3485,9 @@
         }
       },
       "pubDate": "Wed, 26 Aug 2026 17:26:16 -0000",
-      "nyaa:seeders": "18",
-      "nyaa:leechers": "2",
-      "nyaa:downloads": "249",
+      "nyaa:seeders": "20",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "252",
       "nyaa:infoHash": "bd9a5153f11d95fb7ccd3e377660ffb2a3f7bdf8",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -3482,7 +3508,7 @@
       },
       "pubDate": "Wed, 26 Aug 2026 17:22:45 -0000",
       "nyaa:seeders": "54",
-      "nyaa:leechers": "0",
+      "nyaa:leechers": "1",
       "nyaa:downloads": "745",
       "nyaa:infoHash": "e275d104c26005c62604c43e15f5c66d69b9136b",
       "nyaa:categoryId": "1_2",
@@ -3503,9 +3529,9 @@
         }
       },
       "pubDate": "Wed, 26 Aug 2026 17:22:05 -0000",
-      "nyaa:seeders": "25",
+      "nyaa:seeders": "22",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "630",
+      "nyaa:downloads": "633",
       "nyaa:infoHash": "da0f21e9661c10a6edd51ce3da0e91f10bcd2ef1",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -3526,7 +3552,7 @@
       },
       "pubDate": "Wed, 26 Aug 2026 17:21:59 -0000",
       "nyaa:seeders": "49",
-      "nyaa:leechers": "0",
+      "nyaa:leechers": "1",
       "nyaa:downloads": "1311",
       "nyaa:infoHash": "8733d300ff777eb3dcf07c25ec3a2c953f73307f",
       "nyaa:categoryId": "1_2",
@@ -3547,9 +3573,9 @@
         }
       },
       "pubDate": "Wed, 26 Aug 2026 17:21:59 -0000",
-      "nyaa:seeders": "31",
+      "nyaa:seeders": "32",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "522",
+      "nyaa:downloads": "523",
       "nyaa:infoHash": "39c849509a818cf0b1eb29486d0674939420fff0",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -3569,9 +3595,9 @@
         }
       },
       "pubDate": "Wed, 26 Aug 2026 17:19:48 -0000",
-      "nyaa:seeders": "21",
+      "nyaa:seeders": "20",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "682",
+      "nyaa:downloads": "683",
       "nyaa:infoHash": "143f9cdd418f36c8f07657ea922136e6cd266d13",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -3591,7 +3617,7 @@
         }
       },
       "pubDate": "Wed, 26 Aug 2026 17:19:43 -0000",
-      "nyaa:seeders": "21",
+      "nyaa:seeders": "20",
       "nyaa:leechers": "0",
       "nyaa:downloads": "425",
       "nyaa:infoHash": "f2b4cdf136989a56aa9fd5df7d449a6f4e18b573",
@@ -3613,9 +3639,9 @@
         }
       },
       "pubDate": "Wed, 26 Aug 2026 17:18:15 -0000",
-      "nyaa:seeders": "39",
+      "nyaa:seeders": "37",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "458",
+      "nyaa:downloads": "459",
       "nyaa:infoHash": "a1580e2ccc62fb81f30d8e9cf29e166c5745c93f",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -3648,9 +3674,9 @@
         }
       },
       "pubDate": "Wed, 26 Aug 2026 17:16:39 -0000",
-      "nyaa:seeders": "53",
+      "nyaa:seeders": "56",
       "nyaa:leechers": "1",
-      "nyaa:downloads": "1329",
+      "nyaa:downloads": "1330",
       "nyaa:infoHash": "b177017f89874e2c8c571480a202369ed8e1443c",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -3917,9 +3943,9 @@
         }
       },
       "pubDate": "Mon, 24 Aug 2026 15:28:05 -0000",
-      "nyaa:seeders": "92",
-      "nyaa:leechers": "3",
-      "nyaa:downloads": "1290",
+      "nyaa:seeders": "96",
+      "nyaa:leechers": "9",
+      "nyaa:downloads": "1294",
       "nyaa:infoHash": "6d76b6c65d7af20678879be45f19fa3ffc44f9a9",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -4030,9 +4056,9 @@
         }
       },
       "pubDate": "Sun, 23 Aug 2026 19:35:51 -0000",
-      "nyaa:seeders": "558",
+      "nyaa:seeders": "525",
       "nyaa:leechers": "1",
-      "nyaa:downloads": "5689",
+      "nyaa:downloads": "5691",
       "nyaa:infoHash": "1dbf2065dd398f82517fc5fd04194a1de10a855c",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -4156,9 +4182,9 @@
         }
       },
       "pubDate": "Sun, 23 Aug 2026 12:04:58 -0000",
-      "nyaa:seeders": "49",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "647",
+      "nyaa:seeders": "42",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "648",
       "nyaa:infoHash": "4f2690afc2e149e176138ae7283f6b22116c7b99",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -4217,7 +4243,7 @@
         }
       },
       "pubDate": "Sun, 23 Aug 2026 08:07:23 -0000",
-      "nyaa:seeders": "14",
+      "nyaa:seeders": "10",
       "nyaa:leechers": "0",
       "nyaa:downloads": "404",
       "nyaa:infoHash": "aa129a9f11ee3f9070f010db866dcc9be96d2510",
@@ -4265,9 +4291,9 @@
         }
       },
       "pubDate": "Sat, 22 Aug 2026 21:00:36 -0000",
-      "nyaa:seeders": "40",
+      "nyaa:seeders": "34",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "1356",
+      "nyaa:downloads": "1357",
       "nyaa:infoHash": "0a665fc09a74868f6685a80f6a5e5294e56448f4",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -4625,9 +4651,9 @@
         }
       },
       "pubDate": "Thu, 20 Aug 2026 20:55:38 -0000",
-      "nyaa:seeders": "227",
+      "nyaa:seeders": "222",
       "nyaa:leechers": "1",
-      "nyaa:downloads": "5204",
+      "nyaa:downloads": "5219",
       "nyaa:infoHash": "a6c0369b7dabf00dcf42b411e4ba918026b0c98e",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -4647,9 +4673,9 @@
         }
       },
       "pubDate": "Thu, 20 Aug 2026 18:11:05 -0000",
-      "nyaa:seeders": "304",
-      "nyaa:leechers": "11",
-      "nyaa:downloads": "7577",
+      "nyaa:seeders": "283",
+      "nyaa:leechers": "10",
+      "nyaa:downloads": "7587",
       "nyaa:infoHash": "760681a5294a3332d0ddcfbd7dc5b105480bdb0f",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -4669,9 +4695,9 @@
         }
       },
       "pubDate": "Thu, 20 Aug 2026 18:01:02 -0000",
-      "nyaa:seeders": "130",
+      "nyaa:seeders": "118",
       "nyaa:leechers": "1",
-      "nyaa:downloads": "2415",
+      "nyaa:downloads": "2422",
       "nyaa:infoHash": "d1a30cb6401027a00f17ab20d15e668456095c9a",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -4704,9 +4730,9 @@
         }
       },
       "pubDate": "Thu, 20 Aug 2026 16:49:00 -0000",
-      "nyaa:seeders": "425",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "8220",
+      "nyaa:seeders": "398",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "8228",
       "nyaa:infoHash": "04438a45b11b0276361a8108d296138294632576",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -4726,9 +4752,9 @@
         }
       },
       "pubDate": "Thu, 20 Aug 2026 16:19:18 -0000",
-      "nyaa:seeders": "147",
+      "nyaa:seeders": "139",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "2335",
+      "nyaa:downloads": "2343",
       "nyaa:infoHash": "cd7ad7595eb2d3b00d5ea887cb9d2678fd9e6990",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -4748,9 +4774,9 @@
         }
       },
       "pubDate": "Thu, 20 Aug 2026 16:11:09 -0000",
-      "nyaa:seeders": "85",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "1723",
+      "nyaa:seeders": "75",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "1725",
       "nyaa:infoHash": "c862d43fbe6d46a98713303581b34ae38e73c0ac",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -4770,7 +4796,7 @@
         }
       },
       "pubDate": "Thu, 20 Aug 2026 16:09:56 -0000",
-      "nyaa:seeders": "37",
+      "nyaa:seeders": "29",
       "nyaa:leechers": "0",
       "nyaa:downloads": "523",
       "nyaa:infoHash": "904da062f3a49494e12ef6e227bc13f9da58c2a9",
@@ -4792,7 +4818,7 @@
         }
       },
       "pubDate": "Thu, 20 Aug 2026 16:08:29 -0000",
-      "nyaa:seeders": "158",
+      "nyaa:seeders": "160",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1829",
       "nyaa:infoHash": "0900bd08daa7058de4069f521a318f49de358f55",
@@ -4814,9 +4840,9 @@
         }
       },
       "pubDate": "Thu, 20 Aug 2026 16:06:41 -0000",
-      "nyaa:seeders": "223",
+      "nyaa:seeders": "210",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "2517",
+      "nyaa:downloads": "2518",
       "nyaa:infoHash": "c53fbbf812bb7a9671fb6eb4c9b5d3ceddf6df4d",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -4836,9 +4862,9 @@
         }
       },
       "pubDate": "Thu, 20 Aug 2026 16:06:39 -0000",
-      "nyaa:seeders": "93",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "1176",
+      "nyaa:seeders": "95",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "1182",
       "nyaa:infoHash": "590c64a40c39a751532caa41c81804c581b58f5b",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -4871,9 +4897,9 @@
         }
       },
       "pubDate": "Thu, 20 Aug 2026 16:01:51 -0000",
-      "nyaa:seeders": "1173",
-      "nyaa:leechers": "5",
-      "nyaa:downloads": "15630",
+      "nyaa:seeders": "1146",
+      "nyaa:leechers": "11",
+      "nyaa:downloads": "15655",
       "nyaa:infoHash": "16fccf7360c6e0f3860de13facb34818a0b83fe9",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -4997,9 +5023,9 @@
         }
       },
       "pubDate": "Wed, 19 Aug 2026 18:49:29 -0000",
-      "nyaa:seeders": "9",
+      "nyaa:seeders": "10",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "450",
+      "nyaa:downloads": "451",
       "nyaa:infoHash": "237c5830cbe42801ebd9e620221243193a4f7223",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5041,9 +5067,9 @@
         }
       },
       "pubDate": "Wed, 19 Aug 2026 17:36:25 -0000",
-      "nyaa:seeders": "11",
-      "nyaa:leechers": "2",
-      "nyaa:downloads": "230",
+      "nyaa:seeders": "10",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "231",
       "nyaa:infoHash": "10487a95d67c5d8cf4809068e278cfb20ec3cace",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5063,9 +5089,9 @@
         }
       },
       "pubDate": "Wed, 19 Aug 2026 17:35:57 -0000",
-      "nyaa:seeders": "36",
+      "nyaa:seeders": "28",
       "nyaa:leechers": "1",
-      "nyaa:downloads": "395",
+      "nyaa:downloads": "396",
       "nyaa:infoHash": "3d25f3f9f87e57f20a4e388c837bffc32ddd70ce",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5107,8 +5133,8 @@
         }
       },
       "pubDate": "Wed, 19 Aug 2026 17:31:02 -0000",
-      "nyaa:seeders": "33",
-      "nyaa:leechers": "0",
+      "nyaa:seeders": "30",
+      "nyaa:leechers": "1",
       "nyaa:downloads": "1274",
       "nyaa:infoHash": "b72a21a5ae5be7f0e82742b1bf5007148386030c",
       "nyaa:categoryId": "1_2",
@@ -5129,9 +5155,9 @@
         }
       },
       "pubDate": "Wed, 19 Aug 2026 17:30:57 -0000",
-      "nyaa:seeders": "26",
-      "nyaa:leechers": "3",
-      "nyaa:downloads": "470",
+      "nyaa:seeders": "27",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "471",
       "nyaa:infoHash": "cc898b3328157c52fdf721a8b607f3431cd3da64",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5151,9 +5177,9 @@
         }
       },
       "pubDate": "Wed, 19 Aug 2026 17:29:20 -0000",
-      "nyaa:seeders": "35",
+      "nyaa:seeders": "34",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "567",
+      "nyaa:downloads": "568",
       "nyaa:infoHash": "f4aeff654d7de8dfa34350a5658b15d3601e1e0b",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5186,9 +5212,9 @@
         }
       },
       "pubDate": "Wed, 19 Aug 2026 17:26:50 -0000",
-      "nyaa:seeders": "61",
+      "nyaa:seeders": "57",
       "nyaa:leechers": "1",
-      "nyaa:downloads": "1501",
+      "nyaa:downloads": "1504",
       "nyaa:infoHash": "e84cd9cdaa21051af56b956335933de34889470c",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5208,8 +5234,8 @@
         }
       },
       "pubDate": "Wed, 19 Aug 2026 17:22:37 -0000",
-      "nyaa:seeders": "41",
-      "nyaa:leechers": "1",
+      "nyaa:seeders": "36",
+      "nyaa:leechers": "0",
       "nyaa:downloads": "676",
       "nyaa:infoHash": "4110968448c8d976d46b20daa9350d0137041163",
       "nyaa:categoryId": "1_2",
@@ -5230,7 +5256,7 @@
         }
       },
       "pubDate": "Wed, 19 Aug 2026 17:21:14 -0000",
-      "nyaa:seeders": "39",
+      "nyaa:seeders": "40",
       "nyaa:leechers": "0",
       "nyaa:downloads": "786",
       "nyaa:infoHash": "0b6bf75ea58020bf4f4171ac4b0511be6a4c2b14",
@@ -5252,9 +5278,9 @@
         }
       },
       "pubDate": "Wed, 19 Aug 2026 17:19:28 -0000",
-      "nyaa:seeders": "39",
+      "nyaa:seeders": "40",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "1062",
+      "nyaa:downloads": "1063",
       "nyaa:infoHash": "04ba0ca7fb60437174858c12c71d1eb665cc5a19",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5276,7 +5302,7 @@
       "pubDate": "Wed, 19 Aug 2026 17:18:41 -0000",
       "nyaa:seeders": "23",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "694",
+      "nyaa:downloads": "699",
       "nyaa:infoHash": "f8e09545f82a1c599f7b0c0c9334ec85295568cf",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5777,9 +5803,9 @@
         }
       },
       "pubDate": "Sun, 16 Aug 2026 04:53:54 -0000",
-      "nyaa:seeders": "49",
+      "nyaa:seeders": "42",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "689",
+      "nyaa:downloads": "690",
       "nyaa:infoHash": "0ef1cb02ff523b389abc48413e1089985f244282",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5812,9 +5838,9 @@
         }
       },
       "pubDate": "Sun, 16 Aug 2026 02:19:12 -0000",
-      "nyaa:seeders": "7",
+      "nyaa:seeders": "5",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "313",
+      "nyaa:downloads": "314",
       "nyaa:infoHash": "c44f8aef5e68d2f0fab419c0a5f0f3fb5ee54c8d",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5847,9 +5873,9 @@
         }
       },
       "pubDate": "Sat, 15 Aug 2026 21:27:48 -0000",
-      "nyaa:seeders": "119",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "2820",
+      "nyaa:seeders": "121",
+      "nyaa:leechers": "8",
+      "nyaa:downloads": "2823",
       "nyaa:infoHash": "a00634cf0d15af33fd5234ecadbef30d66d90f54",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5869,9 +5895,9 @@
         }
       },
       "pubDate": "Sat, 15 Aug 2026 21:22:03 -0000",
-      "nyaa:seeders": "49",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "1073",
+      "nyaa:seeders": "44",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "1076",
       "nyaa:infoHash": "a645a47c42ecaa4d5a053301cd32f4bb9b29cf31",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5891,9 +5917,9 @@
         }
       },
       "pubDate": "Sat, 15 Aug 2026 21:13:21 -0000",
-      "nyaa:seeders": "104",
-      "nyaa:leechers": "4",
-      "nyaa:downloads": "1698",
+      "nyaa:seeders": "102",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "1704",
       "nyaa:infoHash": "2e61f3c96b7056154dcc932d96ea223c336cb19a",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5913,9 +5939,9 @@
         }
       },
       "pubDate": "Sat, 15 Aug 2026 21:05:19 -0000",
-      "nyaa:seeders": "90",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "1329",
+      "nyaa:seeders": "94",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "1332",
       "nyaa:infoHash": "16fa9b632735790825f69c5756daedefbd560bf0",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -5987,9 +6013,9 @@
         }
       },
       "pubDate": "Sat, 15 Aug 2026 17:19:59 -0000",
-      "nyaa:seeders": "84",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "1608",
+      "nyaa:seeders": "74",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "1610",
       "nyaa:infoHash": "ecf08ead24ac344565b62104b4751f2c7396c04c",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6295,9 +6321,9 @@
         }
       },
       "pubDate": "Thu, 13 Aug 2026 20:20:27 -0000",
-      "nyaa:seeders": "252",
-      "nyaa:leechers": "7",
-      "nyaa:downloads": "7631",
+      "nyaa:seeders": "234",
+      "nyaa:leechers": "4",
+      "nyaa:downloads": "7636",
       "nyaa:infoHash": "a9bfb68dde9b7c52202cc017563d30381f0fb89e",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6317,9 +6343,9 @@
         }
       },
       "pubDate": "Thu, 13 Aug 2026 20:10:18 -0000",
-      "nyaa:seeders": "196",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "5086",
+      "nyaa:seeders": "200",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "5101",
       "nyaa:infoHash": "2ccad0aabc5bdb48d7ada01adb37137276a973f5",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6339,9 +6365,9 @@
         }
       },
       "pubDate": "Thu, 13 Aug 2026 20:02:50 -0000",
-      "nyaa:seeders": "133",
+      "nyaa:seeders": "118",
       "nyaa:leechers": "1",
-      "nyaa:downloads": "2332",
+      "nyaa:downloads": "2338",
       "nyaa:infoHash": "1493564a99b266daf11af948eb563d5d34e0f579",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6361,9 +6387,9 @@
         }
       },
       "pubDate": "Thu, 13 Aug 2026 17:50:10 -0000",
-      "nyaa:seeders": "377",
-      "nyaa:leechers": "7",
-      "nyaa:downloads": "8519",
+      "nyaa:seeders": "345",
+      "nyaa:leechers": "4",
+      "nyaa:downloads": "8526",
       "nyaa:infoHash": "5c35e0a8a81581ceff7fbb746e0aec437dd8030e",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6396,7 +6422,7 @@
         }
       },
       "pubDate": "Thu, 13 Aug 2026 16:08:55 -0000",
-      "nyaa:seeders": "37",
+      "nyaa:seeders": "26",
       "nyaa:leechers": "0",
       "nyaa:downloads": "621",
       "nyaa:infoHash": "2e3a6e9dfb30deb8d4a20bfd6ac094a0c76d0214",
@@ -6418,9 +6444,9 @@
         }
       },
       "pubDate": "Thu, 13 Aug 2026 16:07:32 -0000",
-      "nyaa:seeders": "87",
+      "nyaa:seeders": "84",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "1215",
+      "nyaa:downloads": "1217",
       "nyaa:infoHash": "0cf4d23f7139cf812e992320496764623b52cf28",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6440,7 +6466,7 @@
         }
       },
       "pubDate": "Thu, 13 Aug 2026 16:06:15 -0000",
-      "nyaa:seeders": "174",
+      "nyaa:seeders": "165",
       "nyaa:leechers": "1",
       "nyaa:downloads": "2645",
       "nyaa:infoHash": "bfc31fe90121786a897f141c18dc2f19f89e9512",
@@ -6462,9 +6488,9 @@
         }
       },
       "pubDate": "Thu, 13 Aug 2026 16:06:15 -0000",
-      "nyaa:seeders": "71",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "1160",
+      "nyaa:seeders": "72",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "1163",
       "nyaa:infoHash": "de9332a5c45d84d8365a2c6a04e152a766f70e55",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6484,9 +6510,9 @@
         }
       },
       "pubDate": "Thu, 13 Aug 2026 16:05:38 -0000",
-      "nyaa:seeders": "74",
+      "nyaa:seeders": "70",
       "nyaa:leechers": "1",
-      "nyaa:downloads": "1796",
+      "nyaa:downloads": "1798",
       "nyaa:infoHash": "9c6bfaa8a9911e3b5a21e71a2da60eff7aa1b8f0",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6519,9 +6545,9 @@
         }
       },
       "pubDate": "Thu, 13 Aug 2026 16:01:50 -0000",
-      "nyaa:seeders": "227",
+      "nyaa:seeders": "226",
       "nyaa:leechers": "4",
-      "nyaa:downloads": "3480",
+      "nyaa:downloads": "3489",
       "nyaa:infoHash": "7f1ebbe97973ebe108dce7c9969e2653fb66bb1a",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6541,9 +6567,9 @@
         }
       },
       "pubDate": "Thu, 13 Aug 2026 16:01:50 -0000",
-      "nyaa:seeders": "1006",
-      "nyaa:leechers": "4",
-      "nyaa:downloads": "16204",
+      "nyaa:seeders": "989",
+      "nyaa:leechers": "6",
+      "nyaa:downloads": "16224",
       "nyaa:infoHash": "a732d06b3f36a99e0c7e5c68d6b79f1ac8ac1822",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6641,9 +6667,9 @@
         }
       },
       "pubDate": "Wed, 12 Aug 2026 22:29:07 -0000",
-      "nyaa:seeders": "42",
+      "nyaa:seeders": "41",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "1101",
+      "nyaa:downloads": "1102",
       "nyaa:infoHash": "1743fefd04932277835757326d3577ea01b68868",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6663,9 +6689,9 @@
         }
       },
       "pubDate": "Wed, 12 Aug 2026 18:35:48 -0000",
-      "nyaa:seeders": "13",
+      "nyaa:seeders": "15",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "500",
+      "nyaa:downloads": "501",
       "nyaa:infoHash": "df58b52545d918bb68ee7c0ba0dc78a28d6d560b",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6685,7 +6711,7 @@
         }
       },
       "pubDate": "Wed, 12 Aug 2026 17:46:13 -0000",
-      "nyaa:seeders": "4",
+      "nyaa:seeders": "3",
       "nyaa:leechers": "0",
       "nyaa:downloads": "190",
       "nyaa:infoHash": "08469a946191f9b6f96baeb9e9b5fa3cd6e7a318",
@@ -6707,7 +6733,7 @@
         }
       },
       "pubDate": "Wed, 12 Aug 2026 17:35:51 -0000",
-      "nyaa:seeders": "8",
+      "nyaa:seeders": "5",
       "nyaa:leechers": "0",
       "nyaa:downloads": "297",
       "nyaa:infoHash": "5f2df5d5c595a39f3362e6c5f9a0e11bacee1143",
@@ -6729,7 +6755,7 @@
         }
       },
       "pubDate": "Wed, 12 Aug 2026 17:26:19 -0000",
-      "nyaa:seeders": "18",
+      "nyaa:seeders": "15",
       "nyaa:leechers": "0",
       "nyaa:downloads": "355",
       "nyaa:infoHash": "1107ae269541a953430f19a07fdf2b85ebd00085",
@@ -6751,9 +6777,9 @@
         }
       },
       "pubDate": "Wed, 12 Aug 2026 17:21:54 -0000",
-      "nyaa:seeders": "45",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "1614",
+      "nyaa:seeders": "41",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "1615",
       "nyaa:infoHash": "51ee7af732674fe9aafbff7c68ca5a5696090c06",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6773,9 +6799,9 @@
         }
       },
       "pubDate": "Wed, 12 Aug 2026 17:21:45 -0000",
-      "nyaa:seeders": "39",
+      "nyaa:seeders": "40",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "942",
+      "nyaa:downloads": "947",
       "nyaa:infoHash": "6f7e55b68acd8057f4ceb79e7eff9c1021b66688",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6795,9 +6821,9 @@
         }
       },
       "pubDate": "Wed, 12 Aug 2026 17:20:42 -0000",
-      "nyaa:seeders": "23",
+      "nyaa:seeders": "24",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "591",
+      "nyaa:downloads": "592",
       "nyaa:infoHash": "9dce828520c2268004a1a814497c784e68beacfc",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6817,9 +6843,9 @@
         }
       },
       "pubDate": "Wed, 12 Aug 2026 17:18:45 -0000",
-      "nyaa:seeders": "49",
+      "nyaa:seeders": "47",
       "nyaa:leechers": "1",
-      "nyaa:downloads": "1505",
+      "nyaa:downloads": "1506",
       "nyaa:infoHash": "9036bcbc7a734bd5716ce5156e405e4e4e133c64",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6839,9 +6865,9 @@
         }
       },
       "pubDate": "Wed, 12 Aug 2026 17:17:40 -0000",
-      "nyaa:seeders": "33",
+      "nyaa:seeders": "31",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "1154",
+      "nyaa:downloads": "1155",
       "nyaa:infoHash": "611b3fd40fc2dc93fdaebc2bd132e5bb9191b0af",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -6861,7 +6887,7 @@
         }
       },
       "pubDate": "Wed, 12 Aug 2026 17:17:31 -0000",
-      "nyaa:seeders": "20",
+      "nyaa:seeders": "19",
       "nyaa:leechers": "0",
       "nyaa:downloads": "508",
       "nyaa:infoHash": "220128e13ec3fd7f33039ac3520d4503fc359e63",
@@ -7091,9 +7117,9 @@
         }
       },
       "pubDate": "Mon, 10 Aug 2026 19:03:15 -0000",
-      "nyaa:seeders": "50",
+      "nyaa:seeders": "43",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "1476",
+      "nyaa:downloads": "1479",
       "nyaa:infoHash": "a04ab5d295461b23c69a823ef48ce0b39ac3adaf",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -7334,9 +7360,9 @@
         }
       },
       "pubDate": "Sun, 09 Aug 2026 12:59:02 -0000",
-      "nyaa:seeders": "47",
+      "nyaa:seeders": "42",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "722",
+      "nyaa:downloads": "723",
       "nyaa:infoHash": "7c9d72ed830ca839f3588efa63dedea2f1af6bd2",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -7538,9 +7564,9 @@
         }
       },
       "pubDate": "Sat, 08 Aug 2026 15:35:44 -0000",
-      "nyaa:seeders": "206",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "3790",
+      "nyaa:seeders": "211",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "3792",
       "nyaa:infoHash": "3f4a619002c2e795ae57dd35664f4c14e67b99f2",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -7560,7 +7586,7 @@
         }
       },
       "pubDate": "Sat, 08 Aug 2026 15:35:29 -0000",
-      "nyaa:seeders": "9",
+      "nyaa:seeders": "5",
       "nyaa:leechers": "0",
       "nyaa:downloads": "422",
       "nyaa:infoHash": "3fe1f81ddc16f44867af886251ed78fc38a282b9",
@@ -7799,9 +7825,9 @@
         }
       },
       "pubDate": "Thu, 06 Aug 2026 23:49:47 -0000",
-      "nyaa:seeders": "311",
-      "nyaa:leechers": "2",
-      "nyaa:downloads": "7622",
+      "nyaa:seeders": "279",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "7628",
       "nyaa:infoHash": "327ef44ba56481fb177cdc4c5fdd50abf001a89c",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -7821,9 +7847,9 @@
         }
       },
       "pubDate": "Thu, 06 Aug 2026 20:57:57 -0000",
-      "nyaa:seeders": "132",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "2574",
+      "nyaa:seeders": "115",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "2578",
       "nyaa:infoHash": "0ed7d12603f99becae13f7b16154845e2e671a9a",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -7856,9 +7882,9 @@
         }
       },
       "pubDate": "Thu, 06 Aug 2026 19:40:31 -0000",
-      "nyaa:seeders": "195",
+      "nyaa:seeders": "185",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "5447",
+      "nyaa:downloads": "5464",
       "nyaa:infoHash": "ea95d3bf872b17465afeb2b0add0f85be939ad91",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -7891,8 +7917,8 @@
         }
       },
       "pubDate": "Thu, 06 Aug 2026 16:09:51 -0000",
-      "nyaa:seeders": "56",
-      "nyaa:leechers": "0",
+      "nyaa:seeders": "51",
+      "nyaa:leechers": "1",
       "nyaa:downloads": "795",
       "nyaa:infoHash": "5637cec90a39fb75ea7527b68457675b7b7cc4f3",
       "nyaa:categoryId": "1_2",
@@ -7914,7 +7940,7 @@
       },
       "pubDate": "Thu, 06 Aug 2026 16:07:45 -0000",
       "nyaa:seeders": "77",
-      "nyaa:leechers": "0",
+      "nyaa:leechers": "1",
       "nyaa:downloads": "1371",
       "nyaa:infoHash": "1cb7bf390af167a36913cbb704b6f4cd51f2c41d",
       "nyaa:categoryId": "1_2",
@@ -7935,9 +7961,9 @@
         }
       },
       "pubDate": "Thu, 06 Aug 2026 16:06:46 -0000",
-      "nyaa:seeders": "569",
+      "nyaa:seeders": "539",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "11915",
+      "nyaa:downloads": "11921",
       "nyaa:infoHash": "8f05c84c3d351ee9446b8237632bd2e2fe035c70",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -7957,9 +7983,9 @@
         }
       },
       "pubDate": "Thu, 06 Aug 2026 16:06:23 -0000",
-      "nyaa:seeders": "78",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "1185",
+      "nyaa:seeders": "75",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "1188",
       "nyaa:infoHash": "7c56dcaf34aabf183420690e64a698b79bc90d68",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -7979,9 +8005,9 @@
         }
       },
       "pubDate": "Thu, 06 Aug 2026 16:06:20 -0000",
-      "nyaa:seeders": "71",
+      "nyaa:seeders": "63",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "1494",
+      "nyaa:downloads": "1495",
       "nyaa:infoHash": "5f568de75d86bd878ac29eb79291e854224279fd",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -8001,9 +8027,9 @@
         }
       },
       "pubDate": "Thu, 06 Aug 2026 16:05:43 -0000",
-      "nyaa:seeders": "71",
+      "nyaa:seeders": "60",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "1888",
+      "nyaa:downloads": "1890",
       "nyaa:infoHash": "2ef79d5eafd92422b3811764e6de8f35aebcb5a0",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -8023,9 +8049,9 @@
         }
       },
       "pubDate": "Thu, 06 Aug 2026 16:04:47 -0000",
-      "nyaa:seeders": "191",
+      "nyaa:seeders": "186",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "3323",
+      "nyaa:downloads": "3334",
       "nyaa:infoHash": "f2248cc5265145eb0527b2ba13c5777c4104237e",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -8058,9 +8084,9 @@
         }
       },
       "pubDate": "Thu, 06 Aug 2026 16:01:38 -0000",
-      "nyaa:seeders": "815",
-      "nyaa:leechers": "4",
-      "nyaa:downloads": "15670",
+      "nyaa:seeders": "796",
+      "nyaa:leechers": "6",
+      "nyaa:downloads": "15687",
       "nyaa:infoHash": "4ac92fe3a5ac56fe844c90e29889c24b3532906e",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -8185,8 +8211,8 @@
       },
       "pubDate": "Thu, 06 Aug 2026 00:15:23 -0000",
       "nyaa:seeders": "39",
-      "nyaa:leechers": "2",
-      "nyaa:downloads": "1147",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "1148",
       "nyaa:infoHash": "472358b44ece4f82af71bc291cffcd742a052553",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -8206,9 +8232,9 @@
         }
       },
       "pubDate": "Wed, 05 Aug 2026 18:48:25 -0000",
-      "nyaa:seeders": "15",
+      "nyaa:seeders": "14",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "679",
+      "nyaa:downloads": "681",
       "nyaa:infoHash": "20c5febe458753ec36d52f73bc615f5dd9320ff7",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -8294,9 +8320,9 @@
         }
       },
       "pubDate": "Wed, 05 Aug 2026 17:23:40 -0000",
-      "nyaa:seeders": "37",
+      "nyaa:seeders": "34",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "614",
+      "nyaa:downloads": "615",
       "nyaa:infoHash": "ef94e24f44431647585d279752b103908f5ea3af",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -8317,7 +8343,7 @@
       },
       "pubDate": "Wed, 05 Aug 2026 17:22:36 -0000",
       "nyaa:seeders": "31",
-      "nyaa:leechers": "0",
+      "nyaa:leechers": "1",
       "nyaa:downloads": "949",
       "nyaa:infoHash": "5c0519ad2cb3ae38306712764b318eb7b7d97129",
       "nyaa:categoryId": "1_2",
@@ -8338,9 +8364,9 @@
         }
       },
       "pubDate": "Wed, 05 Aug 2026 17:21:05 -0000",
-      "nyaa:seeders": "29",
+      "nyaa:seeders": "25",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "962",
+      "nyaa:downloads": "966",
       "nyaa:infoHash": "7b15c6b95769928140978da56b563e475c46e351",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -8360,7 +8386,7 @@
         }
       },
       "pubDate": "Wed, 05 Aug 2026 17:20:43 -0000",
-      "nyaa:seeders": "46",
+      "nyaa:seeders": "43",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1655",
       "nyaa:infoHash": "e92d841bf0708ac3c880b2ed6a9cf2b70aed8742",
@@ -8384,7 +8410,7 @@
       "pubDate": "Wed, 05 Aug 2026 17:20:31 -0000",
       "nyaa:seeders": "56",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "1392",
+      "nyaa:downloads": "1393",
       "nyaa:infoHash": "3bc2c490cdd75166bb83b70c38bb4655c22e6064",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -8417,9 +8443,9 @@
         }
       },
       "pubDate": "Wed, 05 Aug 2026 17:16:44 -0000",
-      "nyaa:seeders": "84",
+      "nyaa:seeders": "83",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "1994",
+      "nyaa:downloads": "1999",
       "nyaa:infoHash": "9ccc2f0c0fa03f722044e09de3e9de56bf5959b9",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -8634,8 +8660,8 @@
         }
       },
       "pubDate": "Tue, 04 Aug 2026 06:04:10 -0000",
-      "nyaa:seeders": "12",
-      "nyaa:leechers": "2",
+      "nyaa:seeders": "13",
+      "nyaa:leechers": "3",
       "nyaa:downloads": "269",
       "nyaa:infoHash": "595b3e7865bcdae1d4ed9d623be8106413f8253c",
       "nyaa:categoryId": "1_2",
@@ -8786,9 +8812,9 @@
         }
       },
       "pubDate": "Mon, 03 Aug 2026 09:52:45 -0000",
-      "nyaa:seeders": "45",
+      "nyaa:seeders": "43",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "688",
+      "nyaa:downloads": "691",
       "nyaa:infoHash": "8751c4f100cca9976ce9e87c6a631be67427fa03",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -9081,9 +9107,9 @@
         }
       },
       "pubDate": "Sat, 01 Aug 2026 16:57:14 -0000",
-      "nyaa:seeders": "49",
+      "nyaa:seeders": "46",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "2111",
+      "nyaa:downloads": "2113",
       "nyaa:infoHash": "3c2fc3a7150469530c5a4da56876fa634f362ce5",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -9142,7 +9168,7 @@
         }
       },
       "pubDate": "Sat, 01 Aug 2026 15:20:01 -0000",
-      "nyaa:seeders": "10",
+      "nyaa:seeders": "8",
       "nyaa:leechers": "0",
       "nyaa:downloads": "558",
       "nyaa:infoHash": "ce52e81951ced6a04438cb1890dcb0f8f8b46d50",
@@ -9372,9 +9398,9 @@
         }
       },
       "pubDate": "Thu, 30 Jul 2026 20:42:59 -0000",
-      "nyaa:seeders": "276",
-      "nyaa:leechers": "14",
-      "nyaa:downloads": "8367",
+      "nyaa:seeders": "242",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "8371",
       "nyaa:infoHash": "ea4f693a90421c5b8a4776ca576e8d48b1f5c759",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -9394,9 +9420,9 @@
         }
       },
       "pubDate": "Thu, 30 Jul 2026 20:06:41 -0000",
-      "nyaa:seeders": "111",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "2728",
+      "nyaa:seeders": "98",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "2731",
       "nyaa:infoHash": "737793a778b69b263c6c7c4dfbd6e7d5d5ac0ebd",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -9416,9 +9442,9 @@
         }
       },
       "pubDate": "Thu, 30 Jul 2026 18:13:10 -0000",
-      "nyaa:seeders": "207",
+      "nyaa:seeders": "199",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "5784",
+      "nyaa:downloads": "5803",
       "nyaa:infoHash": "96e79cef1ad5c2b877f790ee4d5691c5cfcfb4b0",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -9451,9 +9477,9 @@
         }
       },
       "pubDate": "Thu, 30 Jul 2026 16:14:48 -0000",
-      "nyaa:seeders": "65",
+      "nyaa:seeders": "55",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "2053",
+      "nyaa:downloads": "2055",
       "nyaa:infoHash": "7383b50c65141aabb31cca4e4d64c7134ad05861",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -9473,9 +9499,9 @@
         }
       },
       "pubDate": "Thu, 30 Jul 2026 16:07:43 -0000",
-      "nyaa:seeders": "490",
+      "nyaa:seeders": "464",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "11043",
+      "nyaa:downloads": "11048",
       "nyaa:infoHash": "179f7e5a96dedf985dacb10979fb07e9e89778e0",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -9495,9 +9521,9 @@
         }
       },
       "pubDate": "Thu, 30 Jul 2026 16:06:37 -0000",
-      "nyaa:seeders": "92",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "1633",
+      "nyaa:seeders": "84",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "1639",
       "nyaa:infoHash": "c0461cfede6222704075ec153e263f87b3c52665",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -9517,9 +9543,9 @@
         }
       },
       "pubDate": "Thu, 30 Jul 2026 16:06:23 -0000",
-      "nyaa:seeders": "50",
+      "nyaa:seeders": "42",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "664",
+      "nyaa:downloads": "665",
       "nyaa:infoHash": "0da3bcc18322e153f30d9bd40574c9403fec92df",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -9539,7 +9565,7 @@
         }
       },
       "pubDate": "Thu, 30 Jul 2026 16:04:52 -0000",
-      "nyaa:seeders": "82",
+      "nyaa:seeders": "81",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1298",
       "nyaa:infoHash": "4d26413c878afa281e62a6197a89048c3562e377",
@@ -9574,9 +9600,9 @@
         }
       },
       "pubDate": "Thu, 30 Jul 2026 16:03:22 -0000",
-      "nyaa:seeders": "124",
+      "nyaa:seeders": "120",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "2147",
+      "nyaa:downloads": "2148",
       "nyaa:infoHash": "4b7df530d8d457c02e094fde790ca34657e73a5f",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -9609,9 +9635,9 @@
         }
       },
       "pubDate": "Thu, 30 Jul 2026 16:01:51 -0000",
-      "nyaa:seeders": "182",
-      "nyaa:leechers": "10",
-      "nyaa:downloads": "3580",
+      "nyaa:seeders": "180",
+      "nyaa:leechers": "17",
+      "nyaa:downloads": "3587",
       "nyaa:infoHash": "6d7d48575c93a549536c32f25489577ddb628ae7",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -9631,9 +9657,9 @@
         }
       },
       "pubDate": "Thu, 30 Jul 2026 16:01:43 -0000",
-      "nyaa:seeders": "812",
+      "nyaa:seeders": "786",
       "nyaa:leechers": "4",
-      "nyaa:downloads": "16459",
+      "nyaa:downloads": "16480",
       "nyaa:infoHash": "5cc0f0bdf3e22b1b257714b952d459389aa75f5c",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -9679,7 +9705,7 @@
         }
       },
       "pubDate": "Thu, 30 Jul 2026 14:54:40 -0000",
-      "nyaa:seeders": "2",
+      "nyaa:seeders": "3",
       "nyaa:leechers": "0",
       "nyaa:downloads": "164",
       "nyaa:infoHash": "23cc9cd8a0f6d0348cefab8d92e3261d550a364d",
@@ -10077,7 +10103,7 @@
         }
       },
       "pubDate": "Wed, 29 Jul 2026 05:00:56 -0000",
-      "nyaa:seeders": "13",
+      "nyaa:seeders": "8",
       "nyaa:leechers": "0",
       "nyaa:downloads": "492",
       "nyaa:infoHash": "2abe47274fd35ebb0c2b2828c445d53e1d75ca10",
@@ -10563,7 +10589,7 @@
         }
       },
       "pubDate": "Sun, 26 Jul 2026 06:44:58 -0000",
-      "nyaa:seeders": "18",
+      "nyaa:seeders": "15",
       "nyaa:leechers": "0",
       "nyaa:downloads": "517",
       "nyaa:infoHash": "be387b5c8cf4220214a90853023fd4cb8298da72",
@@ -10611,7 +10637,7 @@
         }
       },
       "pubDate": "Sun, 26 Jul 2026 00:02:49 -0000",
-      "nyaa:seeders": "10",
+      "nyaa:seeders": "11",
       "nyaa:leechers": "0",
       "nyaa:downloads": "317",
       "nyaa:infoHash": "ed46a56c43b1f9cf3197b48ab33ff76f49689e2e",
@@ -10633,7 +10659,7 @@
         }
       },
       "pubDate": "Sun, 26 Jul 2026 00:02:25 -0000",
-      "nyaa:seeders": "17",
+      "nyaa:seeders": "21",
       "nyaa:leechers": "0",
       "nyaa:downloads": "554",
       "nyaa:infoHash": "17c4f9732ab5a9bee3166174d5d294a1742d61a5",
@@ -10655,9 +10681,9 @@
         }
       },
       "pubDate": "Sat, 25 Jul 2026 20:13:30 -0000",
-      "nyaa:seeders": "351",
+      "nyaa:seeders": "340",
       "nyaa:leechers": "1",
-      "nyaa:downloads": "5435",
+      "nyaa:downloads": "5437",
       "nyaa:infoHash": "b9ace95ae777697d34663bbbb17da4790c8bde2f",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -10703,7 +10729,7 @@
         }
       },
       "pubDate": "Sat, 25 Jul 2026 17:54:56 -0000",
-      "nyaa:seeders": "60",
+      "nyaa:seeders": "56",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1530",
       "nyaa:infoHash": "04c3331a91895747f4e86faac10b15ae178bc678",
@@ -10790,8 +10816,8 @@
         }
       },
       "pubDate": "Sat, 25 Jul 2026 16:22:00 -0000",
-      "nyaa:seeders": "46",
-      "nyaa:leechers": "0",
+      "nyaa:seeders": "44",
+      "nyaa:leechers": "1",
       "nyaa:downloads": "1126",
       "nyaa:infoHash": "94713e3483af1253e2814a3d4c2d441b424a2fd4",
       "nyaa:categoryId": "1_2",
@@ -10812,7 +10838,7 @@
         }
       },
       "pubDate": "Sat, 25 Jul 2026 16:19:47 -0000",
-      "nyaa:seeders": "11",
+      "nyaa:seeders": "10",
       "nyaa:leechers": "0",
       "nyaa:downloads": "373",
       "nyaa:infoHash": "06d88f5de5cde718211e60c997d4ce19e57a6254",
@@ -10882,7 +10908,7 @@
         }
       },
       "pubDate": "Sat, 25 Jul 2026 16:02:38 -0000",
-      "nyaa:seeders": "7",
+      "nyaa:seeders": "6",
       "nyaa:leechers": "0",
       "nyaa:downloads": "233",
       "nyaa:infoHash": "b5ab581608f7a6580668e085f2a09ba19a3a12a4",
@@ -10904,7 +10930,7 @@
         }
       },
       "pubDate": "Sat, 25 Jul 2026 16:01:42 -0000",
-      "nyaa:seeders": "16",
+      "nyaa:seeders": "17",
       "nyaa:leechers": "0",
       "nyaa:downloads": "494",
       "nyaa:infoHash": "3885e3bbda133ef781ae749a8a18b33f85013589",
@@ -10926,7 +10952,7 @@
         }
       },
       "pubDate": "Sat, 25 Jul 2026 16:01:21 -0000",
-      "nyaa:seeders": "13",
+      "nyaa:seeders": "12",
       "nyaa:leechers": "0",
       "nyaa:downloads": "410",
       "nyaa:infoHash": "b124a585b47c5bc7df14a8f2764667e3e99916b4",
@@ -10961,7 +10987,7 @@
         }
       },
       "pubDate": "Sat, 25 Jul 2026 14:45:44 -0000",
-      "nyaa:seeders": "257",
+      "nyaa:seeders": "251",
       "nyaa:leechers": "1",
       "nyaa:downloads": "5077",
       "nyaa:infoHash": "ebe2718c4fb8e5cded9847aa495f2bb928289728",
@@ -11204,9 +11230,9 @@
         }
       },
       "pubDate": "Thu, 23 Jul 2026 21:47:39 -0000",
-      "nyaa:seeders": "67",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "2836",
+      "nyaa:seeders": "64",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "2838",
       "nyaa:infoHash": "1455f9a83f51f1e7b73e51d1f8860fe7d3c6acac",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -11265,9 +11291,9 @@
         }
       },
       "pubDate": "Thu, 23 Jul 2026 19:48:45 -0000",
-      "nyaa:seeders": "229",
-      "nyaa:leechers": "7",
-      "nyaa:downloads": "6612",
+      "nyaa:seeders": "224",
+      "nyaa:leechers": "4",
+      "nyaa:downloads": "6630",
       "nyaa:infoHash": "f44aa2d1431f064249c52b91ed247e3cb3e83e24",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -11287,9 +11313,9 @@
         }
       },
       "pubDate": "Thu, 23 Jul 2026 19:19:44 -0000",
-      "nyaa:seeders": "103",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "2789",
+      "nyaa:seeders": "89",
+      "nyaa:leechers": "2",
+      "nyaa:downloads": "2794",
       "nyaa:infoHash": "965a3c2270d6901616fae5a0f26c13db1cbbd9c9",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -11322,9 +11348,9 @@
         }
       },
       "pubDate": "Thu, 23 Jul 2026 17:52:41 -0000",
-      "nyaa:seeders": "276",
-      "nyaa:leechers": "7",
-      "nyaa:downloads": "9541",
+      "nyaa:seeders": "250",
+      "nyaa:leechers": "5",
+      "nyaa:downloads": "9545",
       "nyaa:infoHash": "f63697b117dd98929f19ba0de03fe99d3b956604",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -11357,9 +11383,9 @@
         }
       },
       "pubDate": "Thu, 23 Jul 2026 16:06:14 -0000",
-      "nyaa:seeders": "77",
-      "nyaa:leechers": "0",
-      "nyaa:downloads": "1660",
+      "nyaa:seeders": "71",
+      "nyaa:leechers": "1",
+      "nyaa:downloads": "1663",
       "nyaa:infoHash": "499fc41359ffe9d3f3ed53365c7e9d8a5b1620ee",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -12377,7 +12403,7 @@
         }
       },
       "pubDate": "Sat, 18 Jul 2026 18:46:42 -0000",
-      "nyaa:seeders": "49",
+      "nyaa:seeders": "46",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1583",
       "nyaa:infoHash": "a8d8efa80e98b5b0fed7a7440d66fe6cb1a05135",
@@ -12465,7 +12491,7 @@
       },
       "pubDate": "Sat, 18 Jul 2026 16:09:41 -0000",
       "nyaa:seeders": "26",
-      "nyaa:leechers": "0",
+      "nyaa:leechers": "1",
       "nyaa:downloads": "867",
       "nyaa:infoHash": "59e71604455a4bed94b6d92da05b1ab1f0422008",
       "nyaa:categoryId": "1_2",
@@ -12486,7 +12512,7 @@
         }
       },
       "pubDate": "Sat, 18 Jul 2026 16:05:41 -0000",
-      "nyaa:seeders": "13",
+      "nyaa:seeders": "12",
       "nyaa:leechers": "0",
       "nyaa:downloads": "338",
       "nyaa:infoHash": "787e1156ad1e48c27cfb5f6033e1a73295a169aa",
@@ -12578,7 +12604,7 @@
         }
       },
       "pubDate": "Sat, 18 Jul 2026 16:01:40 -0000",
-      "nyaa:seeders": "24",
+      "nyaa:seeders": "23",
       "nyaa:leechers": "0",
       "nyaa:downloads": "555",
       "nyaa:infoHash": "ee293437332791890d32c5508c4b209fc87267b1",
@@ -13946,7 +13972,7 @@
         }
       },
       "pubDate": "Sat, 11 Jul 2026 21:27:13 -0000",
-      "nyaa:seeders": "50",
+      "nyaa:seeders": "51",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1666",
       "nyaa:infoHash": "f20acbf57e2a25aea3beb6b6f51684491232560e",
@@ -13981,9 +14007,9 @@
         }
       },
       "pubDate": "Sat, 11 Jul 2026 18:45:31 -0000",
-      "nyaa:seeders": "64",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "1928",
+      "nyaa:seeders": "61",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "1929",
       "nyaa:infoHash": "8a9997e17b1d6d6994ecabdd3e8454ea2f8008cd",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -14103,8 +14129,8 @@
         }
       },
       "pubDate": "Sat, 11 Jul 2026 16:04:22 -0000",
-      "nyaa:seeders": "9",
-      "nyaa:leechers": "0",
+      "nyaa:seeders": "8",
+      "nyaa:leechers": "1",
       "nyaa:downloads": "171",
       "nyaa:infoHash": "ab825b7b33a8cd2d509ef58848db3cd33d91cc1f",
       "nyaa:categoryId": "1_2",
@@ -14138,7 +14164,7 @@
         }
       },
       "pubDate": "Sat, 11 Jul 2026 16:03:27 -0000",
-      "nyaa:seeders": "10",
+      "nyaa:seeders": "9",
       "nyaa:leechers": "0",
       "nyaa:downloads": "312",
       "nyaa:infoHash": "f47d119e2afd2b959ed9b6b86c36e23d412a0720",
@@ -14195,7 +14221,7 @@
         }
       },
       "pubDate": "Sat, 11 Jul 2026 16:01:38 -0000",
-      "nyaa:seeders": "12",
+      "nyaa:seeders": "11",
       "nyaa:leechers": "1",
       "nyaa:downloads": "387",
       "nyaa:infoHash": "2ffc421053a56c3031f35a31b39b8996e5d50e24",
@@ -15387,7 +15413,7 @@
         }
       },
       "pubDate": "Sun, 05 Jul 2026 00:44:06 -0000",
-      "nyaa:seeders": "37",
+      "nyaa:seeders": "31",
       "nyaa:leechers": "0",
       "nyaa:downloads": "2830",
       "nyaa:infoHash": "2420a7afca3a90d873459c95dc90bac3ea1ded92",
@@ -15422,7 +15448,7 @@
         }
       },
       "pubDate": "Sat, 04 Jul 2026 17:11:40 -0000",
-      "nyaa:seeders": "46",
+      "nyaa:seeders": "45",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1824",
       "nyaa:infoHash": "7e6df01b0d10da586110c641d4d338952a810400",
@@ -15444,7 +15470,7 @@
         }
       },
       "pubDate": "Sat, 04 Jul 2026 17:11:35 -0000",
-      "nyaa:seeders": "23",
+      "nyaa:seeders": "24",
       "nyaa:leechers": "0",
       "nyaa:downloads": "953",
       "nyaa:infoHash": "5b893aa9927b3b3a44fa8a7aaef7800faeeecf73",
@@ -15623,9 +15649,9 @@
         }
       },
       "pubDate": "Sat, 04 Jul 2026 16:01:45 -0000",
-      "nyaa:seeders": "10",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "380",
+      "nyaa:seeders": "9",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "381",
       "nyaa:infoHash": "dfb704625615f86d7fe2cc907885deb3d55604ab",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -16406,7 +16432,7 @@
         }
       },
       "pubDate": "Mon, 29 Jun 2026 13:58:22 -0000",
-      "nyaa:seeders": "23",
+      "nyaa:seeders": "26",
       "nyaa:leechers": "0",
       "nyaa:downloads": "2826",
       "nyaa:infoHash": "528e9c5f5415006249856a61fdda82d9cfc7dcd0",
@@ -16558,7 +16584,7 @@
         }
       },
       "pubDate": "Sat, 27 Jun 2026 17:16:33 -0000",
-      "nyaa:seeders": "48",
+      "nyaa:seeders": "47",
       "nyaa:leechers": "0",
       "nyaa:downloads": "2066",
       "nyaa:infoHash": "b86d206c2b9777966ee485bef0281a3079c169ee",
@@ -16619,7 +16645,7 @@
         }
       },
       "pubDate": "Sat, 27 Jun 2026 16:20:38 -0000",
-      "nyaa:seeders": "24",
+      "nyaa:seeders": "25",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1114",
       "nyaa:infoHash": "e0d12420a12d5ecc1d1dcea68a76dc893b6cae44",
@@ -16685,7 +16711,7 @@
         }
       },
       "pubDate": "Sat, 27 Jun 2026 16:02:17 -0000",
-      "nyaa:seeders": "22",
+      "nyaa:seeders": "23",
       "nyaa:leechers": "0",
       "nyaa:downloads": "837",
       "nyaa:infoHash": "c14588a8e0f6d35b7338757041934c517fc2506f",
@@ -16707,9 +16733,9 @@
         }
       },
       "pubDate": "Sat, 27 Jun 2026 16:01:52 -0000",
-      "nyaa:seeders": "11",
-      "nyaa:leechers": "1",
-      "nyaa:downloads": "425",
+      "nyaa:seeders": "9",
+      "nyaa:leechers": "0",
+      "nyaa:downloads": "426",
       "nyaa:infoHash": "289f2f1076ed36d50c9439f6e5e50ff9504d3a48",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -17353,7 +17379,7 @@
         }
       },
       "pubDate": "Sun, 21 Jun 2026 09:17:34 -0000",
-      "nyaa:seeders": "54",
+      "nyaa:seeders": "53",
       "nyaa:leechers": "0",
       "nyaa:downloads": "873",
       "nyaa:infoHash": "c8b328c5a19c45017414a0b0f2f70a8d34fc87f2",
@@ -17427,7 +17453,7 @@
         }
       },
       "pubDate": "Sat, 20 Jun 2026 22:08:55 -0000",
-      "nyaa:seeders": "14",
+      "nyaa:seeders": "18",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1209",
       "nyaa:infoHash": "78b64e142b66c16a241abeb4477cc63da9af52ae",
@@ -17471,7 +17497,7 @@
         }
       },
       "pubDate": "Sat, 20 Jun 2026 18:18:06 -0000",
-      "nyaa:seeders": "13",
+      "nyaa:seeders": "12",
       "nyaa:leechers": "0",
       "nyaa:downloads": "436",
       "nyaa:infoHash": "de9856a1ee0751ebcc827a7dcb16dc1405ba43ea",
@@ -17541,7 +17567,7 @@
         }
       },
       "pubDate": "Sat, 20 Jun 2026 16:49:43 -0000",
-      "nyaa:seeders": "34",
+      "nyaa:seeders": "33",
       "nyaa:leechers": "0",
       "nyaa:downloads": "2238",
       "nyaa:infoHash": "452fcb5b111de6ebf48e018ca0d6e6c9a8f29432",
@@ -17611,7 +17637,7 @@
         }
       },
       "pubDate": "Sat, 20 Jun 2026 16:10:25 -0000",
-      "nyaa:seeders": "22",
+      "nyaa:seeders": "24",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1257",
       "nyaa:infoHash": "2af57553d50509def11bac8d8287df3372782465",
@@ -17655,7 +17681,7 @@
         }
       },
       "pubDate": "Sat, 20 Jun 2026 16:02:06 -0000",
-      "nyaa:seeders": "20",
+      "nyaa:seeders": "21",
       "nyaa:leechers": "0",
       "nyaa:downloads": "876",
       "nyaa:infoHash": "840fff13a917e9e1c71226191049fbfcc815d023",
@@ -17703,7 +17729,7 @@
         }
       },
       "pubDate": "Sat, 20 Jun 2026 15:16:06 -0000",
-      "nyaa:seeders": "64",
+      "nyaa:seeders": "54",
       "nyaa:leechers": "0",
       "nyaa:downloads": "4620",
       "nyaa:infoHash": "b947a2ecf17477a0c6c0338999a4102e739fbff7",
@@ -17725,7 +17751,7 @@
         }
       },
       "pubDate": "Sat, 20 Jun 2026 15:04:12 -0000",
-      "nyaa:seeders": "27",
+      "nyaa:seeders": "28",
       "nyaa:leechers": "0",
       "nyaa:downloads": "941",
       "nyaa:infoHash": "9b3254bc76fd521e4a4d9559c38532f4e8b29d1c",
@@ -17747,8 +17773,8 @@
         }
       },
       "pubDate": "Sat, 20 Jun 2026 15:02:52 -0000",
-      "nyaa:seeders": "117",
-      "nyaa:leechers": "1",
+      "nyaa:seeders": "120",
+      "nyaa:leechers": "0",
       "nyaa:downloads": "2740",
       "nyaa:infoHash": "ee1fbef01952c5cb8fc8288c5b21be4f0bde1ace",
       "nyaa:categoryId": "1_2",
@@ -18445,7 +18471,7 @@
         }
       },
       "pubDate": "Sun, 14 Jun 2026 10:15:02 -0000",
-      "nyaa:seeders": "59",
+      "nyaa:seeders": "54",
       "nyaa:leechers": "0",
       "nyaa:downloads": "907",
       "nyaa:infoHash": "ec9ec2262c9b4f5239f8dac0b0e0437595b83c80",
@@ -18506,7 +18532,7 @@
         }
       },
       "pubDate": "Sat, 13 Jun 2026 21:21:32 -0000",
-      "nyaa:seeders": "12",
+      "nyaa:seeders": "16",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1164",
       "nyaa:infoHash": "6678d163ba988dc7dc76943d6f876512744c5bdf",
@@ -18541,7 +18567,7 @@
         }
       },
       "pubDate": "Sat, 13 Jun 2026 16:49:47 -0000",
-      "nyaa:seeders": "36",
+      "nyaa:seeders": "34",
       "nyaa:leechers": "0",
       "nyaa:downloads": "2343",
       "nyaa:infoHash": "066edffac2a8ba46064e2561f2aebf8af6d2cd00",
@@ -18563,7 +18589,7 @@
         }
       },
       "pubDate": "Sat, 13 Jun 2026 16:39:38 -0000",
-      "nyaa:seeders": "47",
+      "nyaa:seeders": "48",
       "nyaa:leechers": "0",
       "nyaa:downloads": "4750",
       "nyaa:infoHash": "0525d17076d47a7fd21190d5013ca3ed6097fa8b",
@@ -18607,7 +18633,7 @@
         }
       },
       "pubDate": "Sat, 13 Jun 2026 16:33:23 -0000",
-      "nyaa:seeders": "23",
+      "nyaa:seeders": "24",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1231",
       "nyaa:infoHash": "aba2a67a0d757736b07e211197dfd211eaff2b20",
@@ -18642,7 +18668,7 @@
         }
       },
       "pubDate": "Sat, 13 Jun 2026 16:18:01 -0000",
-      "nyaa:seeders": "5",
+      "nyaa:seeders": "7",
       "nyaa:leechers": "0",
       "nyaa:downloads": "263",
       "nyaa:infoHash": "973fcc1b8433da285dd534e8940346662f1512ef",
@@ -18664,7 +18690,7 @@
         }
       },
       "pubDate": "Sat, 13 Jun 2026 16:17:32 -0000",
-      "nyaa:seeders": "8",
+      "nyaa:seeders": "10",
       "nyaa:leechers": "0",
       "nyaa:downloads": "465",
       "nyaa:infoHash": "aac6769032c08d4178058d90689dada1080e4198",
@@ -18686,7 +18712,7 @@
         }
       },
       "pubDate": "Sat, 13 Jun 2026 16:02:56 -0000",
-      "nyaa:seeders": "11",
+      "nyaa:seeders": "8",
       "nyaa:leechers": "0",
       "nyaa:downloads": "344",
       "nyaa:infoHash": "3a0533deb3854e8ac6b33599bf2e2eaaf174e28c",
@@ -18708,7 +18734,7 @@
         }
       },
       "pubDate": "Sat, 13 Jun 2026 16:01:53 -0000",
-      "nyaa:seeders": "13",
+      "nyaa:seeders": "14",
       "nyaa:leechers": "0",
       "nyaa:downloads": "822",
       "nyaa:infoHash": "bd1ab0897cc29f4c018003109fb72c4007e12b4d",
@@ -18743,7 +18769,7 @@
         }
       },
       "pubDate": "Sat, 13 Jun 2026 15:31:25 -0000",
-      "nyaa:seeders": "70",
+      "nyaa:seeders": "61",
       "nyaa:leechers": "0",
       "nyaa:downloads": "4468",
       "nyaa:infoHash": "5d48f4e0909adae37babd104f93f0d2b1d3a8d26",
@@ -18787,7 +18813,7 @@
         }
       },
       "pubDate": "Sat, 13 Jun 2026 15:02:45 -0000",
-      "nyaa:seeders": "126",
+      "nyaa:seeders": "127",
       "nyaa:leechers": "0",
       "nyaa:downloads": "2928",
       "nyaa:infoHash": "0d8aff9c4f4d7a86d17d2fc7dbb4a0d8a7c5d754",
@@ -18978,7 +19004,7 @@
         }
       },
       "pubDate": "Tue, 09 Jun 2026 10:38:54 -0000",
-      "nyaa:seeders": "50",
+      "nyaa:seeders": "49",
       "nyaa:leechers": "0",
       "nyaa:downloads": "747",
       "nyaa:infoHash": "19646006be9add3524cfe50a1ad0232d51b93a2a",
@@ -19000,7 +19026,7 @@
         }
       },
       "pubDate": "Sat, 06 Jun 2026 22:43:14 -0000",
-      "nyaa:seeders": "12",
+      "nyaa:seeders": "15",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1203",
       "nyaa:infoHash": "6773685a8e2d5ae496a225ed0596f892e862d5ba",
@@ -19022,7 +19048,7 @@
         }
       },
       "pubDate": "Sat, 06 Jun 2026 19:03:21 -0000",
-      "nyaa:seeders": "42",
+      "nyaa:seeders": "43",
       "nyaa:leechers": "0",
       "nyaa:downloads": "2190",
       "nyaa:infoHash": "31cd2c65a5ac617ced1620f47af7e35d46db3bf0",
@@ -19044,7 +19070,7 @@
         }
       },
       "pubDate": "Sat, 06 Jun 2026 18:16:17 -0000",
-      "nyaa:seeders": "47",
+      "nyaa:seeders": "44",
       "nyaa:leechers": "0",
       "nyaa:downloads": "4612",
       "nyaa:infoHash": "68a9e53fc46571ecc5d3225b21f8f41afec3438c",
@@ -19132,9 +19158,9 @@
         }
       },
       "pubDate": "Sat, 06 Jun 2026 16:06:02 -0000",
-      "nyaa:seeders": "32",
+      "nyaa:seeders": "33",
       "nyaa:leechers": "0",
-      "nyaa:downloads": "1396",
+      "nyaa:downloads": "1397",
       "nyaa:infoHash": "1b9878fefdd4b1adb1af18022ffdcb7a0b05653f",
       "nyaa:categoryId": "1_2",
       "nyaa:category": "Anime - English-translated",
@@ -19154,7 +19180,7 @@
         }
       },
       "pubDate": "Sat, 06 Jun 2026 16:05:49 -0000",
-      "nyaa:seeders": "8",
+      "nyaa:seeders": "7",
       "nyaa:leechers": "0",
       "nyaa:downloads": "317",
       "nyaa:infoHash": "57fb71c61d3026972043abe15a28e7b0a054deb2",
@@ -19176,7 +19202,7 @@
         }
       },
       "pubDate": "Sat, 06 Jun 2026 16:02:18 -0000",
-      "nyaa:seeders": "18",
+      "nyaa:seeders": "21",
       "nyaa:leechers": "0",
       "nyaa:downloads": "929",
       "nyaa:infoHash": "9f9a493f2f796ad6e5a6721254c5ffe22b6a6d34",
@@ -19198,7 +19224,7 @@
         }
       },
       "pubDate": "Sat, 06 Jun 2026 15:36:49 -0000",
-      "nyaa:seeders": "60",
+      "nyaa:seeders": "55",
       "nyaa:leechers": "0",
       "nyaa:downloads": "4924",
       "nyaa:infoHash": "4f837d5e6939ccb610c2a5e26dd59b69e8b51646",
@@ -19220,7 +19246,7 @@
         }
       },
       "pubDate": "Sat, 06 Jun 2026 15:17:25 -0000",
-      "nyaa:seeders": "52",
+      "nyaa:seeders": "56",
       "nyaa:leechers": "0",
       "nyaa:downloads": "1600",
       "nyaa:infoHash": "11769bcda72f31022265b388a00a6418b3e86142",
@@ -19242,8 +19268,8 @@
         }
       },
       "pubDate": "Sat, 06 Jun 2026 15:02:42 -0000",
-      "nyaa:seeders": "84",
-      "nyaa:leechers": "1",
+      "nyaa:seeders": "86",
+      "nyaa:leechers": "0",
       "nyaa:downloads": "2384",
       "nyaa:infoHash": "b8a65ce364127a70ca75dcfd435650d6a27f1546",
       "nyaa:categoryId": "1_2",
@@ -19264,7 +19290,7 @@
         }
       },
       "pubDate": "Mon, 01 Jun 2026 08:23:35 -0000",
-      "nyaa:seeders": "56",
+      "nyaa:seeders": "51",
       "nyaa:leechers": "0",
       "nyaa:downloads": "973",
       "nyaa:infoHash": "7b926d88e88d3d1b0b8409b3cbcc6828a92c8040",
