@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T21:32:02.490Z",
+  "updatedAt": "2026-09-13T15:49:17.270Z",
   "schedule": {
     "Monday": [
       {
@@ -307,13 +307,6 @@
         "title_en": "Black Torch"
       },
       {
-        "title": "Neko to Ryuu",
-        "page": "neko-to-ryuu",
-        "image_url": "/wp-content/uploads/2026/07/157796.jpg",
-        "time": "13:30",
-        "title_en": "Neko to Ryuu"
-      },
-      {
         "title": "Iwamoto-senpai no Suisen",
         "page": "iwamoto-senpai-no-suisen",
         "image_url": "/wp-content/uploads/2026/07/158450.jpg",
@@ -321,25 +314,11 @@
         "title_en": "Iwamoto-senpai no Suisen"
       },
       {
-        "title": "Bleach - Sennen Kessen Hen",
-        "page": "bleach-sennen-kessen-hen",
-        "image_url": "",
-        "time": "15:00",
-        "title_en": "Bleach - Sennen Kessen Hen"
-      },
-      {
         "title": "Grow Up Show - Himawari no Circus-dan",
         "page": "grow-up-show-himawari-no-circus-dan",
         "image_url": "/wp-content/uploads/2026/07/158716.jpg",
         "time": "16:00",
         "title_en": "Grow Up Show - Himawari no Circus-dan"
-      },
-      {
-        "title": "Tenmaku no Jaadugar",
-        "page": "tenmaku-no-jaadugar",
-        "image_url": "/wp-content/uploads/2026/07/158227.jpg",
-        "time": "16:00",
-        "title_en": "Tenmaku no Jaadugar"
       },
       {
         "title": "Yomi no Tsugai",
