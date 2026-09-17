@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T15:49:17.270Z",
+  "updatedAt": "2026-09-17T04:57:33.374Z",
   "schedule": {
     "Monday": [
       {
@@ -82,13 +82,6 @@
         "title_en": "I Want to Love You Till Your Dying Day"
       },
       {
-        "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-        "page": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
-        "image_url": "/wp-content/uploads/2026/07/158373.jpg",
-        "time": "13:30",
-        "title_en": "The Oblivious Saint Can't Contain Her Power"
-      },
-      {
         "title": "Yoroi Shin Den Samurai Troopers",
         "page": "yoroi-shin-den-samurai-troopers",
         "image_url": "/wp-content/uploads/2026/01/153952-1.jpg",
@@ -131,13 +124,6 @@
         "image_url": "/wp-content/uploads/2026/07/158337.jpg",
         "time": "15:30",
         "title_en": "Otome Game Sekai wa Mob ni Kibishii Sekai desu S2"
-      },
-      {
-        "title": "Hanazakari no Kimitachi e S2",
-        "page": "hanazakari-no-kimitachi-e-s2",
-        "image_url": "/wp-content/uploads/2026/07/158523.jpg",
-        "time": "16:00",
-        "title_en": "Hanazakari no Kimitachi e S2"
       },
       {
         "title": "Toukutsu Ou",
@@ -198,13 +184,6 @@
         "image_url": "",
         "time": "03:00",
         "title_en": "Link Click S3"
-      },
-      {
-        "title": "Bai Ri Cheng Wang",
-        "page": "bai-ri-cheng-wang",
-        "image_url": "/wp-content/uploads/2026/07/158621.jpg",
-        "time": "04:00",
-        "title_en": "Bai Ri Cheng Wang"
       },
       {
         "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
