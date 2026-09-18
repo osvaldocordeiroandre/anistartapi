@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T07:54:57.615Z",
+  "updatedAt": "2026-09-18T19:24:06.495Z",
   "schedule": {
     "Monday": [
       {
@@ -142,13 +142,6 @@
         "title_en": "Dara-san of the Reiwa Era"
       },
       {
-        "title": "Bungou Stray Dogs Wan! S2",
-        "page": "bungou-stray-dogs-wan-s2",
-        "image_url": "/wp-content/uploads/2026/07/157071.jpg",
-        "time": "12:40",
-        "title_en": "Bungou Stray Dogs Wan! S2"
-      },
-      {
         "title": "Mebius Dust",
         "page": "mebius-dust",
         "image_url": "/wp-content/uploads/2026/07/158352.jpg",
@@ -168,13 +161,6 @@
         "image_url": "/wp-content/uploads/2026/07/158711.jpg",
         "time": "16:00",
         "title_en": "The Exiled Heavy Knight Knows How to Game the System"
-      },
-      {
-        "title": "Otome Kaijuu Carameliser",
-        "page": "otome-kaijuu-carameliser",
-        "image_url": "/wp-content/uploads/2026/07/156340.jpg",
-        "time": "17:30",
-        "title_en": "Otome Kaijuu Carameliser"
       }
     ],
     "Friday": [
