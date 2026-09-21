@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T15:55:31.117Z",
+  "updatedAt": "2026-09-21T20:44:24.880Z",
   "schedule": {
     "Monday": [
       {
@@ -244,20 +244,6 @@
         "title_en": "Mairimashita! Iruma-kun S4"
       },
       {
-        "title": "Black Torch",
-        "page": "black-torch",
-        "image_url": "/wp-content/uploads/2026/07/158363.jpg",
-        "time": "13:00",
-        "title_en": "Black Torch"
-      },
-      {
-        "title": "Iwamoto-senpai no Suisen",
-        "page": "iwamoto-senpai-no-suisen",
-        "image_url": "/wp-content/uploads/2026/07/158450.jpg",
-        "time": "14:00",
-        "title_en": "Iwamoto-senpai no Suisen"
-      },
-      {
         "title": "Grow Up Show - Himawari no Circus-dan",
         "page": "grow-up-show-himawari-no-circus-dan",
         "image_url": "/wp-content/uploads/2026/07/158716.jpg",
@@ -265,46 +251,11 @@
         "title_en": "Grow Up Show - Himawari no Circus-dan"
       },
       {
-        "title": "Yomi no Tsugai",
-        "page": "yomi-no-tsugai",
-        "image_url": "/wp-content/uploads/2026/04/156397.jpg",
-        "time": "16:00",
-        "title_en": "Yomi no Tsugai"
-      },
-      {
-        "title": "Kimiai",
-        "page": "kimiai",
-        "image_url": "/wp-content/uploads/2026/07/158710.jpg",
-        "time": "17:00",
-        "title_en": "Kimiai"
-      },
-      {
-        "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance",
-        "page": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
-        "image_url": "/wp-content/uploads/2026/07/158611.jpg",
-        "time": "17:00",
-        "title_en": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance"
-      },
-      {
-        "title": "Oni no Hanayome",
-        "page": "oni-no-hanayome",
-        "image_url": "/wp-content/uploads/2026/07/158708.jpg",
-        "time": "17:00",
-        "title_en": "Oni no Hanayome"
-      },
-      {
         "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
         "page": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai",
         "image_url": "/wp-content/uploads/2026/07/156331.jpg",
         "time": "17:30",
         "title_en": "Hanaori-san wa Tensei shitemo Kenka ga Shitai"
-      },
-      {
-        "title": "Saijo no Osewa",
-        "page": "saijo-no-osewa",
-        "image_url": "/wp-content/uploads/2026/07/157083.jpg",
-        "time": "18:10",
-        "title_en": "Saijo no Osewa"
       }
     ],
     "Sunday": [
@@ -337,34 +288,6 @@
         "title_en": "Seihantai na Kimi to Boku"
       },
       {
-        "title": "Tetsunabe no Jan!",
-        "page": "tetsunabe-no-jan",
-        "image_url": "/wp-content/uploads/2026/07/158686.jpg",
-        "time": "09:00",
-        "title_en": "Tetsunabe no Jan!"
-      },
-      {
-        "title": "Sekai Saikyou no Kouei",
-        "page": "sekai-saikyou-no-kouei",
-        "image_url": "/wp-content/uploads/2026/07/157378.jpg",
-        "time": "13:00",
-        "title_en": "Sekai Saikyou no Kouei"
-      },
-      {
-        "title": "Hyakkano",
-        "page": "hyakkano",
-        "image_url": "/wp-content/uploads/2023/10/136764.jpg",
-        "time": "14:00",
-        "title_en": "Hyakkano"
-      },
-      {
-        "title": "Kuroneko to Majo no Kyoushitsu",
-        "page": "kuroneko-to-majo-no-kyoushitsu",
-        "image_url": "/wp-content/uploads/2026/04/153989.jpg",
-        "time": "15:00",
-        "title_en": "Kuroneko to Majo no Kyoushitsu"
-      },
-      {
         "title": "Mushoku Tensei S3",
         "page": "mushoku-tensei-s3",
         "image_url": "/wp-content/uploads/2026/07/158340.jpg",
@@ -372,32 +295,11 @@
         "title_en": "Mushoku Tensei S3"
       },
       {
-        "title": "Sayonara Lara",
-        "page": "sayonara-lara",
-        "image_url": "/wp-content/uploads/2026/07/156343.jpg",
-        "time": "15:30",
-        "title_en": "Sayonara Lara"
-      },
-      {
-        "title": "Futsutsuka na Akujo dewa Gozaimasu ga",
-        "page": "futsutsuka-na-akujo-dewa-gozaimasu-ga",
-        "image_url": "/wp-content/uploads/2026/07/158341.jpg",
-        "time": "15:45",
-        "title_en": "Futsutsuka na Akujo dewa Gozaimasu ga"
-      },
-      {
         "title": "One Piece",
         "page": "one-piece",
         "image_url": "/wp-content/uploads/2020/10/73245.jpg",
         "time": "16:00",
         "title_en": "One Piece"
-      },
-      {
-        "title": "Azur Lane - Bisoku Zenshin! S2",
-        "page": "azur-lane-bisoku-zenshin-s2",
-        "image_url": "/wp-content/uploads/2026/07/158715.jpg",
-        "time": "16:45",
-        "title_en": "Azur Lane - Bisoku Zenshin! S2"
       }
     ]
   }
