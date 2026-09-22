@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T08:26:39.018Z",
+  "updatedAt": "2026-09-22T13:38:29.395Z",
   "schedule": {
     "Monday": [
       {
@@ -188,6 +188,13 @@
         "title_en": "Mairimashita! Iruma-kun S4"
       },
       {
+        "title": "Yasei no Last Boss ga Arawareta!",
+        "page": "yasei-no-last-boss-ga-arawareta",
+        "image_url": "/wp-content/uploads/2025/09/145051.jpg",
+        "time": "13:30",
+        "title_en": "A Wild Last Boss Appeared!"
+      },
+      {
         "title": "Grow Up Show - Himawari no Circus-dan",
         "page": "grow-up-show-himawari-no-circus-dan",
         "image_url": "/wp-content/uploads/2026/07/158716.jpg",
@@ -232,11 +239,25 @@
         "title_en": "Seihantai na Kimi to Boku"
       },
       {
+        "title": "Tempal - Item no Chikara",
+        "page": "",
+        "image_url": "",
+        "time": "14:30",
+        "title_en": "Tempal - Item no Chikara"
+      },
+      {
         "title": "Mushoku Tensei S3",
         "page": "mushoku-tensei-s3",
         "image_url": "/wp-content/uploads/2026/07/158340.jpg",
         "time": "15:00",
         "title_en": "Mushoku Tensei S3"
+      },
+      {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+        "page": "tensei-kizoku-kantei-skill-de-nariagaru",
+        "image_url": "/wp-content/uploads/2024/04/139538.jpg",
+        "time": "15:00",
+        "title_en": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World"
       },
       {
         "title": "One Piece",
