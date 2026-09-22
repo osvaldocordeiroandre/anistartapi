@@ -1,63 +1,7 @@
 {
-  "updatedAt": "2026-09-21T20:44:24.880Z",
+  "updatedAt": "2026-09-22T08:26:39.018Z",
   "schedule": {
     "Monday": [
-      {
-        "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
-        "page": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita",
-        "image_url": "/wp-content/uploads/2026/07/158339.jpg",
-        "time": "12:30",
-        "title_en": "Love Unseen Beneath the Clear Night Sky"
-      },
-      {
-        "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2",
-        "page": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-s2",
-        "image_url": "/wp-content/uploads/2026/07/157046.jpg",
-        "time": "13:00",
-        "title_en": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2"
-      },
-      {
-        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-        "page": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
-        "image_url": "/wp-content/uploads/2026/07/158522.jpg",
-        "time": "13:00",
-        "title_en": "The Insipid Prince's Furtive Grab for the Throne"
-      },
-      {
-        "title": "World Is Dancing",
-        "page": "world-is-dancing",
-        "image_url": "/wp-content/uploads/2026/07/158709.jpg",
-        "time": "13:30",
-        "title_en": "The World Is Dancing"
-      },
-      {
-        "title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
-        "page": "buchigire-reijou-wa-houfuku-wo-chikaimashita",
-        "image_url": "/wp-content/uploads/2026/07/157170.jpg",
-        "time": "14:30",
-        "title_en": "A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires"
-      },
-      {
-        "title": "Suterare Seijo no Isekai Gohan Tabi",
-        "page": "suterare-seijo-no-isekai-gohan-tabi",
-        "image_url": "/wp-content/uploads/2026/07/157798.jpg",
-        "time": "14:30",
-        "title_en": "Suterare Seijo no Isekai Gohan Tabi"
-      },
-      {
-        "title": "Tenkosaki",
-        "page": "tenkosaki",
-        "image_url": "/wp-content/uploads/2026/07/158564.jpg",
-        "time": "15:00",
-        "title_en": "Oh Boy, Was I Wrong About Her"
-      },
-      {
-        "title": "Grand Blue S3",
-        "page": "grand-blue-s3",
-        "image_url": "/wp-content/uploads/2026/07/158194.jpg",
-        "time": "15:30",
-        "title_en": "Grand Blue S3"
-      },
       {
         "title": "LIAR GAME",
         "page": "liar-game",
