@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T13:38:29.395Z",
+  "updatedAt": "2026-09-24T20:44:39.542Z",
   "schedule": {
     "Monday": [
       {
@@ -12,25 +12,11 @@
     ],
     "Tuesday": [
       {
-        "title": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
-        "page": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai",
-        "image_url": "/wp-content/uploads/2026/07/156268.jpg",
-        "time": "11:30",
-        "title_en": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai"
-      },
-      {
         "title": "Kimi ga Shinu made Koi wo Shitai",
         "page": "kimi-ga-shinu-made-koi-wo-shitai",
         "image_url": "/wp-content/uploads/2026/07/158712.jpg",
         "time": "12:30",
         "title_en": "I Want to Love You Till Your Dying Day"
-      },
-      {
-        "title": "Yoroi Shin Den Samurai Troopers",
-        "page": "yoroi-shin-den-samurai-troopers",
-        "image_url": "/wp-content/uploads/2026/01/153952-1.jpg",
-        "time": "15:00",
-        "title_en": "Yoroi Shin Den Samurai Troopers"
       },
       {
         "title": "Sora wa Akai Kawa no Hotori",
@@ -49,25 +35,11 @@
         "title_en": "Clevatess S2"
       },
       {
-        "title": "Youjo Senki S2",
-        "page": "youjo-senki-s2",
-        "image_url": "/wp-content/uploads/2026/07/158371.jpg",
-        "time": "13:30",
-        "title_en": "Youjo Senki S2"
-      },
-      {
         "title": "Re Zero kara Hajimeru Isekai Seikatsu",
         "page": "re-zero-kara-hajimeru-isekai-seikatsu",
         "image_url": "/wp-content/uploads/2021/01/79410.jpg",
         "time": "14:00",
         "title_en": "Re:ZERO -Starting Life in Another World-"
-      },
-      {
-        "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu S2",
-        "page": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-s2",
-        "image_url": "/wp-content/uploads/2026/07/158337.jpg",
-        "time": "15:30",
-        "title_en": "Otome Game Sekai wa Mob ni Kibishii Sekai desu S2"
       },
       {
         "title": "Toukutsu Ou",
