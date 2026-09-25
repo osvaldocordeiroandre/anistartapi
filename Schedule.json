@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T20:44:39.542Z",
+  "updatedAt": "2026-09-25T08:53:31.530Z",
   "schedule": {
     "Monday": [
       {
@@ -42,6 +42,20 @@
         "title_en": "Re:ZERO -Starting Life in Another World-"
       },
       {
+        "title": "Tensei shitara Ken deshita S2",
+        "page": "",
+        "image_url": "",
+        "time": "15:30",
+        "title_en": "Tensei shitara Ken deshita S2"
+      },
+      {
+        "title": "The Prince of Tennis II - U-17 World Cup Final Member Selection Match",
+        "page": "",
+        "image_url": "",
+        "time": "16:30",
+        "title_en": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match"
+      },
+      {
         "title": "Toukutsu Ou",
         "page": "toukutsu-ou",
         "image_url": "/wp-content/uploads/2026/07/158471.jpg",
@@ -51,25 +65,11 @@
     ],
     "Thursday": [
       {
-        "title": "Reiwa no Dara-san",
-        "page": "reiwa-no-dara-san",
-        "image_url": "/wp-content/uploads/2026/07/155761.jpg",
+        "title": "FX Senshi Kurumi-chan",
+        "page": "",
+        "image_url": "",
         "time": "12:30",
-        "title_en": "Dara-san of the Reiwa Era"
-      },
-      {
-        "title": "Mebius Dust",
-        "page": "mebius-dust",
-        "image_url": "/wp-content/uploads/2026/07/158352.jpg",
-        "time": "15:00",
-        "title_en": "Mebius Dust"
-      },
-      {
-        "title": "Super no Ura de Yani Suu Futari",
-        "page": "super-no-ura-de-yani-suu-futari",
-        "image_url": "/wp-content/uploads/2026/07/156339.jpg",
-        "time": "16:00",
-        "title_en": "Smoking Behind the Supermarket with You"
+        "title_en": "FX Fighter Kurumi-chan"
       },
       {
         "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
