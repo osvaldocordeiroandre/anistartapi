@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T17:49:23.718Z",
+  "updatedAt": "2026-09-26T23:20:31.280Z",
   "schedule": {
     "Monday": [
       {
@@ -43,15 +43,15 @@
       },
       {
         "title": "Tensei shitara Ken deshita S2",
-        "page": "",
-        "image_url": "",
+        "page": "tensei-shitara-ken-deshita-s2",
+        "image_url": "/wp-content/uploads/2026/09/159559.jpg",
         "time": "15:30",
         "title_en": "Tensei shitara Ken deshita S2"
       },
       {
         "title": "The Prince of Tennis II - U-17 World Cup Final Member Selection Match",
-        "page": "",
-        "image_url": "",
+        "page": "the-prince-of-tennis-ii-u-17-world-cup-final-member-selection-match",
+        "image_url": "/wp-content/uploads/2026/09/159518.jpg",
         "time": "16:30",
         "title_en": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match"
       },
@@ -66,8 +66,8 @@
     "Thursday": [
       {
         "title": "FX Senshi Kurumi-chan",
-        "page": "",
-        "image_url": "",
+        "page": "fx-senshi-kurumi-chan",
+        "image_url": "/wp-content/uploads/2026/09/159275.jpg",
         "time": "12:30",
         "title_en": "FX Fighter Kurumi-chan"
       },
@@ -83,7 +83,7 @@
       {
         "title": "Link Click S3",
         "page": "link-click-s3",
-        "image_url": "/wp-includes/images/image-coming-soon-placeholder.png",
+        "image_url": "/wp-content/uploads/2026/09/159496.jpg",
         "time": "03:00",
         "title_en": "Link Click S3"
       },
@@ -120,7 +120,7 @@
       {
         "title": "Kaijuu 8-gou - Narumi no Heijitsu",
         "page": "kaijuu-8-gou-narumi-no-heijitsu",
-        "image_url": "/wp-includes/images/image-coming-soon-placeholder.png",
+        "image_url": "/wp-content/uploads/2026/09/159343.jpg",
         "time": "11:00",
         "title_en": "Narumi's Week at Work"
       },
@@ -191,8 +191,8 @@
       },
       {
         "title": "Tempal - Item no Chikara",
-        "page": "",
-        "image_url": "",
+        "page": "tempal-item-no-chikara",
+        "image_url": "/wp-content/uploads/2026/09/160022.jpg",
         "time": "14:30",
         "title_en": "Tempal - Item no Chikara"
       },
