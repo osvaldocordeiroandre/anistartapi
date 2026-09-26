@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T08:53:31.530Z",
+  "updatedAt": "2026-09-26T17:49:23.718Z",
   "schedule": {
     "Monday": [
       {
@@ -88,32 +88,11 @@
         "title_en": "Link Click S3"
       },
       {
-        "title": "Tensei Shitara Slime Datta Ken S4",
-        "page": "tensei-shitara-slime-datta-ken-s4",
-        "image_url": "/wp-content/uploads/2026/04/156389.jpg",
-        "time": "15:00",
-        "title_en": "Tensei Shitara Slime Datta Ken S4"
-      },
-      {
-        "title": "Kore Kaite Shine",
-        "page": "kore-kaite-shine",
-        "image_url": "/wp-content/uploads/2026/07/154997.jpg",
-        "time": "15:35",
-        "title_en": "Kore Kaite Shine"
-      },
-      {
         "title": "Nige Jouzu no Wakagimi S2",
         "page": "nige-jouzu-no-wakagimi-s2",
         "image_url": "/wp-content/uploads/2026/07/156329.jpg",
         "time": "16:00",
         "title_en": "Nige Jouzu no Wakagimi S2"
-      },
-      {
-        "title": "Hell Mode S2",
-        "page": "hell-mode-s2",
-        "image_url": "/wp-content/uploads/2026/07/156314.jpg",
-        "time": "16:30",
-        "title_en": "Hell Mode S2"
       },
       {
         "title": "Uchi no Otouto-domo ga Sumimasen",
