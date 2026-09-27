@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T23:20:31.280Z",
+  "updatedAt": "2026-09-27T17:47:50.594Z",
   "schedule": {
     "Monday": [
       {
@@ -118,13 +118,6 @@
         "title_en": "Honzuki no Gekokujou S4"
       },
       {
-        "title": "Kaijuu 8-gou - Narumi no Heijitsu",
-        "page": "kaijuu-8-gou-narumi-no-heijitsu",
-        "image_url": "/wp-content/uploads/2026/09/159343.jpg",
-        "time": "11:00",
-        "title_en": "Narumi's Week at Work"
-      },
-      {
         "title": "Detective Conan",
         "page": "detective-conan",
         "image_url": "/wp-content/uploads/2020/10/75199.jpg",
@@ -132,32 +125,11 @@
         "title_en": "Detective Conan"
       },
       {
-        "title": "Mairimashita! Iruma-kun S4",
-        "page": "mairimashita-iruma-kun-s4",
-        "image_url": "/wp-content/uploads/2026/04/154048.jpg",
-        "time": "12:00",
-        "title_en": "Mairimashita! Iruma-kun S4"
-      },
-      {
         "title": "Yasei no Last Boss ga Arawareta!",
         "page": "yasei-no-last-boss-ga-arawareta",
         "image_url": "/wp-content/uploads/2025/09/145051.jpg",
         "time": "13:30",
         "title_en": "A Wild Last Boss Appeared!"
-      },
-      {
-        "title": "Grow Up Show - Himawari no Circus-dan",
-        "page": "grow-up-show-himawari-no-circus-dan",
-        "image_url": "/wp-content/uploads/2026/07/158716.jpg",
-        "time": "16:00",
-        "title_en": "Grow Up Show - Himawari no Circus-dan"
-      },
-      {
-        "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-        "page": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai",
-        "image_url": "/wp-content/uploads/2026/07/156331.jpg",
-        "time": "17:30",
-        "title_en": "Hanaori-san wa Tensei shitemo Kenka ga Shitai"
       }
     ],
     "Sunday": [
