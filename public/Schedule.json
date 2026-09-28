@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T17:47:50.594Z",
+  "updatedAt": "2026-09-28T22:22:48.874Z",
   "schedule": {
     "Monday": [
       {
@@ -141,20 +141,6 @@
         "title_en": "Meitantei Precure!"
       },
       {
-        "title": "Digimon Beatbreak",
-        "page": "digimon-beatbreak",
-        "image_url": "/wp-content/uploads/2025/10/151242.jpg",
-        "time": "03:00",
-        "title_en": "Digimon Beatbreak"
-      },
-      {
-        "title": "Let's Go Kaiki-gumi",
-        "page": "lets-go-kaiki-gumi",
-        "image_url": "/wp-content/uploads/2026/07/158581.jpg",
-        "time": "08:30",
-        "title_en": "Let's Go Kaiki-gumi"
-      },
-      {
         "title": "Seihantai na Kimi to Boku",
         "page": "seihantai-na-kimi-to-boku",
         "image_url": "/wp-content/uploads/2026/01/154457.jpg",
@@ -169,25 +155,11 @@
         "title_en": "Tempal - Item no Chikara"
       },
       {
-        "title": "Mushoku Tensei S3",
-        "page": "mushoku-tensei-s3",
-        "image_url": "/wp-content/uploads/2026/07/158340.jpg",
-        "time": "15:00",
-        "title_en": "Mushoku Tensei S3"
-      },
-      {
         "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
         "page": "tensei-kizoku-kantei-skill-de-nariagaru",
         "image_url": "/wp-content/uploads/2024/04/139538.jpg",
         "time": "15:00",
         "title_en": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World"
-      },
-      {
-        "title": "One Piece",
-        "page": "one-piece",
-        "image_url": "/wp-content/uploads/2020/10/73245.jpg",
-        "time": "16:00",
-        "title_en": "One Piece"
       }
     ]
   }
