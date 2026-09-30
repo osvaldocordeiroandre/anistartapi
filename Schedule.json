@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T15:04:46.019Z",
+  "updatedAt": "2026-09-30T16:25:24.312Z",
   "schedule": {
     "Monday": [
       {
@@ -25,13 +25,6 @@
       }
     ],
     "Tuesday": [
-      {
-        "title": "Kimi ga Shinu made Koi wo Shitai",
-        "page": "kimi-ga-shinu-made-koi-wo-shitai",
-        "image_url": "/wp-content/uploads/2026/07/158712.jpg",
-        "time": "12:30",
-        "title_en": "I Want to Love You Till Your Dying Day"
-      },
       {
         "title": "Sora wa Akai Kawa no Hotori",
         "page": "sora-wa-akai-kawa-no-hotori",
@@ -66,7 +59,7 @@
         "title": "The Prince of Tennis II - U-17 World Cup Final Member Selection Match",
         "page": "the-prince-of-tennis-ii-u-17-world-cup-final-member-selection-match",
         "image_url": "/wp-content/uploads/2026/09/159518.jpg",
-        "time": "16:30",
+        "time": "16:00",
         "title_en": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match"
       },
       {
