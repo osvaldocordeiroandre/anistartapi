@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T06:29:19.230Z",
+  "updatedAt": "2026-10-01T13:50:43.422Z",
   "schedule": {
     "Monday": [
       {
@@ -102,18 +102,18 @@
         "title_en": "Link Click S3"
       },
       {
-        "title": "Kusuriya no Hitorigoto",
-        "page": "kusuriya-no-hitorigoto",
-        "image_url": "/wp-content/uploads/2023/10/138033.jpg",
-        "time": "14:00",
-        "title_en": "The Apothecary Diaries"
-      },
-      {
         "title": "Tougen Anki - Nikko Kegon no Taki-hen",
         "page": "",
         "image_url": "",
         "time": "14:30",
         "title_en": "TOUGEN ANKI: Nikko Kegon Falls Arc"
+      },
+      {
+        "title": "Kusuriya no Hitorigoto",
+        "page": "kusuriya-no-hitorigoto",
+        "image_url": "/wp-content/uploads/2023/10/138033.jpg",
+        "time": "15:00",
+        "title_en": "The Apothecary Diaries"
       },
       {
         "title": "Nige Jouzu no Wakagimi S2",
