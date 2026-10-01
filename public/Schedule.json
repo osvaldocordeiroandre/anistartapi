@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T20:58:30.431Z",
+  "updatedAt": "2026-10-01T06:29:19.230Z",
   "schedule": {
     "Monday": [
       {
@@ -63,20 +63,6 @@
     ],
     "Wednesday": [
       {
-        "title": "Clevatess S2",
-        "page": "clevatess-s2",
-        "image_url": "/wp-content/uploads/2026/07/157105.jpg",
-        "time": "12:00",
-        "title_en": "Clevatess S2"
-      },
-      {
-        "title": "Re Zero kara Hajimeru Isekai Seikatsu",
-        "page": "re-zero-kara-hajimeru-isekai-seikatsu",
-        "image_url": "/wp-content/uploads/2021/01/79410.jpg",
-        "time": "14:00",
-        "title_en": "Re:ZERO -Starting Life in Another World-"
-      },
-      {
         "title": "Tensei Shitara Ken Deshita S2",
         "page": "",
         "image_url": "",
@@ -89,13 +75,6 @@
         "image_url": "/wp-content/uploads/2026/09/159518.jpg",
         "time": "16:00",
         "title_en": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match"
-      },
-      {
-        "title": "Toukutsu Ou",
-        "page": "toukutsu-ou",
-        "image_url": "/wp-content/uploads/2026/07/158471.jpg",
-        "time": "17:15",
-        "title_en": "Toukutsu Ou"
       }
     ],
     "Thursday": [
