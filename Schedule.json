@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T19:49:45.956Z",
+  "updatedAt": "2026-10-02T23:30:53.109Z",
   "schedule": {
     "Monday": [
       {
@@ -109,13 +109,6 @@
         "title_en": "The Apothecary Diaries"
       },
       {
-        "title": "Nige Jouzu no Wakagimi S2",
-        "page": "nige-jouzu-no-wakagimi-s2",
-        "image_url": "/wp-content/uploads/2026/07/156329.jpg",
-        "time": "16:00",
-        "title_en": "Nige Jouzu no Wakagimi S2"
-      },
-      {
         "title": "Tougen Anki - Nikko Kegon no Taki-hen",
         "page": "tougen-anki-nikko-kegon-no-taki-hen",
         "image_url": "",
@@ -174,13 +167,6 @@
         "title_en": "A Wild Last Boss Appeared!"
       },
       {
-        "title": "Black Clover S2",
-        "page": "",
-        "image_url": "",
-        "time": "14:00",
-        "title_en": "Black Clover S2"
-      },
-      {
         "title": "VERTEX FORCE",
         "page": "",
         "image_url": "",
@@ -193,6 +179,13 @@
         "image_url": "",
         "time": "14:30",
         "title_en": "#I'm Looking For a Zombie"
+      },
+      {
+        "title": "Black Clover S2",
+        "page": "",
+        "image_url": "",
+        "time": "15:00",
+        "title_en": "Black Clover S2"
       },
       {
         "title": "Magical Explorer",
