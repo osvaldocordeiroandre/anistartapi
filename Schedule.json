@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T08:16:00.900Z",
+  "updatedAt": "2026-10-03T13:27:51.830Z",
   "schedule": {
     "Monday": [
       {
@@ -63,11 +63,53 @@
     ],
     "Wednesday": [
       {
+        "title": "Tantei wa Mou, Shindeiru. S2",
+        "page": "",
+        "image_url": "",
+        "time": "12:30",
+        "title_en": "Tantei wa Mou, Shindeiru. S2"
+      },
+      {
+        "title": "Sasaki to Pii-chan S2",
+        "page": "",
+        "image_url": "",
+        "time": "13:00",
+        "title_en": "Sasaki to Pii-chan S2"
+      },
+      {
+        "title": "Sekai Saikyou no Majo, Hajimemashita",
+        "page": "",
+        "image_url": "",
+        "time": "13:00",
+        "title_en": "The World's Strongest Witch"
+      },
+      {
+        "title": "Magic Knight Rayearth (2026)",
+        "page": "",
+        "image_url": "",
+        "time": "14:46",
+        "title_en": "Magic Knight Rayearth (2026)"
+      },
+      {
+        "title": "Juuou Mujin Dandivine",
+        "page": "",
+        "image_url": "",
+        "time": "15:30",
+        "title_en": "Juuou Mujin Dandivine"
+      },
+      {
         "title": "Tensei Shitara Ken Deshita S2",
         "page": "",
         "image_url": "",
         "time": "15:30",
         "title_en": "Tensei Shitara Ken Deshita S2"
+      },
+      {
+        "title": "Kikansha no Mahou wa Tokubetsu desu",
+        "page": "kikansha-no-mahou-wa-tokubetsu-desu",
+        "image_url": "/wp-content/uploads/2023/10/138532.jpg",
+        "time": "15:45",
+        "title_en": "A Returner's Magic Should Be Special"
       },
       {
         "title": "The Prince of Tennis II - U-17 World Cup Final Member Selection Match",
@@ -86,11 +128,25 @@
         "title_en": "FX Fighter Kurumi-chan"
       },
       {
+        "title": "Tetsuryou! Meet with Tetsudou Musume",
+        "page": "",
+        "image_url": "",
+        "time": "16:00",
+        "title_en": "TETSURYO! Meet With Tetsudou Musume"
+      },
+      {
         "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
         "page": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru",
         "image_url": "/wp-content/uploads/2026/07/158711.jpg",
         "time": "16:00",
         "title_en": "The Exiled Heavy Knight Knows How to Game the System"
+      },
+      {
+        "title": "Hyouken no Majutsushi ga Sekai wo Suberu S2",
+        "page": "",
+        "image_url": "",
+        "time": "16:28",
+        "title_en": "Hyouken no Majutsushi ga Sekai wo Suberu S2"
       }
     ],
     "Friday": [
@@ -100,6 +156,20 @@
         "image_url": "/wp-content/uploads/2026/09/159496.jpg",
         "time": "03:00",
         "title_en": "Link Click S3"
+      },
+      {
+        "title": "Toaru Anbu no Item",
+        "page": "",
+        "image_url": "",
+        "time": "13:30",
+        "title_en": "A Certain Dark Item"
+      },
+      {
+        "title": "Hotaru no Yomeiri",
+        "page": "",
+        "image_url": "",
+        "time": "14:30",
+        "title_en": "Firefly Wedding"
       },
       {
         "title": "Kusuriya no Hitorigoto",
@@ -154,14 +224,14 @@
       },
       {
         "title": "Romelia Senki",
-        "page": "",
+        "page": "romelia-senki",
         "image_url": "",
-        "time": "12:00",
+        "time": "13:00",
         "title_en": "Romelia Senki"
       },
       {
         "title": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
-        "page": "",
+        "page": "tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu",
         "image_url": "",
         "time": "13:00",
         "title_en": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu"
