@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T13:27:51.830Z",
+  "updatedAt": "2026-10-03T17:34:48.454Z",
   "schedule": {
     "Monday": [
       {
@@ -244,32 +244,32 @@
         "title_en": "A Wild Last Boss Appeared!"
       },
       {
-        "title": "VERTEX FORCE",
-        "page": "",
-        "image_url": "",
-        "time": "14:30",
-        "title_en": "VERTEX FORCE"
-      },
-      {
-        "title": "Zombie Sagashitemasu",
-        "page": "",
-        "image_url": "",
-        "time": "14:30",
-        "title_en": "#I'm Looking For a Zombie"
-      },
-      {
-        "title": "Black Clover S2",
-        "page": "",
-        "image_url": "",
+        "title": "Black Clover",
+        "page": "black-clover",
+        "image_url": "/wp-content/uploads/2020/10/88336.jpg",
         "time": "15:00",
-        "title_en": "Black Clover S2"
+        "title_en": "Black Clover"
       },
       {
         "title": "Magical Explorer",
-        "page": "",
+        "page": "magical-explorer",
         "image_url": "",
         "time": "15:00",
         "title_en": "Magical Explorer"
+      },
+      {
+        "title": "Zombie Sagashitemasu",
+        "page": "zombie-sagashitemasu",
+        "image_url": "",
+        "time": "15:00",
+        "title_en": "#I'm Looking For a Zombie"
+      },
+      {
+        "title": "VERTEX FORCE",
+        "page": "vertex-force",
+        "image_url": "",
+        "time": "16:00",
+        "title_en": "VERTEX FORCE"
       },
       {
         "title": "Kashita Maryoku wa Revo Barai de Kyousei Choushuu",
