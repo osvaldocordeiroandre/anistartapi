@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T17:34:48.454Z",
+  "updatedAt": "2026-10-03T20:09:54.344Z",
   "schedule": {
     "Monday": [
       {
@@ -251,13 +251,6 @@
         "title_en": "Black Clover"
       },
       {
-        "title": "Magical Explorer",
-        "page": "magical-explorer",
-        "image_url": "",
-        "time": "15:00",
-        "title_en": "Magical Explorer"
-      },
-      {
         "title": "Zombie Sagashitemasu",
         "page": "zombie-sagashitemasu",
         "image_url": "",
@@ -272,8 +265,15 @@
         "title_en": "VERTEX FORCE"
       },
       {
+        "title": "Magical Explorer",
+        "page": "magical-explorer",
+        "image_url": "",
+        "time": "16:30",
+        "title_en": "Magical Explorer"
+      },
+      {
         "title": "Kashita Maryoku wa Revo Barai de Kyousei Choushuu",
-        "page": "",
+        "page": "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu",
         "image_url": "",
         "time": "18:00",
         "title_en": "Kashita Maryoku wa Revo Barai de Kyousei Choushuu"
