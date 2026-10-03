@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T23:30:53.109Z",
+  "updatedAt": "2026-10-03T08:16:00.900Z",
   "schedule": {
     "Monday": [
       {
@@ -124,6 +124,13 @@
       }
     ],
     "Saturday": [
+      {
+        "title": "Keroro Gunsou (2026)",
+        "page": "keroro-gunsou-2026",
+        "image_url": "",
+        "time": "01:00",
+        "title_en": "Keroro Gunsou (2026)"
+      },
       {
         "title": "Rilakkuma",
         "page": "rilakkuma",
