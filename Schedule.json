@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T09:17:17.451Z",
+  "updatedAt": "2026-10-04T14:48:39.858Z",
   "schedule": {
     "Monday": [
       {
@@ -295,18 +295,18 @@
         "title_en": "Ao Ashi S2"
       },
       {
-        "title": "Saikyosoubi",
-        "page": "",
-        "image_url": "",
-        "time": "12:30",
-        "title_en": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
-      },
-      {
         "title": "Ojisan wa Kawaii Mono ga Osuki.",
-        "page": "",
+        "page": "ojisan-wa-kawaii-mono-ga-osuki",
         "image_url": "",
         "time": "14:00",
         "title_en": "Ojisan wa Kawaii Mono ga Osuki."
+      },
+      {
+        "title": "Saikyosoubi",
+        "page": "saikyosoubi",
+        "image_url": "",
+        "time": "14:00",
+        "title_en": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
       },
       {
         "title": "Tempal - Item no Chikara",
@@ -317,7 +317,7 @@
       },
       {
         "title": "Yowaki Max",
-        "page": "",
+        "page": "yowaki-max",
         "image_url": "",
         "time": "14:30",
         "title_en": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé"
