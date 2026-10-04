@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T20:09:54.344Z",
+  "updatedAt": "2026-10-04T09:17:17.451Z",
   "schedule": {
     "Monday": [
       {
@@ -209,13 +209,6 @@
         "title_en": "Rilakkuma"
       },
       {
-        "title": "Honzuki no Gekokujou S4",
-        "page": "honzuki-no-gekokujou-s4",
-        "image_url": "/wp-content/uploads/2026/04/155054.jpg",
-        "time": "09:30",
-        "title_en": "Honzuki no Gekokujou S4"
-      },
-      {
         "title": "Detective Conan",
         "page": "detective-conan",
         "image_url": "/wp-content/uploads/2020/10/75199.jpg",
@@ -288,18 +281,18 @@
         "title_en": "Meitantei Precure!"
       },
       {
-        "title": "Ao Ashi S2",
-        "page": "",
-        "image_url": "",
-        "time": "08:00",
-        "title_en": "Ao Ashi S2"
-      },
-      {
         "title": "Seihantai na Kimi to Boku",
         "page": "seihantai-na-kimi-to-boku",
         "image_url": "/wp-content/uploads/2026/01/154457.jpg",
         "time": "08:30",
         "title_en": "Seihantai na Kimi to Boku"
+      },
+      {
+        "title": "Ao Ashi S2",
+        "page": "ao-ashi-s2",
+        "image_url": "",
+        "time": "09:00",
+        "title_en": "Ao Ashi S2"
       },
       {
         "title": "Saikyosoubi",
