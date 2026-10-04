@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T14:48:39.858Z",
+  "updatedAt": "2026-10-04T18:30:15.995Z",
   "schedule": {
     "Monday": [
       {
@@ -323,15 +323,8 @@
         "title_en": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé"
       },
       {
-        "title": "Hotel Inhumans",
-        "page": "hotel-inhumans",
-        "image_url": "/wp-content/uploads/2025/07/150443.jpg",
-        "time": "14:45",
-        "title_en": "HOTEL INHUMANS"
-      },
-      {
         "title": "Kanata kara",
-        "page": "",
+        "page": "kanata-kara",
         "image_url": "",
         "time": "15:00",
         "title_en": "From Far Away"
@@ -344,8 +337,15 @@
         "title_en": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World"
       },
       {
+        "title": "Hotel Inhumans S2",
+        "page": "hotel-inhumans-s2",
+        "image_url": "",
+        "time": "15:15",
+        "title_en": "Hotel Inhumans S2"
+      },
+      {
         "title": "Dark Summoner to Dekiteiru",
-        "page": "",
+        "page": "dark-summoner-to-dekiteiru",
         "image_url": "",
         "time": "16:20",
         "title_en": "I'm Dating a Dark Summoner"
