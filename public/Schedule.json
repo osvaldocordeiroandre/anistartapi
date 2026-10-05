@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-10-04T18:30:15.995Z",
+  "updatedAt": "2026-10-05T14:49:11.291Z",
   "schedule": {
     "Monday": [
       {
         "title": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
-        "page": "",
+        "page": "doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu",
         "image_url": "",
         "time": "12:30",
         "title_en": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!"
       },
       {
         "title": "Tensei Goblin dakedo Shitsumon Aru",
-        "page": "",
+        "page": "tensei-goblin-dakedo-shitsumon-aru",
         "image_url": "",
         "time": "13:00",
         "title_en": "So What's Wrong with Getting Reborn as a Goblin?"
       },
       {
         "title": "PSYREN",
-        "page": "",
+        "page": "psyren",
         "image_url": "",
         "time": "14:30",
         "title_en": "PSYREN"
@@ -36,21 +36,21 @@
         "title": "Shiotaiou no Satou-san ga Ore ni dake Amai",
         "page": "",
         "image_url": "",
-        "time": "13:00",
+        "time": "13:30",
         "title_en": "The Cold Sato-san is Only Sweet to Me"
       },
       {
         "title": "Choujun! Choujou-senpai",
         "page": "",
         "image_url": "",
-        "time": "14:00",
+        "time": "14:45",
         "title_en": "Super Psychic Policeman Chojo"
       },
       {
         "title": "Chii Fuyo",
         "page": "",
         "image_url": "",
-        "time": "15:00",
+        "time": "15:30",
         "title_en": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
       },
       {
@@ -209,6 +209,13 @@
         "title_en": "Rilakkuma"
       },
       {
+        "title": "Shuiro no Kamen",
+        "page": "",
+        "image_url": "",
+        "time": "09:30",
+        "title_en": "The Vermilion Mask"
+      },
+      {
         "title": "Detective Conan",
         "page": "detective-conan",
         "image_url": "/wp-content/uploads/2020/10/75199.jpg",
@@ -235,6 +242,13 @@
         "image_url": "/wp-content/uploads/2025/09/145051.jpg",
         "time": "13:30",
         "title_en": "A Wild Last Boss Appeared!"
+      },
+      {
+        "title": "Kyoufu Collector",
+        "page": "",
+        "image_url": "",
+        "time": "14:45",
+        "title_en": "HORROR COLLECTOR"
       },
       {
         "title": "Black Clover",
@@ -281,11 +295,11 @@
         "title_en": "Meitantei Precure!"
       },
       {
-        "title": "Seihantai na Kimi to Boku",
-        "page": "seihantai-na-kimi-to-boku",
-        "image_url": "/wp-content/uploads/2026/01/154457.jpg",
-        "time": "08:30",
-        "title_en": "Seihantai na Kimi to Boku"
+        "title": "Ace of Diamond Act II S2",
+        "page": "ace-of-diamond-act-ii-s2",
+        "image_url": "/wp-content/uploads/2026/04/154245.jpg",
+        "time": "09:00",
+        "title_en": "Ace of Diamond Act II S2"
       },
       {
         "title": "Ao Ashi S2",
@@ -309,6 +323,13 @@
         "title_en": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
       },
       {
+        "title": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+        "page": "",
+        "image_url": "",
+        "time": "14:30",
+        "title_en": "Full Clearing Another World under a Goddess with Zero Believers"
+      },
+      {
         "title": "Tempal - Item no Chikara",
         "page": "tempal-item-no-chikara",
         "image_url": "/wp-content/uploads/2026/09/160022.jpg",
@@ -323,13 +344,6 @@
         "title_en": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé"
       },
       {
-        "title": "Kanata kara",
-        "page": "kanata-kara",
-        "image_url": "",
-        "time": "15:00",
-        "title_en": "From Far Away"
-      },
-      {
         "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
         "page": "tensei-kizoku-kantei-skill-de-nariagaru",
         "image_url": "/wp-content/uploads/2024/04/139538.jpg",
@@ -342,6 +356,13 @@
         "image_url": "",
         "time": "15:15",
         "title_en": "Hotel Inhumans S2"
+      },
+      {
+        "title": "Kanata kara",
+        "page": "kanata-kara",
+        "image_url": "",
+        "time": "16:00",
+        "title_en": "From Far Away"
       },
       {
         "title": "Dark Summoner to Dekiteiru",
