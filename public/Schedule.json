@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T15:59:27.314Z",
+  "updatedAt": "2026-10-06T20:52:51.297Z",
   "schedule": {
     "Monday": [
       {
@@ -59,6 +59,13 @@
         "image_url": "",
         "time": "15:30",
         "title_en": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
+      },
+      {
+        "title": "Chitose-kun wa Ramune Bin no Naka",
+        "page": "chitose-kun-wa-ramune-bin-no-naka",
+        "image_url": "/wp-content/uploads/2025/10/151233.jpg",
+        "time": "16:30",
+        "title_en": "Chitose Is in the Ramune Bottle"
       },
       {
         "title": "Sora wa Akai Kawa no Hotori",
