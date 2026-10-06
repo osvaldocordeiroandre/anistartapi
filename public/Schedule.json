@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T14:49:11.291Z",
+  "updatedAt": "2026-10-06T15:59:27.314Z",
   "schedule": {
     "Monday": [
       {
@@ -27,28 +27,35 @@
     "Tuesday": [
       {
         "title": "Kyouran Reijou Nia Liston",
-        "page": "",
+        "page": "kyouran-reijou-nia-liston",
         "image_url": "",
         "time": "12:55",
         "title_en": "Nia Liston: The Merciless Maiden"
       },
       {
         "title": "Shiotaiou no Satou-san ga Ore ni dake Amai",
-        "page": "",
+        "page": "shiotaiou-no-satou-san-ga-ore-ni-dake-amai",
         "image_url": "",
         "time": "13:30",
         "title_en": "The Cold Sato-san is Only Sweet to Me"
       },
       {
+        "title": "Battle Spirits Re - Zekkai no Kuu",
+        "page": "battle-spirits-re-zekkai-no-kuu",
+        "image_url": "",
+        "time": "14:30",
+        "title_en": "Battle Spirits Re - Zekkai no Kuu"
+      },
+      {
         "title": "Choujun! Choujou-senpai",
-        "page": "",
+        "page": "choujun-choujou-senpai",
         "image_url": "",
         "time": "14:45",
         "title_en": "Super Psychic Policeman Chojo"
       },
       {
         "title": "Chii Fuyo",
-        "page": "",
+        "page": "chii-fuyo-2",
         "image_url": "",
         "time": "15:30",
         "title_en": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
@@ -356,6 +363,13 @@
         "image_url": "",
         "time": "15:15",
         "title_en": "Hotel Inhumans S2"
+      },
+      {
+        "title": "Dragon Ball Super - Beerus",
+        "page": "",
+        "image_url": "",
+        "time": "16:00",
+        "title_en": "Dragon Ball Super: Beerus"
       },
       {
         "title": "Kanata kara",
