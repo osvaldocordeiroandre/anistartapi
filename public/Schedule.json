@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-07T06:10:42.206Z",
+  "updatedAt": "2026-10-07T13:31:16.044Z",
   "schedule": {
     "Monday": [
       {
         "title": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
         "page": "doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/160033.jpg",
         "time": "12:30",
         "title_en": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!"
       },
       {
         "title": "Tensei Goblin dakedo Shitsumon Aru",
         "page": "tensei-goblin-dakedo-shitsumon-aru",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/159941.jpg",
         "time": "13:00",
         "title_en": "So What's Wrong with Getting Reborn as a Goblin?"
       },
       {
         "title": "PSYREN",
         "page": "psyren",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/160405.jpg",
         "time": "14:30",
         "title_en": "PSYREN"
       }
@@ -28,35 +28,35 @@
       {
         "title": "Kyouran Reijou Nia Liston",
         "page": "kyouran-reijou-nia-liston",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/159223.jpg",
         "time": "12:55",
         "title_en": "Nia Liston: The Merciless Maiden"
       },
       {
         "title": "Shiotaiou no Satou-san ga Ore ni dake Amai",
         "page": "shiotaiou-no-satou-san-ga-ore-ni-dake-amai",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/160129.jpg",
         "time": "13:30",
         "title_en": "The Cold Sato-san is Only Sweet to Me"
       },
       {
         "title": "Battle Spirits Re - Zekkai no Kuu",
         "page": "battle-spirits-re-zekkai-no-kuu",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/159762.jpg",
         "time": "14:30",
         "title_en": "Battle Spirits Re - Zekkai no Kuu"
       },
       {
         "title": "Choujun! Choujou-senpai",
         "page": "choujun-choujou-senpai",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/160335.jpg",
         "time": "14:45",
         "title_en": "Super Psychic Policeman Chojo"
       },
       {
         "title": "Chii Fuyo",
-        "page": "chii-fuyo-2",
-        "image_url": "",
+        "page": "chii-fuyo",
+        "image_url": "/wp-content/uploads/2026/10/160339.jpg",
         "time": "15:30",
         "title_en": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
       },
@@ -78,35 +78,35 @@
     "Wednesday": [
       {
         "title": "Tantei wa Mou, Shindeiru. S2",
-        "page": "",
+        "page": "tantei-wa-mou-shindeiru-s2",
         "image_url": "",
         "time": "12:30",
         "title_en": "Tantei wa Mou, Shindeiru. S2"
       },
       {
         "title": "Sasaki to Pii-chan S2",
-        "page": "",
+        "page": "sasaki-to-pii-chan-s2",
         "image_url": "",
         "time": "13:00",
         "title_en": "Sasaki to Pii-chan S2"
       },
       {
         "title": "Sekai Saikyou no Majo, Hajimemashita",
-        "page": "",
+        "page": "sekai-saikyou-no-majo-hajimemashita",
         "image_url": "",
         "time": "13:00",
         "title_en": "The World's Strongest Witch"
       },
       {
         "title": "Magic Knight Rayearth (2026)",
-        "page": "",
+        "page": "magic-knight-rayearth-2026",
         "image_url": "",
         "time": "14:46",
         "title_en": "Magic Knight Rayearth (2026)"
       },
       {
         "title": "Juuou Mujin Dandivine",
-        "page": "",
+        "page": "juuou-mujin-dandivine",
         "image_url": "",
         "time": "15:30",
         "title_en": "Juuou Mujin Dandivine"
@@ -143,7 +143,7 @@
       },
       {
         "title": "Tetsuryou! Meet with Tetsudou Musume",
-        "page": "",
+        "page": "tetsuryou-meet-with-tetsudou-musume",
         "image_url": "",
         "time": "16:00",
         "title_en": "TETSURYO! Meet With Tetsudou Musume"
@@ -157,7 +157,7 @@
       },
       {
         "title": "Hyouken no Majutsushi ga Sekai wo Suberu S2",
-        "page": "",
+        "page": "hyouken-no-majutsushi-ga-sekai-wo-suberu-s2",
         "image_url": "",
         "time": "16:28",
         "title_en": "Hyouken no Majutsushi ga Sekai wo Suberu S2"
@@ -173,14 +173,14 @@
       },
       {
         "title": "Toaru Anbu no Item",
-        "page": "",
+        "page": "toaru-anbu-no-item",
         "image_url": "",
         "time": "13:30",
         "title_en": "A Certain Dark Item"
       },
       {
         "title": "Hotaru no Yomeiri",
-        "page": "",
+        "page": "hotaru-no-yomeiri",
         "image_url": "",
         "time": "14:30",
         "title_en": "Firefly Wedding"
@@ -195,7 +195,7 @@
       {
         "title": "Tougen Anki - Nikko Kegon no Taki-hen",
         "page": "tougen-anki-nikko-kegon-no-taki-hen",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/160147.jpg",
         "time": "16:00",
         "title_en": "TOUGEN ANKI: Nikko Kegon Falls Arc"
       },
@@ -211,7 +211,7 @@
       {
         "title": "Keroro Gunsou (2026)",
         "page": "keroro-gunsou-2026",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/160110.jpg",
         "time": "01:00",
         "title_en": "Keroro Gunsou (2026)"
       },
@@ -224,7 +224,7 @@
       },
       {
         "title": "Shuiro no Kamen",
-        "page": "",
+        "page": "shuiro-no-kamen",
         "image_url": "",
         "time": "09:30",
         "title_en": "The Vermilion Mask"
@@ -239,14 +239,14 @@
       {
         "title": "Romelia Senki",
         "page": "romelia-senki",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/160008.jpg",
         "time": "13:00",
         "title_en": "Romelia Senki"
       },
       {
         "title": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
         "page": "tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/156338.jpg",
         "time": "13:00",
         "title_en": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu"
       },
@@ -259,7 +259,7 @@
       },
       {
         "title": "Kyoufu Collector",
-        "page": "",
+        "page": "kyoufu-collector",
         "image_url": "",
         "time": "14:45",
         "title_en": "HORROR COLLECTOR"
@@ -274,28 +274,28 @@
       {
         "title": "Zombie Sagashitemasu",
         "page": "zombie-sagashitemasu",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/160025.jpg",
         "time": "15:00",
         "title_en": "#I'm Looking For a Zombie"
       },
       {
         "title": "VERTEX FORCE",
         "page": "vertex-force",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/160012.jpg",
         "time": "16:00",
         "title_en": "VERTEX FORCE"
       },
       {
         "title": "Magical Explorer",
         "page": "magical-explorer",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/160106.jpg",
         "time": "16:30",
         "title_en": "Magical Explorer"
       },
       {
         "title": "Kashita Maryoku wa Revo Barai de Kyousei Choushuu",
         "page": "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/159735.jpg",
         "time": "18:00",
         "title_en": "Kashita Maryoku wa Revo Barai de Kyousei Choushuu"
       }
@@ -318,27 +318,27 @@
       {
         "title": "Ao Ashi S2",
         "page": "ao-ashi-s2",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/158726.jpg",
         "time": "09:00",
         "title_en": "Ao Ashi S2"
       },
       {
         "title": "Ojisan wa Kawaii Mono ga Osuki.",
         "page": "ojisan-wa-kawaii-mono-ga-osuki",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/159256.jpg",
         "time": "14:00",
         "title_en": "Ojisan wa Kawaii Mono ga Osuki."
       },
       {
         "title": "Saikyosoubi",
         "page": "saikyosoubi",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/160053.jpg",
         "time": "14:00",
         "title_en": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
       },
       {
         "title": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-        "page": "",
+        "page": "shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku",
         "image_url": "",
         "time": "14:30",
         "title_en": "Full Clearing Another World under a Goddess with Zero Believers"
@@ -353,7 +353,7 @@
       {
         "title": "Yowaki Max",
         "page": "yowaki-max",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/159886.jpg",
         "time": "14:30",
         "title_en": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé"
       },
@@ -367,13 +367,13 @@
       {
         "title": "Hotel Inhumans S2",
         "page": "hotel-inhumans-s2",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/159928.jpg",
         "time": "15:15",
         "title_en": "Hotel Inhumans S2"
       },
       {
         "title": "Dragon Ball Super - Beerus",
-        "page": "",
+        "page": "dragon-ball-super-beerus",
         "image_url": "",
         "time": "16:00",
         "title_en": "Dragon Ball Super: Beerus"
@@ -381,14 +381,14 @@
       {
         "title": "Kanata kara",
         "page": "kanata-kara",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/159816.jpg",
         "time": "16:00",
         "title_en": "From Far Away"
       },
       {
         "title": "Dark Summoner to Dekiteiru",
         "page": "dark-summoner-to-dekiteiru",
-        "image_url": "",
+        "image_url": "/wp-content/uploads/2026/10/159860.jpg",
         "time": "16:20",
         "title_en": "I'm Dating a Dark Summoner"
       }
