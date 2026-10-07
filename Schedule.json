@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T13:31:16.044Z",
+  "updatedAt": "2026-10-07T19:29:48.713Z",
   "schedule": {
     "Monday": [
       {
@@ -77,13 +77,6 @@
     ],
     "Wednesday": [
       {
-        "title": "Tantei wa Mou, Shindeiru. S2",
-        "page": "tantei-wa-mou-shindeiru-s2",
-        "image_url": "",
-        "time": "12:30",
-        "title_en": "Tantei wa Mou, Shindeiru. S2"
-      },
-      {
         "title": "Sasaki to Pii-chan S2",
         "page": "sasaki-to-pii-chan-s2",
         "image_url": "",
@@ -98,18 +91,18 @@
         "title_en": "The World's Strongest Witch"
       },
       {
+        "title": "Tantei wa Mou, Shindeiru. S2",
+        "page": "tantei-wa-mou-shindeiru-s2",
+        "image_url": "",
+        "time": "13:30",
+        "title_en": "Tantei wa Mou, Shindeiru. S2"
+      },
+      {
         "title": "Magic Knight Rayearth (2026)",
         "page": "magic-knight-rayearth-2026",
         "image_url": "",
-        "time": "14:46",
+        "time": "15:15",
         "title_en": "Magic Knight Rayearth (2026)"
-      },
-      {
-        "title": "Juuou Mujin Dandivine",
-        "page": "juuou-mujin-dandivine",
-        "image_url": "",
-        "time": "15:30",
-        "title_en": "Juuou Mujin Dandivine"
       },
       {
         "title": "Tensei Shitara Ken Deshita S2",
@@ -119,18 +112,25 @@
         "title_en": "Tensei Shitara Ken Deshita S2"
       },
       {
-        "title": "Kikansha no Mahou wa Tokubetsu desu",
-        "page": "kikansha-no-mahou-wa-tokubetsu-desu",
-        "image_url": "/wp-content/uploads/2023/10/138532.jpg",
-        "time": "15:45",
-        "title_en": "A Returner's Magic Should Be Special"
-      },
-      {
         "title": "The Prince of Tennis II - U-17 World Cup Final Member Selection Match",
         "page": "the-prince-of-tennis-ii-u-17-world-cup-final-member-selection-match",
         "image_url": "/wp-content/uploads/2026/09/159518.jpg",
         "time": "16:00",
         "title_en": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match"
+      },
+      {
+        "title": "Juuou Mujin Dandivine",
+        "page": "juuou-mujin-dandivine",
+        "image_url": "",
+        "time": "17:00",
+        "title_en": "Juuou Mujin Dandivine"
+      },
+      {
+        "title": "Kikansha no Mahou wa Tokubetsu desu",
+        "page": "kikansha-no-mahou-wa-tokubetsu-desu",
+        "image_url": "/wp-content/uploads/2023/10/138532.jpg",
+        "time": "17:15",
+        "title_en": "A Returner's Magic Should Be Special"
       }
     ],
     "Thursday": [
@@ -179,18 +179,18 @@
         "title_en": "A Certain Dark Item"
       },
       {
-        "title": "Hotaru no Yomeiri",
-        "page": "hotaru-no-yomeiri",
-        "image_url": "",
-        "time": "14:30",
-        "title_en": "Firefly Wedding"
-      },
-      {
         "title": "Kusuriya no Hitorigoto",
         "page": "kusuriya-no-hitorigoto",
         "image_url": "/wp-content/uploads/2023/10/138033.jpg",
         "time": "15:00",
         "title_en": "The Apothecary Diaries"
+      },
+      {
+        "title": "Hotaru no Yomeiri",
+        "page": "hotaru-no-yomeiri",
+        "image_url": "",
+        "time": "16:00",
+        "title_en": "Firefly Wedding"
       },
       {
         "title": "Tougen Anki - Nikko Kegon no Taki-hen",
