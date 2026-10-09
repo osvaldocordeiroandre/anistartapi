@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:09:34.452Z",
+  "updatedAt": "2026-10-09T17:00:55.228Z",
   "schedule": {
     "Monday": [
       {
@@ -66,6 +66,13 @@
         "image_url": "/wp-content/uploads/2025/10/151233.jpg",
         "time": "16:30",
         "title_en": "Chitose Is in the Ramune Bottle"
+      },
+      {
+        "title": "Dark Machine - The Animation",
+        "page": "",
+        "image_url": "",
+        "time": "16:45",
+        "title_en": "DARK MACHINE THE ANIMATION"
       },
       {
         "title": "Sora wa Akai Kawa no Hotori",
@@ -159,7 +166,7 @@
         "title": "Hyouken no Majutsushi ga Sekai wo Suberu S2",
         "page": "hyouken-no-majutsushi-ga-sekai-wo-suberu-s2",
         "image_url": "/wp-content/uploads/2026/10/159644.jpg",
-        "time": "16:28",
+        "time": "17:00",
         "title_en": "Hyouken no Majutsushi ga Sekai wo Suberu S2"
       }
     ],
@@ -172,18 +179,18 @@
         "title_en": "Link Click S3"
       },
       {
-        "title": "Toaru Anbu no Item",
-        "page": "toaru-anbu-no-item",
-        "image_url": "/wp-content/uploads/2026/10/159988.jpg",
-        "time": "13:30",
-        "title_en": "A Certain Dark Item"
-      },
-      {
         "title": "Kusuriya no Hitorigoto",
         "page": "kusuriya-no-hitorigoto",
         "image_url": "/wp-content/uploads/2023/10/138033.jpg",
         "time": "15:00",
         "title_en": "The Apothecary Diaries"
+      },
+      {
+        "title": "Toaru Anbu no Item",
+        "page": "toaru-anbu-no-item",
+        "image_url": "/wp-content/uploads/2026/10/159988.jpg",
+        "time": "15:30",
+        "title_en": "A Certain Dark Item"
       },
       {
         "title": "Hotaru no Yomeiri",
