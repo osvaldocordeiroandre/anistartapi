@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:00:55.228Z",
+  "updatedAt": "2026-10-10T14:09:48.981Z",
   "schedule": {
     "Monday": [
       {
@@ -242,6 +242,13 @@
         "image_url": "/wp-content/uploads/2020/10/75199.jpg",
         "time": "11:30",
         "title_en": "Detective Conan"
+      },
+      {
+        "title": "Paw and Palaces",
+        "page": "paw-and-palaces",
+        "image_url": "",
+        "time": "11:30",
+        "title_en": "Paw & Palaces"
       },
       {
         "title": "Romelia Senki",
