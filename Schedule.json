@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T14:09:48.981Z",
+  "updatedAt": "2026-10-10T18:40:14.257Z",
   "schedule": {
     "Monday": [
       {
@@ -272,13 +272,6 @@
         "title_en": "A Wild Last Boss Appeared!"
       },
       {
-        "title": "Kyoufu Collector",
-        "page": "kyoufu-collector",
-        "image_url": "/wp-content/uploads/2026/10/160122.jpg",
-        "time": "14:45",
-        "title_en": "HORROR COLLECTOR"
-      },
-      {
         "title": "Black Clover",
         "page": "black-clover",
         "image_url": "/wp-content/uploads/2020/10/88336.jpg",
@@ -305,6 +298,13 @@
         "image_url": "/wp-content/uploads/2026/10/160106.jpg",
         "time": "16:30",
         "title_en": "Magical Explorer"
+      },
+      {
+        "title": "Kyoufu Collector",
+        "page": "kyoufu-collector",
+        "image_url": "/wp-content/uploads/2026/10/160122.jpg",
+        "time": "17:15",
+        "title_en": "HORROR COLLECTOR"
       },
       {
         "title": "Kashita Maryoku wa Revo Barai de Kyousei Choushuu",
