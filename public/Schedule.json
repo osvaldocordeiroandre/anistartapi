@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T18:40:14.257Z",
+  "updatedAt": "2026-10-12T18:10:47.406Z",
   "schedule": {
     "Monday": [
       {
@@ -103,6 +103,13 @@
         "image_url": "/wp-content/uploads/2026/10/160406.jpg",
         "time": "13:30",
         "title_en": "Tantei wa Mou, Shindeiru. S2"
+      },
+      {
+        "title": "Paw and Palaces",
+        "page": "paw-and-palaces",
+        "image_url": "",
+        "time": "14:30",
+        "title_en": "Paw & Palaces"
       },
       {
         "title": "Magic Knight Rayearth (2026)",
@@ -242,13 +249,6 @@
         "image_url": "/wp-content/uploads/2020/10/75199.jpg",
         "time": "11:30",
         "title_en": "Detective Conan"
-      },
-      {
-        "title": "Paw and Palaces",
-        "page": "paw-and-palaces",
-        "image_url": "",
-        "time": "11:30",
-        "title_en": "Paw & Palaces"
       },
       {
         "title": "Romelia Senki",
