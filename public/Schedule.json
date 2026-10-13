@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T18:10:47.406Z",
+  "updatedAt": "2026-10-13T20:42:33.151Z",
   "schedule": {
     "Monday": [
       {
@@ -68,18 +68,18 @@
         "title_en": "Chitose Is in the Ramune Bottle"
       },
       {
-        "title": "Dark Machine - The Animation",
-        "page": "",
-        "image_url": "",
-        "time": "16:45",
-        "title_en": "DARK MACHINE THE ANIMATION"
-      },
-      {
         "title": "Sora wa Akai Kawa no Hotori",
         "page": "sora-wa-akai-kawa-no-hotori",
         "image_url": "/wp-content/uploads/2026/07/158138.jpg",
         "time": "17:30",
         "title_en": "Red River"
+      },
+      {
+        "title": "Dark Machine - The Animation",
+        "page": "dark-machine-the-animation",
+        "image_url": "",
+        "time": "18:15",
+        "title_en": "DARK MACHINE THE ANIMATION"
       }
     ],
     "Wednesday": [
